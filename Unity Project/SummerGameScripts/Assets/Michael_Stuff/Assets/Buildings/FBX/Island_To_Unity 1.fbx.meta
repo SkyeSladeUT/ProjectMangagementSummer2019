@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: fd0e6fbda68e7e346a536aab0f21a7bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cliff_border_front_geo
+    100002: Cliff_border_Side_geo
+    100004: cliffs_mansion_geo
+    100006: front_beach_geo
+    100008: Hills_main_geo
+    100010: Island_geo
+    100012: //RootNode
+    100014: Island_to_Unity:persp2
+    100016: main_island_grass_geo
+    100018: Mid_beach_geo
+    100020: Moon_cliff_front
+    100022: Moon_cliff_Mid
+    100024: Moon_cliff_Rear
+    100026: Moon_pillar_geo
+    100028: Ocean_geo
+    100030: Ramp_geo
+    100032: Rear_beach_geo
+    100034: Rear_island_geo
+    100036: Rocks_ocean_geo
+    100038: Sewer_cliff_L_geo
+    100040: Sewer_cliff_R_geo
+    100042: Side_island_geo
+    400000: Cliff_border_front_geo
+    400002: Cliff_border_Side_geo
+    400004: cliffs_mansion_geo
+    400006: front_beach_geo
+    400008: Hills_main_geo
+    400010: Island_geo
+    400012: //RootNode
+    400014: Island_to_Unity:persp2
+    400016: main_island_grass_geo
+    400018: Mid_beach_geo
+    400020: Moon_cliff_front
+    400022: Moon_cliff_Mid
+    400024: Moon_cliff_Rear
+    400026: Moon_pillar_geo
+    400028: Ocean_geo
+    400030: Ramp_geo
+    400032: Rear_beach_geo
+    400034: Rear_island_geo
+    400036: Rocks_ocean_geo
+    400038: Sewer_cliff_L_geo
+    400040: Sewer_cliff_R_geo
+    400042: Side_island_geo
+    2000000: Island_to_Unity:persp2
+    2100000: Cliff_sewer_border_2
+    2100002: Cliff_boarder
+    2100004: Island_compiled_Cliffs_Cliff_moon_texture
+    2100006: Island_compiled_Island_compiled_Border_cliffs
+    2100008: Island_to_Unity_Island_compiled_Island1_Island_lambert2
+    2100010: Island_to_Unity_Island_compiled_Island1_Island_Beach
+    2100012: Island_to_Unity_Island_compiled_Island1_Island_Grass
+    2100014: Island_to_Unity_ramp_Ramp
+    2300000: Cliff_border_front_geo
+    2300002: Cliff_border_Side_geo
+    2300004: cliffs_mansion_geo
+    2300006: front_beach_geo
+    2300008: Hills_main_geo
+    2300010: main_island_grass_geo
+    2300012: Mid_beach_geo
+    2300014: Moon_cliff_front
+    2300016: Moon_cliff_Mid
+    2300018: Moon_cliff_Rear
+    2300020: Moon_pillar_geo
+    2300022: Ocean_geo
+    2300024: Ramp_geo
+    2300026: Rear_beach_geo
+    2300028: Rear_island_geo
+    2300030: Rocks_ocean_geo
+    2300032: Sewer_cliff_L_geo
+    2300034: Sewer_cliff_R_geo
+    2300036: Side_island_geo
+    3300000: Cliff_border_front_geo
+    3300002: Cliff_border_Side_geo
+    3300004: cliffs_mansion_geo
+    3300006: front_beach_geo
+    3300008: Hills_main_geo
+    3300010: main_island_grass_geo
+    3300012: Mid_beach_geo
+    3300014: Moon_cliff_front
+    3300016: Moon_cliff_Mid
+    3300018: Moon_cliff_Rear
+    3300020: Moon_pillar_geo
+    3300022: Ocean_geo
+    3300024: Ramp_geo
+    3300026: Rear_beach_geo
+    3300028: Rear_island_geo
+    3300030: Rocks_ocean_geo
+    3300032: Sewer_cliff_L_geo
+    3300034: Sewer_cliff_R_geo
+    3300036: Side_island_geo
+    4300000: Sewer_cliff_L_geo
+    4300002: Sewer_cliff_R_geo
+    4300004: Cliff_border_Side_geo
+    4300006: Cliff_border_front_geo
+    4300008: Moon_pillar_geo
+    4300010: Moon_cliff_Mid
+    4300012: Moon_cliff_front
+    4300014: Moon_cliff_Rear
+    4300016: cliffs_mansion_geo
+    4300018: Rocks_ocean_geo
+    4300020: Ocean_geo
+    4300022: front_beach_geo
+    4300024: main_island_grass_geo
+    4300026: Side_island_geo
+    4300028: Rear_island_geo
+    4300030: Hills_main_geo
+    4300032: Mid_beach_geo
+    4300034: Rear_beach_geo
+    4300036: Ramp_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

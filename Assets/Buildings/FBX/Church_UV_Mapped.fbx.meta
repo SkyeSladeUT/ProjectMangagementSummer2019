@@ -4,11 +4,69 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Church_geo
+    100004: polySurface1
+    100006: polySurface10
+    100008: polySurface11
+    100010: polySurface12
+    100012: polySurface12 1
+    100014: polySurface2
+    100016: polySurface3
+    100018: polySurface4
+    100020: polySurface5
+    100022: polySurface6
+    100024: polySurface7
+    100026: polySurface8
+    100028: polySurface9
+    100030: transform1
+    100032: transform10
+    100034: transform11
+    100036: transform12
+    100038: transform13
+    100040: transform2
+    100042: transform3
+    100044: transform4
+    100046: transform5
+    100048: transform6
+    100050: transform7
+    100052: transform8
+    100054: transform9
     400000: //RootNode
+    400002: Church_geo
+    400004: polySurface1
+    400006: polySurface10
+    400008: polySurface11
+    400010: polySurface12
+    400012: polySurface12 1
+    400014: polySurface2
+    400016: polySurface3
+    400018: polySurface4
+    400020: polySurface5
+    400022: polySurface6
+    400024: polySurface7
+    400026: polySurface8
+    400028: polySurface9
+    400030: transform1
+    400032: transform10
+    400034: transform11
+    400036: transform12
+    400038: transform13
+    400040: transform2
+    400042: transform3
+    400044: transform4
+    400046: transform5
+    400048: transform6
+    400050: transform7
+    400052: transform8
+    400054: transform9
     2100000: lambert1
+    2100002: lambert2
     2300000: //RootNode
+    2300002: polySurface12
     3300000: //RootNode
+    3300002: polySurface12
     4300000: Church_geo
+    4300002: polySurface12
   externalObjects: {}
   materials:
     importMaterials: 1

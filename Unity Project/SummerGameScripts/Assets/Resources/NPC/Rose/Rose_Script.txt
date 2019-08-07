@@ -1,3 +1,4 @@
+
 0 - Call Over#
 Rose@
  ^
@@ -14,8 +15,12 @@ Carl told me there would be a new fruit shipment today!+
 I am going to make an apple pie today but my hips don't work like they use to..."<
 
 Me@
- ^
-~Sure Rose!>
+4^
+~Sure Rose!<
+
+Rose@#
+4^
+~Thanks, I'll be waiting at my house.>
 
 2 - Give Rose Apples#
 Me@
@@ -25,4 +30,26 @@ Me@
 Rose@
  ^
 ~Thanks Sonny.>
+
+3 - Commotion at Docks#
+???@
+ ^
+~CARL IS FINE! There is nothing to worry about, you are waisting your time!<
+
+Rose@
+ ^
+I think somethings happening outside. You should check it out.<
+
+Me@
+4^
+~I will. See you later Rose.>
+
+4 - After delivering Apples#
+Rose@
+U^
+~I am so worried for Kirk. You know I adopted him right? Poor guy, his own family just left him...+
+N^
+watch after him will you?>
+
 %
+

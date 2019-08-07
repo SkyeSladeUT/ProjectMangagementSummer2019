@@ -16,7 +16,7 @@ public class dialouge_script : MonoBehaviour
     private string _text_to_display;
     public ActionObject EndDialouge;
     public UnityEvent OnInteract, OnChoiceSelectStart;
-    public UnityEvent Mad, Happy, Surprised, Upset, Scared, Normal, HandOverItem, GetItem, StopConv;
+    public UnityEvent Mad, Happy, Surprised, Upset, Scared, Thinking, Normal, HandOverItem, GetItem, StopConv, Nod;
     private char _choice_char;
     public BoolData choiceselection;
     public List<StringData> ChoiceOptions;
@@ -34,14 +34,16 @@ public class dialouge_script : MonoBehaviour
         Dialouge_Text.text = "";
         Character_Text.text = "";
         Dialouge_Object.SetActive(false);
-        Debug.Log(character.Script.Dialouge.Count);
     }
 
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
+        {
             inRange = true;
+            //Debug.Log("InRange");
+        }
     }
 
     private void OnTriggerExit(Collider other)
@@ -62,7 +64,6 @@ public class dialouge_script : MonoBehaviour
 
     public void StartConv()
     {
-        Debug.Log("Start");
         if (!ConvStart && !choiceselection.value){
             ConvStart = true;
         Dialouge_Object.SetActive(true);
@@ -186,7 +187,6 @@ public class dialouge_script : MonoBehaviour
         Number_Of_Choices.value = 0;
         for (int i = 0; i < 4; i++)
         {
-            Debug.Log(character.Script.Dialouge[_conNum][paragraph].Count);
             if(i > character.Script.Dialouge[_conNum][paragraph].Count-1)
             {
                 ChoiceOptions[i].value = "";
@@ -208,7 +208,6 @@ public class dialouge_script : MonoBehaviour
     private void RunReaction()
     {
         //Debug.Log("Reaction");
-        //Debug.Log(character.Script.Reactions[_conNum][paragraph][line][1]);
         if (line >= character.Script.Reactions[_conNum][paragraph].Count)
             return;
         switch (character.Script.Reactions[_conNum][paragraph][line][1])
@@ -231,6 +230,9 @@ public class dialouge_script : MonoBehaviour
             case 'U':
                 Upset.Invoke();
                 break;
+            case 'T':
+                Thinking.Invoke();
+                break;
             case '1':
                 HandOverItem.Invoke();
                 break;
@@ -241,10 +243,24 @@ public class dialouge_script : MonoBehaviour
                 ConvStart = false;
                 StopConv.Invoke();
                 break;
+            case '4' :
+                Nod.Invoke();
+                break;
             default:
                 //Debug.Log("None");
                 break;
             
         }
+    }
+
+    public IEnumerator Nodding()
+    {
+        yield return new WaitUntil(() => Interact.KeyDown());
+        Nod.Invoke();
+    }
+
+    public void NodHead()
+    {
+        Nod.Invoke();
     }
 }

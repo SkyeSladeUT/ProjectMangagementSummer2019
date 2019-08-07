@@ -18,9 +18,9 @@ Cafe Owner@
 ~I don't know much about what's been happening, but something that's always suspicious is Scruffles+
  ^
 I haven't seen him around for a few months, probably stuck in his lighthouse trying to invent some new synthetic food.+
- ^
+T^
 Maybe he's been creating whatever infected Carl...+
- ^
+N^
 In fact, if I had to guess whose been behind it, it would be Scruffles.<
 
 Me@
@@ -84,11 +84,9 @@ Cafe Owner@
 5 - knocking over the bus boy#
 
 Cafe Owner@
- ^
-~Wha... Hey____ I thought I told you to not make a scene.+
- ^
-Ughh... Of course I have to clean up.+
- ^
+M^
+~Wha!? Now I've got to clean up.+
+N^
 I'll be right there.>
 
 6 - cleaning up the mess#
@@ -116,9 +114,9 @@ Cafe Owner@
 ~I don't know much about what's been happening, but something that's always suspicious is Scruffles+
  ^
 I haven't seen him around for a few months, probably stuck in his lighthouse trying to invent some new synthetic food.+
- ^
+T^
 Maybe he's been creating whatever infected Carl...+
- ^
+N^
 In fact, if I had to guess whose been behind it, it would be Scruffles.<
 
 Me@
@@ -152,6 +150,38 @@ Me@
 Cafe Owner@
  ^
 ~Of course>
+
+11 - Ask About Ice Cream#
+Me@
+ ^
+~Hey, weren't you just at the Ice Cream Shop?<
+
+Cafe Owner@
+ ^
+~No that was my brother Leroy.<
+
+Me@
+ ^
+~Hmmm...<
+
+Cafe Owner@
+ ^
+~Yeah, I get that a lot.>
+
+12 - Ask About Library#
+Me@
+ ^
+~How did you get here from the library so quickly?<
+
+Cafe Owner@
+ ^
+~I wasn't at the library... wait you must be talking about my brother Elron.<
+
+Me@
+ ^
+~Yeah, sure...>
+
+
 
 
 %

@@ -18,9 +18,9 @@ public class Character_Movement_JoystickConf : MonoBehaviour
     private bool CRRunning = false;
     public TransformData target;
     public BoolData ReachedDestination;
-    public Vector3Data Load_Destination;
-    public QuaternionData Rotation_Destination;
-    private Vector3 _destination;
+    public Vector3Data Load_Destination, Room_Load_Pos;
+    public QuaternionData Rotation_Destination, Room_Load_Rot;
+    private Vector3 _destination, ypos;
  
     void Start()
     {
@@ -32,12 +32,15 @@ public class Character_Movement_JoystickConf : MonoBehaviour
 
     private void FixedUpdate()
     {
-            _current = player.Current;
-            if(!_controller.isGrounded)
-                _current.Movement.y -= _current.Gravity.Value * Time.deltaTime;
-            _current.Move(transform, _controller, MainCamera);
+        _current = player.Current;
+        _current.Move(transform, _controller, MainCamera);
     }
 
+    public void Transport(Transform transformpos)
+    {
+        transform.position = transformpos.position;
+        transform.rotation = transformpos.rotation;
+    }
 
     public void DisableCC()
     {
@@ -75,6 +78,12 @@ public class Character_Movement_JoystickConf : MonoBehaviour
     {
         transform.position = Load_Destination.vector;
         transform.rotation = Rotation_Destination.rotation;
+    }
+
+    public void LoadRoomDest()
+    {
+        transform.position = Room_Load_Pos.vector;
+        transform.rotation = Room_Load_Rot.rotation;
     }
 
     public IEnumerator Walk_Towards(float speed)

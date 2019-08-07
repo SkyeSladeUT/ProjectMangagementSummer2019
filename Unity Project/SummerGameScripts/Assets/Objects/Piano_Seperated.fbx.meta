@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: a9f03a230c29bd94d9e56efa2d81fcf8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Key11
+    100002: Key12
+    100004: Key13
+    100006: Key14
+    100008: Key15
+    100010: Key16
+    100012: Key17
+    100014: Key18
+    100016: Key19
+    100018: Key20
+    100020: Key21
+    100022: Key22
+    100024: Key23
+    100026: Key24
+    100028: Key25
+    100030: Key26
+    100032: Key27
+    100034: Key28
+    100036: Key29
+    100038: Key30
+    100040: Key31
+    100042: Key32
+    100044: Key33
+    100046: Key34
+    100048: Piano 1
+    100050: //RootNode
+    400000: Key11
+    400002: Key12
+    400004: Key13
+    400006: Key14
+    400008: Key15
+    400010: Key16
+    400012: Key17
+    400014: Key18
+    400016: Key19
+    400018: Key20
+    400020: Key21
+    400022: Key22
+    400024: Key23
+    400026: Key24
+    400028: Key25
+    400030: Key26
+    400032: Key27
+    400034: Key28
+    400036: Key29
+    400038: Key30
+    400040: Key31
+    400042: Key32
+    400044: Key33
+    400046: Key34
+    400048: Piano 1
+    400050: //RootNode
+    2100000: Piano_black_keys
+    2100002: PIano_White_Keys
+    2100004: Piano_pedals
+    2100006: PIano
+    2300000: Key11
+    2300002: Key12
+    2300004: Key13
+    2300006: Key14
+    2300008: Key15
+    2300010: Key16
+    2300012: Key17
+    2300014: Key18
+    2300016: Key19
+    2300018: Key20
+    2300020: Key21
+    2300022: Key22
+    2300024: Key23
+    2300026: Key24
+    2300028: Key25
+    2300030: Key26
+    2300032: Key27
+    2300034: Key28
+    2300036: Key29
+    2300038: Key30
+    2300040: Key31
+    2300042: Key32
+    2300044: Key33
+    2300046: Key34
+    2300048: Piano 1
+    3300000: Key11
+    3300002: Key12
+    3300004: Key13
+    3300006: Key14
+    3300008: Key15
+    3300010: Key16
+    3300012: Key17
+    3300014: Key18
+    3300016: Key19
+    3300018: Key20
+    3300020: Key21
+    3300022: Key22
+    3300024: Key23
+    3300026: Key24
+    3300028: Key25
+    3300030: Key26
+    3300032: Key27
+    3300034: Key28
+    3300036: Key29
+    3300038: Key30
+    3300040: Key31
+    3300042: Key32
+    3300044: Key33
+    3300046: Key34
+    3300048: Piano 1
+    4300000: Key11
+    4300002: Key12
+    4300004: Key13
+    4300006: Key14
+    4300008: Key15
+    4300010: Key16
+    4300012: Key17
+    4300014: Key18
+    4300016: Key19
+    4300018: Key20
+    4300020: Key21
+    4300022: Key22
+    4300024: Key23
+    4300026: Key24
+    4300028: Key25
+    4300030: Key26
+    4300032: Key27
+    4300034: Key28
+    4300036: Key29
+    4300038: Key30
+    4300040: Key31
+    4300042: Key32
+    4300044: Key33
+    4300046: Key34
+    4300048: Piano
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

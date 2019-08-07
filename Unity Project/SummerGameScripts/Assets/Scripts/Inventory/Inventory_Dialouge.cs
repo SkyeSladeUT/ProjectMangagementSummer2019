@@ -10,7 +10,7 @@ public class Inventory_Dialouge : MonoBehaviour
     public Text Dialouge_Text, Character_Text;
     public GameObject Dialouge_Object;
     public KeyCodeData Interact;
-    private bool ConvStart, SpeedUp, inRange;
+    private bool ConvStart, SpeedUp, inRange, cont;
     private int _char;
     private string _text_to_display;
     public UnityEvent OnInteract, OnEnd;
@@ -72,6 +72,7 @@ public class Inventory_Dialouge : MonoBehaviour
 
     public IEnumerator ScrollText()
     {
+        cont = false;
         _char = 0;
         Character_Text.text = "";
         Dialouge_Text.text = "";
@@ -93,7 +94,16 @@ public class Inventory_Dialouge : MonoBehaviour
                 yield return new WaitForSeconds(.1f);
             }    
         }
-        yield return new WaitUntil(Interact.KeyDown);
+
+        while (!cont)
+        {
+            if (Interact.KeyDown() || Input.GetMouseButtonDown(0))
+            {
+                cont = true;
+            }
+            yield return new WaitForFixedUpdate();
+        }
+        //yield return new WaitUntil(() => cont);
         ConvStart = false;
         SpeedUp = false;
         Dialouge_Text.text = "";

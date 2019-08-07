@@ -16,9 +16,15 @@ public class Sprint_script : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if(Sprint_Keys.KeyDown() && inControl.value && Can_Run.value)
+        if (Sprint_Keys.KeyDown() && inControl.value && Can_Run.value)
+        {
+            Anim.ResetTrigger("Walk_Control");
             Anim.SetTrigger("Run_Control");
+        }
         else if (Sprint_Keys.KeyUp() && inControl.value && Can_Run.value)
+        {
+            Anim.ResetTrigger("Run_Control");
             Anim.SetTrigger("Walk_Control");
+        }
     }
 }

@@ -32,7 +32,7 @@ public class Interact_with_object : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            //Debug.Log("inRange");
+            Debug.Log("inRange");
             _inRange = true;
         }
     }

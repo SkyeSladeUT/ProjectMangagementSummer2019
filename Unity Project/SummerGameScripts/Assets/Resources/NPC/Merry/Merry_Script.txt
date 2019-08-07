@@ -18,10 +18,8 @@ Me@
 ~Of course I will Madam Mayor, where was the last place you could have left them?<
 
 Mayor Merryann@
- ^
-~Let's see, well I had ice cream for breakfast... then I went to the library after.+
- ^ 
-Try those two places. I'll sit here and think some more...<
+T^
+~Hmmm... I was walking through the graveyard this morning, check there first while I keep thinking...<
 
 Me@
  ^
@@ -61,9 +59,7 @@ Mayor Merryann@
 
 Me@
  ^
-~Well, that's good, I guess.+
-3^
- >
+~Well, that's good, I guess.>
 
 3 - No Thanks#
 Me@
@@ -137,9 +133,7 @@ I'll do my best, I wont let you down.<
 
 Mayor Merryann@
  ^
-Thank you! I knew I could count on you, I'll be herer, trying to help too.+
-3^
- >
+Thank you! I knew I could count on you, I'll be here trying to help too.>
 
 10 - Save it yourself#
 Me@
@@ -147,7 +141,7 @@ Me@
 ~Why don't you just save it yourself.<
 
 Mayor Merryann@
- ^
+F^
 ~And you call yourself a detective! Go to moon!>
 
 11 - inside house after first conv#
@@ -199,5 +193,56 @@ Me@
 Mayor Merryann@
  ^
 ~Of course, I'll be here if you need help.>
+
+16 - In church#
+Mayor Merryann@
+ ^
+~Why, hello detective, how are you?<
+
+Me@
+ ^
+~I'm doing fine, but the island, not so much.<
+
+Mayor Merryann@
+ ^
+~Yeah, I know. That's why I'm in here, praying that things start to get better<
+
+Me@
+ ^
+~Well I'm going to leave you to it. I need to look around some more.>
+
+17 - leaving church#
+Mayor Merryann@
+ ^
+~What in the moon's name is that?! The church has a secret set of stairs. I must be seeing things.+
+ ^
+I think it's time for me to head home and take a rest. Detective, feel free to stop by.>
+
+18 - Mad Merry#
+Mayor Merryann@
+M^
+~...>
+
+19 - Checked Graveyard#
+Me@
+ ^
+~I didn't see any keys there, where else did you go today?<
+
+Mayor Merryann@
+ ^
+~Oh whoops, it was yesterday when I was walking through there.<
+
+Me@
+ ^
+~...<
+
+Mayor Merryann@
+ ^
+~Oh yeah! I had ice cream for breakfast... then I went to read at the library after. Try those two places.<
+
+Me@
+ ^
+~Ok, I'll check them out.>
+
 
 %

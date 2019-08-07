@@ -11,6 +11,8 @@ TagManager:
   - Puzzle
   - ViewSpot
   - Pushable
+  - Material_Change
+  - Block
   layers:
   - Default
   - TransparentFX
@@ -27,9 +29,9 @@ TagManager:
   - ParticleEffect
   - IgnoreNavMesh
   - Slider
-  - 
-  - 
-  - 
+  - Change_Mat
+  - Blocks
+  - Ligthing
   - 
   - 
   - 

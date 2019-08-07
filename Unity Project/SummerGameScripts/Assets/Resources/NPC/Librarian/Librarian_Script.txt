@@ -1,0 +1,41 @@
+0 - Conv#
+Me@
+ ^
+~Hey, have you noticed anythi....<
+
+Librarian@
+ ^
+~Shhhh... no talking.>
+
+1 - Ice Cream#
+Me@
+ ^
+~Hey, weren't you just at the Ice Cream Shop?<
+
+Librarian@
+ ^
+~No that was my brother Leroy.<
+
+Me@
+ ^
+~Hmmm...<
+
+Librarian@
+ ^
+~Yeah, I get that a lot.>
+
+2 - Cafe#
+
+Me@
+ ^
+~Aren't you also working at the Cafe?<
+
+Librarian@
+ ^
+~Nope, my brother Esteban runs the Cafe.<
+
+Me@
+ ^
+~I see...>
+
+%

@@ -15,6 +15,7 @@ public class StringData : ScriptableObject
     {
         prevvalue = value;
         value = name;
+        Debug.Log("Set String: " + name);
     }
 
     public void AddTo(string addstring)

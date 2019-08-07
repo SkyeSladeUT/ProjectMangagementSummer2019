@@ -1,0 +1,37 @@
+0 - Read_Diary#
+ @
+ ^
+~This must be Steve's diary{<
+
+~Entry 1+
+Entry 2+
+Entry 3+
+Stop Reading>
+
+1 - Entry 1#
+ @
+ ^
+~...Entry 1>
+
+2 - Entry 2#
+ @
+ ^
+~...Entry 2>
+
+3 - Entry 3#
+ @
+ ^
+~So today I found Kirk's laptop but unfortunately it was password locked.+
+ ^
+Luckily, I have a way of getting information from Kirk. Turns out his password was D0ct3rK!rk. What a dork+
+ ^
+All I found on the laptop was more proof that Kirk is a huge nerd and spends too much time around Brad.>
+ 
+
+4 - Stop Reading#
+ @
+ ^
+~You put the book back.>
+
+%
+

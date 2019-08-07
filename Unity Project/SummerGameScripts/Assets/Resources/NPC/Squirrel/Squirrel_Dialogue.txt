@@ -1,0 +1,7 @@
+0 - Bob#
+Bob@
+ ^
+~Hi, have you read the island’s history? It’s quite interesting. I think you can find some information at the Mayor’s Mansion>
+%
+
+

@@ -1,0 +1,81 @@
+0 - Clinic with Kirk#
+Dr. Brad@
+ ^
+~I have some very bad news...<
+Kirk@
+ ^
+~So bad!<
+Me@
+ ^
+~Give it to me straight, Doctor.<
+Dr. Brad@
+ ^
+~Carl has a very rare, man-made, virus.<
+Me@
+ ^
+~!!!<
+Kirk@
+U^
+~Ahhh! The truth it hurts!<
+Me@
+ ^
+~What you're saying is that someone DID this to Carl?<
+Kirk@
+U^
+~Who would do such a thing?<
+Dr. Brad@
+ ^
+~Unfortunately, it looks that way.<
+Kirk@
+U^
+~I am so spooked!<
+Me@
+ ^
+~I have seen a shift on the island, I knew something was not right.<
+Dr. Brad@
+ ^
+~Well, I have to stay here and run more tests on Carl.<
+Kirk@
+N^
+~I will help! I'm here to assist.<
+Dr. Brad@
+ ^
+~Will you investigate around the island.<
+ @
+4^
+~ >
+
+1 - Clinic without Kirk#
+Dr. Brad@
+ ^
+~I have some very bad news...<
+Me@
+ ^
+~Give it to me straight, Doctor.<
+Dr. Brad@
+ ^
+~Carl has a very rare, man-made, virus.<
+Me@
+ ^
+~!!!<
+Me@
+ ^
+~What you're saying is that someone DID this to Carl?<
+Dr. Brad@
+ ^
+~Unfortunately, it looks that way.<
+Me@
+ ^
+~I have seen a shift on the island, I knew something was not right.<
+Dr. Brad@
+ ^
+~Well, I have to stay here and run more tests on Carl.<
+Dr. Brad@
+ ^
+~Will you investigate around the island.<
+ @
+4^
+~ >
+
+
+

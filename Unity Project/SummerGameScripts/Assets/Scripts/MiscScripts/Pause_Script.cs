@@ -5,9 +5,10 @@ using UnityEngine.Events;
 
 public class Pause_Script : MonoBehaviour
 {
-    public UnityEvent OnPauseConv, OnPause, OnUnPause, OnInventoryEnter, OnInventoryExit;
+    public UnityEvent OnPauseConv, OnUnPauseConv, OnInventoryEnter, OnInventoryExit;
     public KeyCodeData Pause_Keys, Inventory_Keys;
     private bool paused, inventory;
+    public BoolData In_Control;
 
     private void Start()
     {
@@ -36,7 +37,7 @@ public class Pause_Script : MonoBehaviour
     
     private void FixedUpdate()
     {
-        if (Inventory_Keys.KeyDown())
+        if (Inventory_Keys.KeyDown() && In_Control.value)
         {
             if (!inventory)
             {
@@ -54,5 +55,10 @@ public class Pause_Script : MonoBehaviour
     public void ConversationPause()
     {
         OnPauseConv.Invoke();
+    }
+
+    public void UnPauseConv()
+    {
+        OnUnPauseConv.Invoke();
     }
 }

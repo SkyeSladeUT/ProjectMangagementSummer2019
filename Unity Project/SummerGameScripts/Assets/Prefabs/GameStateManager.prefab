@@ -66,6 +66,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Sprint_Keys: {fileID: 11400000, guid: 6848dc88e2a625443ab97dc727414765, type: 2}
   inControl: {fileID: 11400000, guid: af5ae53fd4011044f9cd7686627ea32d, type: 2}
+  Can_Run: {fileID: 11400000, guid: 47f68316034de6d4c95b47c727dc2434, type: 2}
 --- !u!114 &1200098740948737825
 MonoBehaviour:
   m_ObjectHideFlags: 0

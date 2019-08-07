@@ -72,12 +72,12 @@ public class Inventory : ScriptableObject
         
         if (item.itemType == "Object")
         {
-            Debug.Log("Check Object");
+            //Debug.Log("Check Object");
             foreach (var OBJ in Objects.objList)
             {
                 if (OBJ == item)
                 {
-                    Debug.Log("HasItem");
+                    //Debug.Log("HasItem");
                     hasItem.value = true;
                     return;
                 }
@@ -88,7 +88,7 @@ public class Inventory : ScriptableObject
         }
         else if (item.itemType == "Note")
         {
-            Debug.Log("Check Note");
+            //Debug.Log("Check Note");
             foreach (var note in Notes.objList)
             {
                 if (note == item)
@@ -108,7 +108,7 @@ public class Inventory : ScriptableObject
             {
                 if (key == item)
                 {
-                    Debug.Log("HasItem");
+                    //Debug.Log("HasItem");
                     hasItem.value = true;
                     return;
                 }
@@ -118,7 +118,7 @@ public class Inventory : ScriptableObject
         }
         else if (item.itemType == "Hint")
         {
-            Debug.Log("Check Hint");
+            //Debug.Log("Check Hint");
             foreach (var hint in DetectiveNotes.objList)
             {
                 if (hint == item)
@@ -136,6 +136,69 @@ public class Inventory : ScriptableObject
             hasItem.value = false;
         }
        
+    }
+
+    public bool HasItemReturn(Item item)
+    {
+        if (item.itemType == "Object")
+        {
+            foreach (var OBJ in Objects.objList)
+            {
+                if (OBJ == item)
+                {
+                    Debug.Log("HasItem");
+                    return true;
+                }
+                
+            }
+
+            return false;
+        }
+        else if (item.itemType == "Note")
+        {
+            foreach (var note in Notes.objList)
+            {
+                if (note == item)
+                {
+                    Debug.Log("HasItem");
+                    return true;
+                }
+                
+            }
+
+            return false;
+        }
+        else if (item.itemType == "Key")
+        {
+            foreach (var key in Keys.objList)
+            {
+                if (key == item)
+                {
+                    Debug.Log("HasItem");
+                    return true;
+                }
+            }
+
+            return false;
+        }
+        else if (item.itemType == "Hint")
+        {
+            Debug.Log("Check Hint");
+            foreach (var hint in DetectiveNotes.objList)
+            {
+                if (hint == item)
+                {
+                    return true;
+                }
+                
+            }
+
+            return false;
+        }
+        else
+        {
+            return false;
+        }
     }
     
     

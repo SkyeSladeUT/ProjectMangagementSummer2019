@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18a9e4362b53bcc44ba18ae7dfe3a2d3, type: 3}
   m_Name: 'Vial #1'
   m_EditorClassIdentifier: 
-  itemName: 'Vial #1'
+  itemName: 
   itemDescription: Might be poison, Might not be poison. Who knows?
   itemType: Object
   inventoryImage: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}

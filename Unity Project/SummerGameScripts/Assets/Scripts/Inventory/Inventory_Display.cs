@@ -64,7 +64,7 @@ public class Inventory_Display : MonoBehaviour
             {
                 item = ItemList[i] as Item;
                 images[i].sprite = item.inventoryImage;
-                Debug.Log(item.inventoryImage.name);
+                //Debug.Log(item.inventoryImage.name);
                 images[i].color = Color.white;
             }
     }

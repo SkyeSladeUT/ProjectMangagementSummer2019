@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bd59d64cbad637441975c8086c3d667a
+guid: 724fd242fc16ef840a80267fa915c0b9
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -9,8 +9,9 @@ ModelImporter:
     400000: Door
     400002: Frame
     400004: //RootNode
-    2100000: lambert1
-    2100002: lambert2
+    2100000: Door_Frame
+    2100002: Door1
+    2100004: Door_Knob
     2300000: Door
     2300002: Frame
     3300000: Door

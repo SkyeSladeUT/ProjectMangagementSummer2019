@@ -1,0 +1,63 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                }
+            },
+            "shader": "pbr-metal-rough-with-alpha-blending",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Chest_Main_Material": {
+            "shader": "Main shader"
+        },
+        "Chest_Trim": {
+            "shader": "Main shader"
+        },
+        "Clock1": {
+            "shader": "Main shader"
+        },
+        "Doctors_note": {
+            "shader": "Main shader"
+        },
+        "Light_Base": {
+            "shader": "Main shader"
+        },
+        "Light_Shade": {
+            "shader": "Main shader"
+        },
+        "Lightbulb": {
+            "shader": "Main shader"
+        },
+        "Metal_shelves": {
+            "shader": "Main shader"
+        },
+        "Register_Lock": {
+            "shader": "Main shader"
+        },
+        "Vial": {
+            "shader": "Main shader"
+        },
+        "Vial_Lid": {
+            "shader": "Main shader"
+        },
+        "cash_Register": {
+            "shader": "Main shader"
+        }
+    }
+}

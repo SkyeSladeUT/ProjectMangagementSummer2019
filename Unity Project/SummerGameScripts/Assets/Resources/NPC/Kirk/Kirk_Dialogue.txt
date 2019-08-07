@@ -2,7 +2,7 @@
 Kirk@
  ^
 ~Steve was making fun of me for following Brad around. He even took some papers of mine… + 
- ^
+U^
 So now I’m just studying here, so I don’t bother him with my presence...{<
 
 ~What you studying?+
@@ -12,7 +12,7 @@ Leave>
 
 1 - Studying#
 Me@
- ^
+N^
 ~What are you studying? Isn't school out right now?<
 
 Kirk@
@@ -23,8 +23,18 @@ I just want to be able to help out Brad whenever I can.>
 
 2 - Stolen Papers#
 Me@
- ^
-~What were on the papers that Steve took?<
+N^
+~Steve took your papers?<
+
+Kirk@
+U^
+~Steve is so mean to me! He took some important documents of mine.... I wish Doctor Brad was there to protect me,+
+H^
+isn’t the Doctor the best?<
+
+Me@
+N^
+~What were the papers that Steve took?<
 
 Kirk@
  ^
@@ -38,7 +48,7 @@ Me@
 
 3 - Brad#
 Me@
- ^
+N^
 ~Have you found out anything about the virus from Brad?<
 
 Kirk@
@@ -53,7 +63,7 @@ Me@
 
 4 - Leave#
 Me@
- ^
+N^
 ~Well, have a good study session, and try to stay away from Steve. I don't need more people hurt.<
 
 Kirk@
@@ -63,5 +73,3 @@ Kirk@
 Steve doesn't dare show his face near the librarian since he 'accidentally' burnt all the new textbooks.>
 
 %
-
-

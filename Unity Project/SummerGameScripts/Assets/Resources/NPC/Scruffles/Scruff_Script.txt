@@ -1,6 +1,6 @@
 0 - first encounter in house#
 Scruffles@
- ^
+A^
 ~MUAHAHAHAHA!!!! I have caught you in my lair… now you can never escape!<
 
 Me@
@@ -8,11 +8,11 @@ Me@
 ~...<
 
 Scruffles@
- ^
+H^
 ~Just kidding! Hello, welcome!<
 
 Me@
- ^
+N^
 ~Oh, I was just about to arrest you for attempted kidnapping.<
 
 Scruffles@
@@ -25,7 +25,7 @@ I mean I am hardly a scientist, just crazy!<
 
 Me@
  ^
-~...
+~...<
 
 Scruffles@
  ^
@@ -48,9 +48,9 @@ I'm hoping that you might be able to help me figure out all the ingredients need
 ~You give the ingredients to Scruffles<
 
 Scruffles@
- ^
+H^
 ~Ohh-la-la! You brought a fun challenge for me?!+
- ^
+N^
 Okay I think I can decipher what you still need.>
 
 

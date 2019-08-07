@@ -1,5 +1,6 @@
 ﻿
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 [CreateAssetMenu(menuName = "Character/Files")]
 public class ReadFile : ScriptableObject
@@ -46,7 +47,6 @@ public class ReadFile : ScriptableObject
           case '%':
             //end script
             _ignore = true;
-            Debug.Log(_conversation.Count);
             return;
           case '~':
             //begin charline
@@ -106,19 +106,19 @@ public class ReadFile : ScriptableObject
         }
       }
     }
-    Debug.Log(_convNum);    //PrintList();
   }
 
   public void PrintList()
   {
     for (int i = 0; i < _conversation.Count; i++)
     {
+      Debug.Log("Conv: " + i);
       for (int j = 0; j < _conversation[i].Count; j++)
       {
-        Debug.Log(_charaConversation[i][j]);
+        Debug.Log("Para: " + i);
         for (int k = 0; k < _conversation[i][j].Count; k++)
         {
-          Debug.Log(_conversation[i][j][k]);
+          Debug.Log(reactionConversation[i][j][k]);
         }   
       }
     }

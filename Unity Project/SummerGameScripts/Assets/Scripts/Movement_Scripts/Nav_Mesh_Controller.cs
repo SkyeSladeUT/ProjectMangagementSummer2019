@@ -11,9 +11,11 @@ public class Nav_Mesh_Controller : MonoBehaviour
     public float walkSpeed, runSpeed;
     public ActionObject ReachDest;
     public TransformData destination;
+    public BoolData ReachedDest;
 
     private void Start()
     {
+        ReachedDest.value = false;
         offset.Set(.05f, .05f, .05f);
         _agent = GetComponent<NavMeshAgent>();
         DisableAgent();
@@ -47,6 +49,7 @@ public class Nav_Mesh_Controller : MonoBehaviour
 
     public void Walk()
     {
+        ReachedDest.value = false;
         if (_agent == null)
         {
             _agent = GetComponent<NavMeshAgent>();
@@ -71,7 +74,7 @@ public class Nav_Mesh_Controller : MonoBehaviour
 
     private IEnumerator GoToDest()
     {
-        while (true)
+        while (!ReachedDest.value)
         {
             _agent.destination = destination.trans.position;
             yield return new WaitForFixedUpdate();

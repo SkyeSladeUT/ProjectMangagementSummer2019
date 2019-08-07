@@ -247,14 +247,14 @@ RectTransform:
   m_GameObject: {fileID: 2389682549908941972}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0654218, y: 1.2454299, z: 1.0889915}
+  m_LocalScale: {x: 1.518226, y: 1.2454299, z: 1.0889915}
   m_Children: []
   m_Father: {fileID: 2389682551058517728}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.000030517578, y: 0.000030517578}
+  m_AnchoredPosition: {x: 22.5, y: 0.000030517578}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2389682549908942697
@@ -328,8 +328,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.585022, y: 1.2265167}
-  m_SizeDelta: {x: 175, y: 35}
+  m_AnchoredPosition: {x: 15.8, y: 1.2265167}
+  m_SizeDelta: {x: 226.1, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2389682550289123955
 CanvasRenderer:
@@ -372,7 +372,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Character
+  m_Text: Mayor Merryann
 --- !u!1 &2389682550576766096
 GameObject:
   m_ObjectHideFlags: 0
@@ -474,14 +474,14 @@ RectTransform:
   m_GameObject: {fileID: 2389682550971632858}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.425, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2389682551058517728}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.000030517578, y: 0.000030517578}
+  m_AnchoredPosition: {x: 22.500011, y: 0.000030517578}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2389682550971632863

@@ -1,0 +1,134 @@
+0 - Outside#
+Slade@
+H^
+~Oh hello detective, I am just browsing around the island for new objects to add into my collection.<
+
+Me@
+N^
+~Collection?
+
+Slade@
+ ^
+Yeah! Collection means an assembly of various items or people... It's a pretty common word.<
+
+Me@
+ ^
+~...>
+
+1 - Church#
+Slade@
+ ^
+~I am just reading this Moon Bible, have you read through it?+
+ ^
+It's so long, I think I might borrow it for a bit. I don't think the Bope will mind<
+
+Me@
+ ^
+~I don't think you should borrow it...<
+
+Slade@
+ ^
+~It's okay.>
+
+2 - Ice Cream#
+Slade@
+U^
+~I was so scared that I counldn't get my ice cream for the day<
+
+Me@
+N^
+~What do you have there?<
+
+Slade@
+H^
+Just some Whip Cream for my ice cream<
+
+Me@
+N^
+~Are you going to pay for that?<
+
+Slade@
+ ^
+~Bye Detective!>
+
+3 - Cafe#
+Slade@
+H^
+~Oh this is so shiny...<
+
+Me@
+N^
+~What are you doing with that fork?<
+
+Slade@
+ ^
+~Just brushing my hair!<
+
+Me@
+ ^
+~That isn't what that is for...>
+
+4 - Library#
+Slade@
+ ^
+~Ohh! More books for my own collection!<
+
+Me@
+ ^
+~Do you have a library card to check that out?<
+
+Slade@
+U^
+~A what?<
+
+Me@
+N^
+~...<
+
+Slade@
+ ^
+~I am busy now, see you later!>
+
+5 - Mansion#
+Slade@
+ ^
+~Hi Detective, you’ve found my collection!<
+Me@
+ ^
+~What is all this?<
+Slade@
+ ^
+~I have collected things from each location on the island sort of as a keepsake. I just love borrowing things…<
+Me@
+ ^
+~I don’t think that is borrowing things, I think that is called stealing.<
+Slade@
+H^
+~To-ma-to, To-mah-to.<
+Me@
+N^
+~….<
+Slade@
+ ^
+~There is only ONE place I haven’t been able to get some memorabilia from. It’s beyond Luther’s house.+
+U^
+It’s dark and creepy, but I have a strong feeling that there is something grand behind all of it!<
+Me@
+N^
+~You mean the sewers?<
+Slade@
+H^
+~So you do know what I am talking about it! You must help me get in there I want to know what is there! It’s calling for me<
+Me@
+ ^
+~I am not going to help you steal-<
+Slade@
+ ^
+~Borrowing!<
+Me@
+ ^
+~Okay I am not going to help you “borrow” stuff from there.<
+Slade@
+ ^
+ ~Hmph! I am busy now then, please leave my secret study.>
+%

@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Events;
 
 public class PipePuzzleScript : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class PipePuzzleScript : MonoBehaviour
     private int _prevPipe, temp;
     public int NumOfPipes;
     private int Num;
+    public UnityEvent CompletedPuzzle;
 
     private void Start()
     {
@@ -28,7 +30,7 @@ public class PipePuzzleScript : MonoBehaviour
     {
         if (Begin.isConnected)
         {
-            Debug.Log("Begin Connected");
+            //Debug.Log("Begin Connected");
             FlowsThroughAll = true;
             _currPipe = Begin.pipeConnectionNum;
             _prevPipe = Begin.pipenum;
@@ -36,7 +38,7 @@ public class PipePuzzleScript : MonoBehaviour
         }
         else
         {
-            Debug.Log("Begin Not Connected");
+            //Debug.Log("Begin Not Connected");
             FlowsThroughAll = false;
         }
         Num = Pipes.Pipes.Count + 2;
@@ -62,11 +64,8 @@ public class PipePuzzleScript : MonoBehaviour
 
         if (FlowsThroughAll)
         {
-            Debug.Log("Puzzle Complete");
-        }
-        else
-        {
-            Debug.Log("Puzzle Incomplete");
+            Debug.Log("Completed");
+            CompletedPuzzle.Invoke();
         }
     }
     
