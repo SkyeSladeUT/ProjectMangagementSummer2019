@@ -1,0 +1,67 @@
+0 - Library#
+Kirk@
+ ^
+~Steve was making fun of me for following Brad around. He even took some papers of mine… + 
+ ^
+So now I’m just studying here, so I don’t bother him with my presence...{<
+
+~What you studying?+
+Stolen papers+
+Brad+
+Leave>
+
+1 - Studying#
+Me@
+ ^
+~What are you studying? Isn't school out right now?<
+
+Kirk@
+ ^
+~Yeah, but I'm just studying some medical conditions, nothing big.+
+ ^
+I just want to be able to help out Brad whenever I can.>
+
+2 - Stolen Papers#
+Me@
+ ^
+~What were on the papers that Steve took?<
+
+Kirk@
+ ^
+~Just some of the notes I've taken while shadowing Brad.+
+ ^
+Nothing Steve would be interested in.<
+
+Me@
+ ^
+~Well, if I find them, I'll let you know.>
+
+3 - Brad#
+Me@
+ ^
+~Have you found out anything about the virus from Brad?<
+
+Kirk@
+ ^
+~Not much, he said something about injection.+
+ ^
+And when he began to take blood samples I left. I can't stand blood.<
+
+Me@
+ ^
+~Thanks Kirk>
+
+4 - Leave#
+Me@
+ ^
+~Well, have a good study session, and try to stay away from Steve. I don't need more people hurt.<
+
+Kirk@
+ ^
+~Don't worry, I should be safe in here,+
+ ^ 
+Steve doesn't dare show his face near the librarian since he 'accidentally' burnt all the new textbooks.>
+
+%
+
+

@@ -25,11 +25,10 @@ public class Pipe_Trigger_Event : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerStay(Collider other)
     {
         if (other.CompareTag("PipeEnd"))
         {
-            Debug.Log("ConnectEnd");
             other.GetComponent<Pipe_End_Objects>().entrance.isConnected = true;
             other.GetComponent<Pipe_End_Objects>().entrance.pipeConnectionNum = pipeNum;
             entrance.Connect(0);   
@@ -50,7 +49,6 @@ public class Pipe_Trigger_Event : MonoBehaviour
     {
         if (other.CompareTag("PipeEnd"))
         {
-            Debug.Log("Unconnect Pipe End");
             other.GetComponent<Pipe_End_Objects>().entrance.isConnected = false;
             other.GetComponent<Pipe_End_Objects>().entrance.pipeConnectionNum = -1;
         }

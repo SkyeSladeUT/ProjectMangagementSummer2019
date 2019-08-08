@@ -1,0 +1,187 @@
+0 - First entrance#
+Cafe Owner@
+ ^
+~Hey bud, what can I get for you today?{<
+
+~Suspisions+
+Places to investigate+
+Behind the bar+
+Leave>
+
+1 - Suspisions#
+Me@
+ ^
+~Have you noticed or heard anything about what happened to Carl and who may have done it?<
+
+Cafe Owner@
+ ^
+~I don't know much about what's been happening, but something that's always suspicious is Scruffles+
+ ^
+I haven't seen him around for a few months, probably stuck in his lighthouse trying to invent some new synthetic food.+
+T^
+Maybe he's been creating whatever infected Carl...+
+N^
+In fact, if I had to guess whose been behind it, it would be Scruffles.<
+
+Me@
+ ^
+~Thanks, I'll look into it.>
+
+2 - Places to investigate#
+Me@
+ ^
+~Is there anywhere that I might be able to learn more about the history of the island?+
+ ^
+Perhaps there's someone who wishes for harm on the people of this island.<
+
+Cafe Owner@
+ ^
+~If you want history, I'd go to the Mayor's mansion+
+ ^
+She's kept every scrap we've found on this island and has basically turned her house into a museum.+
+ ^
+Of course you might not want to go there... she claims her house is haunted. But I don't believe in that stuff.<
+
+Me@
+ ^
+~Okay, I'll go talk to her. Hopefully I can find out something useful.>
+
+3 - trying to get behind the bar#
+
+Me@
+ ^
+~Can I investigate behind the bar.<
+
+Cafe Owner@
+ ^
+~I'm sorry but I can't let you back here. Employees Only.<
+
+Me@
+ ^
+~But I'm the police.<
+
+Cafe Owner@
+ ^
+~I'm sorry, but for health reasons I cannot let anyone that is not an employee behind the bar.<
+
+Me@
+ ^
+~But...<
+
+Cafe Owner@
+ ^
+~I can't. Is there anything else you need help with?>
+
+4 - Leave#
+Me@
+ ^
+~I'm going to head back to my investigating. If you find out anything new, make sure to let me know.<
+
+Cafe Owner@
+ ^
+~Of course>
+
+5 - knocking over the bus boy#
+
+Cafe Owner@
+M^
+~Wha!? Now I've got to clean up.+
+N^
+I'll be right there.>
+
+6 - cleaning up the mess#
+
+Cafe Owner@
+ ^
+~Sorry, I can't talk to you right now.>
+
+7 - second time in the cafe#
+Cafe Owner@
+ ^
+~Hey bud, what can I do for you today?{<
+
+~Suspisions+
+Places to investigate+
+Leave>
+
+8 - Suspisions#
+Me@
+ ^
+~Have you noticed or heard anything about what happened to Carl and who may have done it?<
+
+Cafe Owner@
+ ^
+~I don't know much about what's been happening, but something that's always suspicious is Scruffles+
+ ^
+I haven't seen him around for a few months, probably stuck in his lighthouse trying to invent some new synthetic food.+
+T^
+Maybe he's been creating whatever infected Carl...+
+N^
+In fact, if I had to guess whose been behind it, it would be Scruffles.<
+
+Me@
+ ^
+~Thanks, I'll look into it.>
+
+9 - Places to investigate#
+Me@
+ ^
+~Is there anywhere that I might be able to learn more about the history of the island?+
+ ^
+Perhaps there's someone who wishes for harm on the people of this island.<
+
+Cafe Owner@
+ ^
+~If you want history, I'd go to the Mayor's mansion+
+ ^
+She's kept every scrap we've found on this island and has basically turned her house into a museum.+
+ ^
+Of course you might not want to go there... she claims her house is haunted. But I don't believe in that stuff.<
+
+Me@
+ ^
+~Okay, I'll go talk to her. Hopefully I can find out something useful.>
+
+10 - Leave#
+Me@
+ ^
+~I'm going to head back to my investigating. If you find out anything new, make sure to let me know.<
+
+Cafe Owner@
+ ^
+~Of course>
+
+11 - Ask About Ice Cream#
+Me@
+ ^
+~Hey, weren't you just at the Ice Cream Shop?<
+
+Cafe Owner@
+ ^
+~No that was my brother Leroy.<
+
+Me@
+ ^
+~Hmmm...<
+
+Cafe Owner@
+ ^
+~Yeah, I get that a lot.>
+
+12 - Ask About Library#
+Me@
+ ^
+~How did you get here from the library so quickly?<
+
+Cafe Owner@
+ ^
+~I wasn't at the library... wait you must be talking about my brother Elron.<
+
+Me@
+ ^
+~Yeah, sure...>
+
+
+
+
+%

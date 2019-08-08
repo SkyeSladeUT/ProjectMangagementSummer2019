@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class Match_Script : MonoBehaviour
 {
-    public UnityEvent OnMatch, UnMatch;
+    public UnityEvent OnMatch, UnMatch, OnNotMatch;
     private bool matched = false;
     public Object obj_01;
     private Object obj_02;
@@ -37,6 +37,10 @@ public class Match_Script : MonoBehaviour
             OnMatch.Invoke();
             return;
         }
+        else
+        {
+            OnNotMatch.Invoke();
+        }
 
         return;
     }
@@ -50,6 +54,10 @@ public class Match_Script : MonoBehaviour
             matched = true;
             OnMatch.Invoke();
         }
+        else
+        {
+            OnNotMatch.Invoke();
+        }
     }
     
     public void CheckMatch_Trigger()
@@ -58,10 +66,14 @@ public class Match_Script : MonoBehaviour
         {
             return;
         }
-        if (obj_01 == obj_02)
+        else if (obj_01 == obj_02)
         {
             matched = true;
             OnMatch.Invoke();
+        }
+        else
+        {
+            OnNotMatch.Invoke();
         }
     }
 }

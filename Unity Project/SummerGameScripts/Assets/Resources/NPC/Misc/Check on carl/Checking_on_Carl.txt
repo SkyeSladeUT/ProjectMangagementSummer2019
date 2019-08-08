@@ -1,0 +1,55 @@
+0 - Entering Brad's Office#
+Dr. Brad@
+ ^
+~Hey! Come on in, I am almost finished checking on Carl.< 
+
+Kirk@
+H^
+~HI! And I was helping!<
+
+Me@
+N^
+~Seems like the town is a little spooked out about what happened…<
+
+Dr. Brad@
+ ^
+~Yeah I am going to be honest he does not look too good.+
+ ^
+There seems to be some type of virus that has infected his whole body.+
+ ^
+He just keeps getting worse<
+
+Me@
+ ^
+~What in the moon is going on around here! I...<
+
+Kirk@
+F^
+Sound effect, everyone turns towards Kirk#
+~Sorry, I tooted.<
+
+Me@
+ ^
+~Uhhmm... that's okay.+
+ ^
+Turn Back Towards Brad#
+Anyway, as I was saying, I need to investigate to see how this happened.<
+
+Dr. Brad@
+ ^
+~That’s a great idea, I will keep Carl for the time being to check his status.+
+ ^
+Come back and let me know what you find. I am worried for the town…<
+
+Kirk@
+U^
+~I'm SCARED!<
+
+Me@
+N^
+Turn towards Kirk#
+~Don't worry Kirk, I am going to get to the bottom of this.>
+%
+
+
+

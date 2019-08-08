@@ -1,0 +1,52 @@
+0 - Ending#
+Dr. Brad@
+ ^
+~Detective! You have found my lab.<
+Me@
+ ^
+~You did this?<
+Dr. Brad@
+ ^
+~Yes, it was all me.<
+Me@
+ ^
+~But why? Why would you hurt the island?<
+Dr. Brad@
+ ^
+~I guess I have nothing to hide now...+
+  ^
+The island used to be so perfect, my family owned this entire island and were the only ones that resided here.+
+ ^
+Decades ago and during the big island war, as we tried to stay neutral, but my father was the best doctor at the time was sent off to help with major injuries of the war.
+ ^
+He was killed trying to stop a meaningless war. I was only a young boy when we got the news.+
+ ^
+Then after my father's death the militia decided that our island was a great location to take over and use as a base for their military.+
+ ^
+The rest of my bloodline here resisted. We were still mourning the loss of my father, and we were all angry for what they have done to him.+
+ ^
+My family fought back as much as they could, but it was all futile.+
+ ^
+My mother told me to go run away and hide. She knew that they weren’t going to make it and that there was no turning back.+
+ ^
+She told me to run and not look back and I ran. I ran as quickly as I could away from the bloody battle.+
+ ^
+But I had to see my mother one last time… and they murdered her. They murdered my defenseless mother and family in front of me!+
+ ^
+I ran away, living off the forest of the island, hiding away in the shadows of the night. I never will forget what the world has done to my family.+
+ ^
+I knew I had to take back this island and curse whoever lived here with this virus that I have concocted.+
+ ^
+Detective you are the last one to go… what a shame… I was starting to like you.<
+
+Me@
+ ^
+~You don't have to do this. We can save everyone. Scruffle's gave me the antidote recipe.<
+
+Dr. Brad@
+ ^
+~Hmmm... No, I think I do have to do this. Goodbye detective.>
+
+%
+
+

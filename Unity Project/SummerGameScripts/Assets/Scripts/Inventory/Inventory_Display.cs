@@ -6,10 +6,10 @@ using UnityEngine.UI;
 public class Inventory_Display : MonoBehaviour
 {
     public Inventory INV;
-    public GameObject InventoryUI, ObjectListUI, NoteListUI, KeyListUI, InformationDisplay;
+    public GameObject InventoryUI, ObjectListUI, NoteListUI, KeyListUI, DetectiveNoteUI, InformationDisplay;
     private bool descriptionOpen;
-    private List<Image> ObjectImages, NoteImages, KeyImages;
-    public List<Button> ObjectButtons, NoteButtons, KeyButtons;
+    private List<Image> ObjectImages, NoteImages, KeyImages, DetectiveNoteImages;
+    public List<Button> ObjectButtons, NoteButtons, KeyButtons, DetectiveNoteButtons;
     private Item item;
 
     private void Start()
@@ -25,12 +25,16 @@ public class Inventory_Display : MonoBehaviour
         NoteImages.Clear();
         KeyImages = new List<Image>();
         KeyImages.Clear();
+        DetectiveNoteImages = new List<Image>();
+        DetectiveNoteImages.Clear();
         AssignButtons(INV.Objects.objList, ObjectButtons, ObjectImages);
         AssignButtons(INV.Notes.objList, NoteButtons, NoteImages);
         AssignButtons(INV.Keys.objList, KeyButtons, KeyImages);
+        AssignButtons(INV.DetectiveNotes.objList, DetectiveNoteButtons, DetectiveNoteImages);
         AssignImages(INV.Keys.objList, KeyImages);
         AssignImages(INV.Objects.objList, ObjectImages);
         AssignImages(INV.Notes.objList, NoteImages);
+        AssignImages(INV.DetectiveNotes.objList, DetectiveNoteImages);
     }
 
     private void AssignButtons(List<Object> ItemList, List<Button> buttons, List<Image> images)
@@ -60,7 +64,7 @@ public class Inventory_Display : MonoBehaviour
             {
                 item = ItemList[i] as Item;
                 images[i].sprite = item.inventoryImage;
-                Debug.Log(item.inventoryImage.name);
+                //Debug.Log(item.inventoryImage.name);
                 images[i].color = Color.white;
             }
     }
@@ -74,6 +78,7 @@ public class Inventory_Display : MonoBehaviour
 
     public void SetKeyList()
     {
+        DetectiveNoteUI.SetActive(false);
         ObjectListUI.SetActive(false);
         InformationDisplay.SetActive(false);
         NoteListUI.SetActive(false);
@@ -82,6 +87,7 @@ public class Inventory_Display : MonoBehaviour
     
     public void SetObjList()
     {
+        DetectiveNoteUI.SetActive(false);
         NoteListUI.SetActive(false);
         InformationDisplay.SetActive(false);
         KeyListUI.SetActive(false);
@@ -90,10 +96,20 @@ public class Inventory_Display : MonoBehaviour
 
     public void SetNoteList()
     {
+        DetectiveNoteUI.SetActive(false);
         ObjectListUI.SetActive(false);
         InformationDisplay.SetActive(false);
         KeyListUI.SetActive(false);
         NoteListUI.SetActive(true);
+    }
+
+    public void SetHintList()
+    {
+        ObjectListUI.SetActive(false);
+        InformationDisplay.SetActive(false);
+        NoteListUI.SetActive(false);
+        KeyListUI.SetActive(false);
+        DetectiveNoteUI.SetActive(true);
     }
 
     public void OpenDescription()
@@ -109,6 +125,10 @@ public class Inventory_Display : MonoBehaviour
                 button.enabled = false;
             }
             foreach (var button in NoteButtons)
+            {
+                button.enabled = false;
+            }
+            foreach (var button in DetectiveNoteButtons)
             {
                 button.enabled = false;
             }
@@ -132,10 +152,15 @@ public class Inventory_Display : MonoBehaviour
             NoteButtons[i].enabled = true;
         }
 
-        for (int i = 0; i < INV.Objects.objList.Count; i++)
+        for (int i = 0; i < INV.Keys.objList.Count; i++)
         {
             KeyButtons[i].enabled = true;
         }
+        for (int i = 0; i < INV.DetectiveNotes.objList.Count; i++)
+        {
+            DetectiveNoteButtons[i].enabled = true;
+        }
+        
     }
 
     private void FixedUpdate()

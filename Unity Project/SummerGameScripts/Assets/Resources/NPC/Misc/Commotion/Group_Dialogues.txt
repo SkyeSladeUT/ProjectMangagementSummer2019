@@ -1,0 +1,33 @@
+0 - Commotion over Carl#
+Dr. Brad@
+ ^
+~He does not seem right, there is something wrong with him.<
+
+Villager 1@
+ ^
+~No no no... Carl is always like that!<
+
+Villager 2@
+ ^
+~Yeah! he's just having a slower day than normal. <
+
+Me@
+ ^
+What seems to be the problem, doc? <
+
+Dr Brad@
+ ^
+~There seems to be something different about Carl, He looks pale and isnt acting right.+
+ ^
+I think I should take him in to check up on him...<
+
+Villager 1@
+ ^
+~You are wasting your time Doctor... but if you say so!<
+
+Me@
+ ^
+~I think your right Doc, take him in... I'll stop by later to see what's going on.>
+
+%
+

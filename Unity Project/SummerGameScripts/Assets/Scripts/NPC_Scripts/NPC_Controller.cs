@@ -2,6 +2,8 @@
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Events;
+using UnityEngine.Experimental.PlayerLoop;
+using UnityEngine.Experimental.U2D;
 
 public class NPC_Controller : MonoBehaviour
 {
@@ -11,58 +13,123 @@ public class NPC_Controller : MonoBehaviour
     public GameObject Player;
     public StringData MovementType;
     public Animator anim;
-    private float x, z;
+    private float x, z, angle;
     private bool reached_dest, rotate_dest;
     public ActionObject Reach_Dest;
     private Quaternion FacingDirection;
-    public float rotateSpeed;
+    //public float rotateSpeed, walkspeed;
+    public FloatData rotateSpeed, walkspeed;
+    private float time;
+    public bool isZombie;
+    private string walktrigg, idletrigg;
 
     private void Start()
     {
+        if (isZombie)
+        {
+            walktrigg = "Zombie_Walk";
+            idletrigg = "Zombie_Idle";
+        }
+        else
+        {
+            walktrigg = "Walk";
+            idletrigg = "Idle";
+        }
+        anim.SetTrigger(idletrigg);
         _agent = GetComponent<NavMeshAgent>();
         _agent.destination = transform.position;
         anim = GetComponentInChildren<Animator>();
     }
 
-
+    public void Transport(Transform pos)
+    {
+        if (_agent == null)
+        {
+            _agent = GetComponent<NavMeshAgent>();
+        }
+        _agent.enabled = false;
+        transform.position = pos.position;
+        transform.rotation = pos.rotation;
+        _agent.enabled = true;
+    }
+    
     public void Move()
     {
-        anim.ResetTrigger("Idle");
-        FacingDirection = Destination01.trans.rotation;
+        Debug.Log("Start Move: " + gameObject.name);
+        anim.ResetTrigger(idletrigg);
+        if (Destination01.trans != null )
+        {
+            FacingDirection = Destination01.trans.rotation;
+        }
+
         reached_dest = false;
         if(anim == null)
             anim = GetComponentInChildren<Animator>();
-        anim.SetTrigger("Walk");
+        anim.SetTrigger(walktrigg);
         if(_agent ==  null)
             _agent = GetComponent<NavMeshAgent>();
+        _agent.speed = walkspeed.value;
         StartCoroutine(MovementType.value);
     }
 
-    private IEnumerator RandomWalkBetween()
+    private IEnumerator RandomWalkBetweenTimed()
     {
-        while (MovementType.value == "RandomWalkBetween")
+        while (MovementType.value == "RandomWalkBetweenTimed")
         {
-            anim.ResetTrigger("Idle");
+            time = 5; 
             reached_dest = false;
             rotate_dest = false;
             target = transform.position;
             target.x = Random.Range(Destination01.trans.position.x, Destination02.trans.position.x);
             target.z = Random.Range(Destination01.trans.position.z, Destination02.trans.position.z);
-            anim.ResetTrigger("Idle");
-            anim.SetTrigger("Walk");
+            anim.ResetTrigger(idletrigg);
+            anim.SetTrigger(walktrigg);
+            while (!CheckDest(.1f) && MovementType.value == "RandomWalkBetweenTimed" && time > 0)
+            {
+                target.y = transform.position.y;
+                _agent.destination = target;
+                //Debug.Log(target + " " + transform.position);
+                yield return new WaitForFixedUpdate();
+                time -= Time.deltaTime;
+                if (CheckDest(.1f))
+                {
+                    anim.ResetTrigger(walktrigg);
+                    anim.SetTrigger(idletrigg);
+                }
+            }
+            anim.ResetTrigger(walktrigg);
+            anim.SetTrigger(idletrigg);
+            yield return new WaitForSeconds(Random.Range(3,5));
+        }
+        Debug.Log("Stop Movement: " + gameObject.name);
+        StopMovement("RandomWalkBetweenTimed");
+    }
+    private IEnumerator RandomWalkBetween()
+    {
+        while (MovementType.value == "RandomWalkBetween")
+        {
+            anim.ResetTrigger(idletrigg);
+            reached_dest = false;
+            rotate_dest = false;
+            target = transform.position;
+            target.x = Random.Range(Destination01.trans.position.x, Destination02.trans.position.x);
+            target.z = Random.Range(Destination01.trans.position.z, Destination02.trans.position.z);
+            anim.ResetTrigger(idletrigg);
+            anim.SetTrigger(walktrigg);
             while (!CheckDest(.1f) && MovementType.value == "RandomWalkBetween")
             {
+                target.y = transform.position.y;
                 _agent.destination = target;
                 //Debug.Log(target + " " + transform.position);
                 yield return new WaitForFixedUpdate();
             }
             while (!CheckRot(5) && MovementType.value == "RandomWalkBetween")
             {
-                transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed * Time.deltaTime);
+                transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed.value * Time.deltaTime);
                 yield return new WaitForFixedUpdate();
             }
-            anim.ResetTrigger("Walk");
-            anim.SetTrigger("Idle");
+            anim.ResetTrigger(walktrigg);
+            anim.SetTrigger(idletrigg);
             yield return new WaitForSeconds(Random.Range(3,5));
         }
         StopMovement("RandomWalkBetween");
@@ -70,18 +137,18 @@ public class NPC_Controller : MonoBehaviour
 
     private IEnumerator SidewaysX()
     {
-        anim.ResetTrigger("Idle");
-        anim.SetTrigger("Walk");
+        anim.ResetTrigger(idletrigg);
+        anim.SetTrigger(walktrigg);
         _agent.updateRotation = false;
         while (MovementType.value == "SidewaysX")
         {
             target = transform.position;
             target.x = Player.transform.position.x;
             _agent.destination = target;
-            while (CheckDest(.1f))
+            while (!CheckDest(.1f))
             {
-                anim.ResetTrigger("Walk");
-                anim.SetTrigger("Idle");
+                anim.ResetTrigger(walktrigg);
+                anim.SetTrigger(idletrigg);
                 yield return new WaitForFixedUpdate();
             }
             yield return new WaitForFixedUpdate(); 
@@ -92,20 +159,20 @@ public class NPC_Controller : MonoBehaviour
 
     private IEnumerator SidewaysZ()
     {
-        anim.ResetTrigger("Idle");
-        anim.SetTrigger("Walk");
+        anim.ResetTrigger(idletrigg);
+        anim.SetTrigger(walktrigg);
         _agent.updateRotation = false;
         while (MovementType.value == "SidewaysZ")
         {
             reached_dest = false;
-            anim.SetTrigger("Walk");
+            anim.SetTrigger(walktrigg);
             target = transform.position;
             target.z = Player.transform.position.z;
             _agent.destination = target;
             while (CheckDest(.1f))
             {
-                anim.ResetTrigger("Walk");
-                anim.SetTrigger("Idle");
+                anim.ResetTrigger(walktrigg);
+                anim.SetTrigger(idletrigg);
                 yield return new WaitForFixedUpdate();
             }
             yield return new WaitForFixedUpdate(); 
@@ -116,8 +183,8 @@ public class NPC_Controller : MonoBehaviour
 
     private IEnumerator FollowPlayer()
     {
-        anim.ResetTrigger("Idle");
-        anim.SetTrigger("Walk");
+        anim.ResetTrigger(idletrigg);
+        anim.SetTrigger(walktrigg);
         while (MovementType.value == "FollowPlayer")
         {
             target = Player.transform.position;
@@ -126,10 +193,29 @@ public class NPC_Controller : MonoBehaviour
         }
     }
 
+    private IEnumerator LookAtPlayer()
+    {
+        anim.ResetTrigger(walktrigg);
+        anim.SetTrigger(idletrigg);
+        rotate_dest = false;
+        target = Player.transform.position;
+        target = (target - transform.position).normalized;
+        FacingDirection = Quaternion.LookRotation(target);
+        while (!CheckRot(.1f) && MovementType.value == "LookAtPlayer")
+        {
+            transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed.value * Time.deltaTime);
+            yield return new WaitForFixedUpdate();
+        }
+        Debug.Log("Reached Destination");
+        anim.ResetTrigger(walktrigg);
+        anim.SetTrigger(idletrigg);
+        //Reach_Dest.Action.Invoke();
+    }
+
     private IEnumerator GoToPlayer()
     {
-        anim.ResetTrigger("Idle");
-        anim.SetTrigger("Walk");
+        anim.ResetTrigger(idletrigg);
+        anim.SetTrigger(walktrigg);
         reached_dest = false;
         rotate_dest = false;
         target = Player.transform.position;
@@ -140,22 +226,26 @@ public class NPC_Controller : MonoBehaviour
         }
         while (!CheckRot(5) && MovementType.value == "GoToPlayer")
         {
-            transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed * Time.deltaTime);
+            transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed.value * Time.deltaTime);
             yield return new WaitForFixedUpdate();
         }
         Debug.Log("Reached Destination");
-        anim.ResetTrigger("Walk");
-        anim.SetTrigger("Idle");
+        anim.ResetTrigger(walktrigg);
+        anim.SetTrigger(idletrigg);
         Reach_Dest.Action.Invoke();
     }
 
     private IEnumerator GoToDest()
     {
-        anim.ResetTrigger("Idle");
-        anim.SetTrigger("Walk");
+        anim.ResetTrigger(idletrigg);
+        anim.SetTrigger(walktrigg);
         reached_dest = false;
         rotate_dest = false;
         target = Destination01.trans.position;
+        if (_agent == null)
+        {
+            _agent = GetComponent<NavMeshAgent>();
+        }
         while (!CheckDest(.1f) && MovementType.value == "GoToDest")
         {
             _agent.destination = target;
@@ -165,22 +255,22 @@ public class NPC_Controller : MonoBehaviour
         while (!CheckRot(5) && MovementType.value == "GoToDest")
         {
             //Debug.Log(transform.rotation.y + " " + FacingDirection.y);
-            transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed * Time.deltaTime);
+            transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed.value * Time.deltaTime);
 
             yield return new WaitForFixedUpdate();
         }
         Debug.Log("Reached Destination");
         StopMovement("GoToDest");
-        anim.ResetTrigger("Walk");
-        anim.SetTrigger("Idle");
+        anim.ResetTrigger(walktrigg);
+        anim.SetTrigger(idletrigg);
         Reach_Dest.Action.Invoke();
     }
 
     public void StopMovement(string coroutineName)
     {
         StopCoroutine(coroutineName);
-        anim.ResetTrigger("Walk");
-        anim.SetTrigger("Idle");
+        anim.ResetTrigger(walktrigg);
+        anim.SetTrigger(idletrigg);
     }
 
     public void RestartMovement()
@@ -192,8 +282,8 @@ public class NPC_Controller : MonoBehaviour
     public void StopAll()
     {
         StopAllCoroutines();
-        anim.ResetTrigger("Walk");
-        anim.SetTrigger("Idle");
+        anim.ResetTrigger(walktrigg);
+        anim.SetTrigger(idletrigg);
     }
 
     private bool CheckDest(float offset)
@@ -219,5 +309,9 @@ public class NPC_Controller : MonoBehaviour
             return false;
         }
     }
-    
+
+    private void ResetTarget()
+    {
+        target = Destination01.trans.position;
+    }
 }

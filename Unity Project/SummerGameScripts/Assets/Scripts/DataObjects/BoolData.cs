@@ -15,4 +15,9 @@ public class BoolData : ScriptableObject
     {
         value = false;
     }
+
+    public void SetOpposite()
+    {
+        value = !value;
+    }
 }

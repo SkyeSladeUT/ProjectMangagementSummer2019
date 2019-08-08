@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: a98bb717690829249ad322fccabd568c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Barrel 1
+    100004: Cannon
+    100006: Canteen
+    100008: Display_Case
+    100010: Display_Case1
+    100012: Display_Case2
+    100014: Frying_Pan
+    100016: Hat
+    100018: Hat2
+    100020: Hat_Display
+    100022: Jewelry_Stand
+    100024: Manequin_Rig:Mannequin
+    100026: Mannequin
+    100028: Map
+    100030: pCube1
+    100032: pCube2
+    100034: pCube2 1
+    100036: pCube3
+    100038: pCube5
+    100040: pCube6
+    100042: pCylinder1
+    100044: pCylinder10
+    100046: pCylinder11
+    100048: pCylinder4
+    100050: pCylinder4 1
+    100052: pCylinder5
+    100054: pCylinder8
+    100056: pCylinder9
+    100058: polySurface1
+    100060: polySurface1 1
+    100062: polySurface10
+    100064: polySurface11
+    100066: polySurface12
+    100068: polySurface13
+    100070: polySurface14
+    100072: polySurface15
+    100074: polySurface2
+    100076: polySurface2 1
+    100078: polySurface3
+    100080: polySurface4
+    100082: polySurface5
+    100084: polySurface5 1
+    100086: polySurface6
+    100088: polySurface7
+    100090: polySurface7 1
+    100092: polySurface8
+    100094: polySurface8 1
+    100096: polySurface9
+    100098: pPlane1
+    100100: pPlane1 1
+    100102: pPlane1 2
+    100104: pPlane2
+    100106: pPlane2 1
+    100108: pPlane2 2
+    100110: pPlane3
+    100112: pPlane3 1
+    100114: pPlane3 2
+    100116: pPlane4
+    100118: pPlane4 1
+    100120: pPlane4 2
+    100122: pPlane5
+    100124: pPlane5 1
+    100126: pPlane5 2
+    100128: pSphere1
+    100130: pSphere2
+    100132: pTorus1
+    100134: pTorus1 1
+    100136: //RootNode
+    100138: Spiget
+    100140: Tag
+    100142: Tag1
+    100144: Tie
+    100146: Body:imagePlane1
+    100148: group1
+    400000: Barrel
+    400002: Barrel 1
+    400004: Cannon
+    400006: Canteen
+    400008: Display_Case
+    400010: Display_Case1
+    400012: Display_Case2
+    400014: Frying_Pan
+    400016: Hat
+    400018: Hat2
+    400020: Hat_Display
+    400022: Jewelry_Stand
+    400024: Manequin_Rig:Mannequin
+    400026: Mannequin
+    400028: Map
+    400030: pCube1
+    400032: pCube2
+    400034: pCube2 1
+    400036: pCube3
+    400038: pCube5
+    400040: pCube6
+    400042: pCylinder1
+    400044: pCylinder10
+    400046: pCylinder11
+    400048: pCylinder4
+    400050: pCylinder4 1
+    400052: pCylinder5
+    400054: pCylinder8
+    400056: pCylinder9
+    400058: polySurface1
+    400060: polySurface1 1
+    400062: polySurface10
+    400064: polySurface11
+    400066: polySurface12
+    400068: polySurface13
+    400070: polySurface14
+    400072: polySurface15
+    400074: polySurface2
+    400076: polySurface2 1
+    400078: polySurface3
+    400080: polySurface4
+    400082: polySurface5
+    400084: polySurface5 1
+    400086: polySurface6
+    400088: polySurface7
+    400090: polySurface7 1
+    400092: polySurface8
+    400094: polySurface8 1
+    400096: polySurface9
+    400098: pPlane1
+    400100: pPlane1 1
+    400102: pPlane1 2
+    400104: pPlane2
+    400106: pPlane2 1
+    400108: pPlane2 2
+    400110: pPlane3
+    400112: pPlane3 1
+    400114: pPlane3 2
+    400116: pPlane4
+    400118: pPlane4 1
+    400120: pPlane4 2
+    400122: pPlane5
+    400124: pPlane5 1
+    400126: pPlane5 2
+    400128: pSphere1
+    400130: pSphere2
+    400132: pTorus1
+    400134: pTorus1 1
+    400136: //RootNode
+    400138: Spiget
+    400140: Tag
+    400142: Tag1
+    400144: Tie
+    400146: Body:imagePlane1
+    400148: group1
+    2100000: Frying_Pan1
+    2100002: Glass
+    2100004: Display_Case_01
+    2100006: Display_Stand
+    2100008: Captain_Hat
+    2100010: Display_Case_02
+    2100012: Soldier_Clothes
+    2100014: Soldier_Hat
+    2100016: Mannequin_Body
+    2100018: Captain_Clothes
+    2100020: Dog_Tag
+    2100022: Display_Stand_02
+    2100024: Map1
+    2100026: Canteen1
+    2100028: Spout
+    2100030: Barrel_Metal
+    2100032: Barrel_Wood
+    2100034: Wheels
+    2100036: Fuse
+    2100038: Cannon1
+    2100040: Cannon_Ball
+    2100042: lambert1
+    2100044: Alligator_Clothes
+    2300000: Barrel 1
+    2300002: Canteen
+    2300004: Map
+    2300006: pCube1
+    2300008: pCube2
+    2300010: pCube2 1
+    2300012: pCube3
+    2300014: pCube5
+    2300016: pCube6
+    2300018: pCylinder1
+    2300020: pCylinder10
+    2300022: pCylinder11
+    2300024: pCylinder4
+    2300026: pCylinder4 1
+    2300028: pCylinder5
+    2300030: pCylinder8
+    2300032: pCylinder9
+    2300034: polySurface1
+    2300036: polySurface1 1
+    2300038: polySurface10
+    2300040: polySurface11
+    2300042: polySurface12
+    2300044: polySurface13
+    2300046: polySurface14
+    2300048: polySurface15
+    2300050: polySurface2
+    2300052: polySurface2 1
+    2300054: polySurface3
+    2300056: polySurface4
+    2300058: polySurface5
+    2300060: polySurface5 1
+    2300062: polySurface6
+    2300064: polySurface7
+    2300066: polySurface7 1
+    2300068: polySurface8
+    2300070: polySurface8 1
+    2300072: polySurface9
+    2300074: pPlane1
+    2300076: pPlane1 1
+    2300078: pPlane1 2
+    2300080: pPlane2
+    2300082: pPlane2 1
+    2300084: pPlane2 2
+    2300086: pPlane3
+    2300088: pPlane3 1
+    2300090: pPlane3 2
+    2300092: pPlane4
+    2300094: pPlane4 1
+    2300096: pPlane4 2
+    2300098: pPlane5
+    2300100: pPlane5 1
+    2300102: pPlane5 2
+    2300104: pSphere1
+    2300106: pSphere2
+    2300108: pTorus1
+    2300110: pTorus1 1
+    2300112: Spiget
+    2300114: Tie
+    3300000: Barrel 1
+    3300002: Canteen
+    3300004: Map
+    3300006: pCube1
+    3300008: pCube2
+    3300010: pCube2 1
+    3300012: pCube3
+    3300014: pCube5
+    3300016: pCube6
+    3300018: pCylinder1
+    3300020: pCylinder10
+    3300022: pCylinder11
+    3300024: pCylinder4
+    3300026: pCylinder4 1
+    3300028: pCylinder5
+    3300030: pCylinder8
+    3300032: pCylinder9
+    3300034: polySurface1
+    3300036: polySurface1 1
+    3300038: polySurface10
+    3300040: polySurface11
+    3300042: polySurface12
+    3300044: polySurface13
+    3300046: polySurface14
+    3300048: polySurface15
+    3300050: polySurface2
+    3300052: polySurface2 1
+    3300054: polySurface3
+    3300056: polySurface4
+    3300058: polySurface5
+    3300060: polySurface5 1
+    3300062: polySurface6
+    3300064: polySurface7
+    3300066: polySurface7 1
+    3300068: polySurface8
+    3300070: polySurface8 1
+    3300072: polySurface9
+    3300074: pPlane1
+    3300076: pPlane1 1
+    3300078: pPlane1 2
+    3300080: pPlane2
+    3300082: pPlane2 1
+    3300084: pPlane2 2
+    3300086: pPlane3
+    3300088: pPlane3 1
+    3300090: pPlane3 2
+    3300092: pPlane4
+    3300094: pPlane4 1
+    3300096: pPlane4 2
+    3300098: pPlane5
+    3300100: pPlane5 1
+    3300102: pPlane5 2
+    3300104: pSphere1
+    3300106: pSphere2
+    3300108: pTorus1
+    3300110: pTorus1 1
+    3300112: Spiget
+    3300114: Tie
+    4300000: pCube1
+    4300002: pCylinder1
+    4300004: pPlane1
+    4300006: pPlane2
+    4300008: pPlane3
+    4300010: pPlane4
+    4300012: pPlane5
+    4300014: pCube2
+    4300016: pCube3
+    4300018: polySurface1
+    4300020: polySurface2
+    4300022: pPlane1
+    4300024: pPlane2
+    4300026: pPlane3
+    4300028: pPlane4
+    4300030: pPlane5
+    4300032: pCube6
+    4300034: polySurface8
+    4300036: polySurface7
+    4300038: polySurface5
+    4300040: pSphere1
+    4300042: polySurface11
+    4300044: polySurface12
+    4300046: polySurface13
+    4300048: polySurface14
+    4300050: polySurface15
+    4300052: pPlane1
+    4300054: pPlane2
+    4300056: pPlane3
+    4300058: pPlane4
+    4300060: pPlane5
+    4300062: pCube2
+    4300064: polySurface10
+    4300066: polySurface9
+    4300068: polySurface8
+    4300070: polySurface7
+    4300072: polySurface6
+    4300074: polySurface5
+    4300076: polySurface4
+    4300078: polySurface3
+    4300080: polySurface1
+    4300082: polySurface2
+    4300084: Tie
+    4300086: pCylinder4
+    4300088: pTorus1
+    4300090: pCube5
+    4300092: pCylinder4
+    4300094: pTorus1
+    4300096: Map
+    4300098: Canteen
+    4300100: Spiget
+    4300102: Barrel
+    4300104: pCylinder10
+    4300106: pCylinder9
+    4300108: pCylinder5
+    4300110: pSphere2
+    4300112: pCylinder8
+    4300114: pCylinder11
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

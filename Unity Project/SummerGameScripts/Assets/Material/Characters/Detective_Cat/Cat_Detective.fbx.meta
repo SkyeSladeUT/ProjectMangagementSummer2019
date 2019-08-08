@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: aed4a0dcb5855a24b9c1953433ed4976
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cat_GEO
+    100004: Raccoon_Rig:Racoon:Base_Rig1:head_jnt
+    100006: Raccoon_Rig:Racoon:Base_Rig1:Joints
+    100008: Raccoon_Rig:Racoon:Base_Rig1:l_elbow_jnt
+    100010: Raccoon_Rig:Racoon:Base_Rig1:l_foot_jnt
+    100012: Raccoon_Rig:Racoon:Base_Rig1:l_hand_jnt
+    100014: Raccoon_Rig:Racoon:Base_Rig1:l_hip_jnt
+    100016: Raccoon_Rig:Racoon:Base_Rig1:l_knee_jnt
+    100018: Raccoon_Rig:Racoon:Base_Rig1:l_shoulder_jnt
+    100020: Raccoon_Rig:Racoon:Base_Rig1:neck_jnt
+    100022: Raccoon_Rig:Racoon:Base_Rig1:prototype_rig
+    100024: Raccoon_Rig:Racoon:Base_Rig1:r_elbow_jnt
+    100026: Raccoon_Rig:Racoon:Base_Rig1:r_foot_jnt
+    100028: Raccoon_Rig:Racoon:Base_Rig1:r_hand_jnt
+    100030: Raccoon_Rig:Racoon:Base_Rig1:r_hip_jnt
+    100032: Raccoon_Rig:Racoon:Base_Rig1:r_knee_jnt
+    100034: Raccoon_Rig:Racoon:Base_Rig1:r_shoulder_jnt
+    100036: Raccoon_Rig:Racoon:Base_Rig1:Root
+    100038: Raccoon_Rig:Racoon:Base_Rig1:spine_jnt
+    100040: Raccoon_Rig:Racoon:Base_Rig1:torso_jnt
+    100042: Raccoon_Rig:Racoon:Base_Rig1:waist_jnt
+    100044: Raccoon_Rig:Rig
+    400000: //RootNode
+    400002: Cat_GEO
+    400004: Raccoon_Rig:Racoon:Base_Rig1:head_jnt
+    400006: Raccoon_Rig:Racoon:Base_Rig1:Joints
+    400008: Raccoon_Rig:Racoon:Base_Rig1:l_elbow_jnt
+    400010: Raccoon_Rig:Racoon:Base_Rig1:l_foot_jnt
+    400012: Raccoon_Rig:Racoon:Base_Rig1:l_hand_jnt
+    400014: Raccoon_Rig:Racoon:Base_Rig1:l_hip_jnt
+    400016: Raccoon_Rig:Racoon:Base_Rig1:l_knee_jnt
+    400018: Raccoon_Rig:Racoon:Base_Rig1:l_shoulder_jnt
+    400020: Raccoon_Rig:Racoon:Base_Rig1:neck_jnt
+    400022: Raccoon_Rig:Racoon:Base_Rig1:prototype_rig
+    400024: Raccoon_Rig:Racoon:Base_Rig1:r_elbow_jnt
+    400026: Raccoon_Rig:Racoon:Base_Rig1:r_foot_jnt
+    400028: Raccoon_Rig:Racoon:Base_Rig1:r_hand_jnt
+    400030: Raccoon_Rig:Racoon:Base_Rig1:r_hip_jnt
+    400032: Raccoon_Rig:Racoon:Base_Rig1:r_knee_jnt
+    400034: Raccoon_Rig:Racoon:Base_Rig1:r_shoulder_jnt
+    400036: Raccoon_Rig:Racoon:Base_Rig1:Root
+    400038: Raccoon_Rig:Racoon:Base_Rig1:spine_jnt
+    400040: Raccoon_Rig:Racoon:Base_Rig1:torso_jnt
+    400042: Raccoon_Rig:Racoon:Base_Rig1:waist_jnt
+    400044: Raccoon_Rig:Rig
+    2100000: HeadandTail
+    2100002: Clothes1
+    2100004: Shirt
+    2100006: pants
+    2100008: Body
+    2100010: Shoes
+    4300000: Cat_GEO
+    9500000: //RootNode
+    13700000: Cat_GEO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 8649048bbbf98fd4a9ce34c6601e6900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clothes1
+    second: {fileID: 2100000, guid: bafb244a882a6bd43af27417ec1d6fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeadandTail
+    second: {fileID: 2100000, guid: a2cfb4a297b31e247a1e6beac6fddc58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: f5562729b6a91b24db835227a434bfb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoes
+    second: {fileID: 2100000, guid: eb63817b46d07054c941951671ce966e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pants
+    second: {fileID: 2100000, guid: 51196b42236fa8d4fbe80f19891460ba, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.25
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

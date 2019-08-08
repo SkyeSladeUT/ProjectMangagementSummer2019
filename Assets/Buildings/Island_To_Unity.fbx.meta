@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 2ef8f4cc83ee6df449664ae8ef3bf189
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beach_Front
+    100002: Beach_mid
+    100004: Beach_Rear
+    100006: Cliff_Island_Border
+    100008: Cliffs_mansion
+    100010: Cliffs_S_L
+    100012: Cliffs_S_R
+    100014: Grass_Mainland
+    100016: Grass_Mainland_flat
+    100018: Grass_Mansion
+    100020: Grass_R_plane
+    100022: //RootNode
+    100024: Mountain_Mesh
+    100026: Ocean
+    100028: Ramp_geo
+    100030: Sea_cliffs
+    400000: Beach_Front
+    400002: Beach_mid
+    400004: Beach_Rear
+    400006: Cliff_Island_Border
+    400008: Cliffs_mansion
+    400010: Cliffs_S_L
+    400012: Cliffs_S_R
+    400014: Grass_Mainland
+    400016: Grass_Mainland_flat
+    400018: Grass_Mansion
+    400020: Grass_R_plane
+    400022: //RootNode
+    400024: Mountain_Mesh
+    400026: Ocean
+    400028: Ramp_geo
+    400030: Sea_cliffs
+    2100000: lambert1
+    2100002: Island_compiled_Island1_Island_Grass
+    2100004: Island_compiled_Island1_Island_lambert2
+    2100006: Island_compiled_Island1_Island_Beach
+    2100008: ramp_Ramp
+    2300000: Beach_Front
+    2300002: Beach_mid
+    2300004: Beach_Rear
+    2300006: Cliff_Island_Border
+    2300008: Cliffs_mansion
+    2300010: Cliffs_S_L
+    2300012: Cliffs_S_R
+    2300014: Grass_Mainland
+    2300016: Grass_Mainland_flat
+    2300018: Grass_Mansion
+    2300020: Grass_R_plane
+    2300022: Mountain_Mesh
+    2300024: Ocean
+    2300026: Ramp_geo
+    2300028: Sea_cliffs
+    3300000: Beach_Front
+    3300002: Beach_mid
+    3300004: Beach_Rear
+    3300006: Cliff_Island_Border
+    3300008: Cliffs_mansion
+    3300010: Cliffs_S_L
+    3300012: Cliffs_S_R
+    3300014: Grass_Mainland
+    3300016: Grass_Mainland_flat
+    3300018: Grass_Mansion
+    3300020: Grass_R_plane
+    3300022: Mountain_Mesh
+    3300024: Ocean
+    3300026: Ramp_geo
+    3300028: Sea_cliffs
+    4300000: Mountain_Mesh
+    4300002: Cliffs_mansion
+    4300004: Grass_Mainland
+    4300006: Grass_Mansion
+    4300008: Ocean
+    4300010: Beach_Front
+    4300012: Grass_R_plane
+    4300014: Grass_Mainland_flat
+    4300016: Ramp_geo
+    4300018: Beach_Rear
+    4300020: Beach_mid
+    4300022: Cliff_Island_Border
+    4300024: Cliffs_S_L
+    4300026: Cliffs_S_R
+    4300028: Sea_cliffs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

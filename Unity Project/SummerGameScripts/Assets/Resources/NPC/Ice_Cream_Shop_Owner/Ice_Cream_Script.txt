@@ -1,0 +1,126 @@
+0 - Help fixing air conditioning#
+Me@
+ ^
+~Hey, what's up?<
+
+Ice Cream Worker@
+ ^
+~The air conditioning for the building isn't working and I can't open the shop until it's fixed.<
+
+Me@
+ ^
+~I'll see what I can do.<
+
+Ice Cream Worker@
+ ^
+~Thanks>
+
+1 - Thanks#
+Ice Cream Worker@
+N^
+~Thanks again for the help with the air. Ice cream and heat don't really work well together.+
+4^
+Imagine a world without ice cream...+
+H^
+But now we don't have to worry about that.<
+
+Me@
+ ^
+~No problem, just happy to help.>
+
+2 - Talk#
+Ice Cream Worker@
+N^
+~What can I do for you, detective?{<
+
+~Information+
+Back Room+
+Leave>
+
+3 - Info#
+Me@
+N^
+~I'm investigating what might have caused Carl's illness. Do you know of anything or one that might be related?<
+
+Ice Cream Worker@
+ ^
+~I think whoever is doing this to the island has to be really smart.+
+M^
+I think it could be someone that lives here!>
+
+4 - Keys#
+Me@
+N^
+~Can I check out the back room?<
+
+Ice Cream Worker@
+ ^
+~Of Course, except I left the keys to the room somewhere in the library.+
+ ^
+If you find them, you're welcome to check the room out.<
+
+Me@
+ ^
+~Great, I'll look for them.>
+
+5 - Leave#
+Me@
+N^
+~I've got to get back to my investigation. I'll be back if I have any more questions.<
+
+Ice Cream Worker@
+ ^
+~Of course, I'll be here when you come back.>
+
+6 - Got Shop Keys#
+ ^
+Me@
+ ^
+~I've got your keys.<
+
+ @
+1^
+~You hand over the keys.<
+
+Ice Cream Worker@
+F^
+~Thanks. I'll go open it for you right now.>
+
+7 - Fixed Air Conditioning#
+Ice Cream Worker@
+ ^
+~Hey, it's running again! Whatever you did fixed it. I'm going to open the shop, you're welcome to come in.>
+
+8 - Ask About Cafe#
+Me@
+ ^
+~Aren't you also working at the Cafe?<
+
+Ice Cream Worker@
+ ^
+~Nope, my brother Esteban runs the Cafe.<
+
+Me@
+ ^
+~I see...>
+
+9 - Ask About Library#
+Me@
+ ^
+~How did you get here from the library so quickly?<
+
+Ice Cream Worker@
+ ^
+~I wasn't at the library... wait you must be talking about my brother Elron.<
+
+Me@
+ ^
+~Yeah, sure...>
+
+10 - Fixed Air Conditioning#
+Ice Cream Worker@
+ ^
+~Hey, it's running again! Whatever you did fixed it. I'm going to open the shop, you're welcome to come in.>
+
+
+%

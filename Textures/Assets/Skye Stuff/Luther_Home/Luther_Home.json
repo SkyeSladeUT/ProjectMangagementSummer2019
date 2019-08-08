@@ -1,0 +1,111 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                }
+            },
+            "shader": "pbr-metal-rough-with-alpha-blending",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Ball": {
+            "shader": "Main shader"
+        },
+        "Bed_Mat": {
+            "shader": "Main shader"
+        },
+        "CarTiremetal": {
+            "shader": "Main shader"
+        },
+        "Carbed_tire": {
+            "shader": "Main shader"
+        },
+        "Cardboard_box": {
+            "shader": "Main shader"
+        },
+        "Controller": {
+            "shader": "Main shader"
+        },
+        "Controller_buttons": {
+            "shader": "Main shader"
+        },
+        "Pipe": {
+            "shader": "Main shader"
+        },
+        "Poster": {
+            "shader": "Main shader"
+        },
+        "Rug": {
+            "shader": "Main shader"
+        },
+        "Skateboard": {
+            "shader": "Main shader"
+        },
+        "TV": {
+            "shader": "Main shader"
+        },
+        "Valve": {
+            "shader": "Main shader"
+        },
+        "Video_game_console": {
+            "shader": "Main shader"
+        },
+        "Walls_And_Floors": {
+            "shader": "Main shader"
+        },
+        "Water": {
+            "shader": "Main shader"
+        },
+        "pasted__Fridge": {
+            "shader": "Main shader"
+        },
+        "pasted__FridgeHandle": {
+            "shader": "Main shader"
+        },
+        "pasted__Pot": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio_Dials": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio_Speaker": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio_face": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Bed_Sheet_pattern1": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Bed_Sheets_inside1": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Pillow": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Pillow1": {
+            "shader": "Main shader"
+        },
+        "rACEcAR": {
+            "shader": "Main shader"
+        }
+    }
+}

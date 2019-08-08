@@ -1,0 +1,7 @@
+0 - Try to open door#
+Scruffles@
+ ^
+~Please don't go in there. I haven't cleaned in a while.>
+
+%
+

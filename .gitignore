@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Unity Project/SummerGameScripts/Assets/Packages/Plugins/Editor/JetBrains/
+
+\.DS_Store

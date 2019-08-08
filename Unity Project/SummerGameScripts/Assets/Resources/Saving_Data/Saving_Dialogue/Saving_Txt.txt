@@ -1,0 +1,19 @@
+0 - Saving#
+ @
+ ^
+~Would you like to save your game?{<
+
+~Yes+
+No>
+
+1 - Yes#
+ @
+ ^
+~You saved your game.>
+
+2 - No#
+ @
+ ^
+~ >
+
+%

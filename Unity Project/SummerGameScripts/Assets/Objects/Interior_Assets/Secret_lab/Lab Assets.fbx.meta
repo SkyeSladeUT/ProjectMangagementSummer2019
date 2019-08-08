@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: a21d66b33f4310f478f145e411fd5076
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beaker
+    100002: Beaker3
+    100004: Beaker3 1
+    100006: Beaker3 2
+    100008: Beaker3 3
+    100010: Beaker3 4
+    100012: Beaker4
+    100014: Beaker5
+    100016: Beaker6
+    100018: Beaker7
+    100020: Beaker8
+    100022: group
+    100024: group1
+    100026: group2
+    100028: group3
+    100030: group4
+    100032: group5
+    100034: group6
+    100036: //RootNode
+    100038: pasted__pCube27
+    100040: pasted__pCube27 1
+    100042: pasted__pCube27 2
+    100044: pasted__pCube28
+    100046: pasted__pCube29
+    100048: pasted__pCube36
+    100050: pasted__pCube36 1
+    100052: pasted__pCube37
+    100054: pCube14
+    100056: pCube147
+    100058: pCube148
+    100060: pCube149
+    100062: pCube150
+    100064: pCube151
+    100066: pCube152
+    100068: pCube157
+    100070: pCube158
+    100072: pCube159
+    100074: pCube16
+    100076: pCube160
+    100078: pCube161
+    100080: pCube162
+    100082: pCube163
+    100084: pCube168
+    100086: pCube169
+    100088: pCube170
+    100090: pCube171
+    100092: pCube172
+    100094: pCube173
+    100096: pCube174
+    100098: pCube175
+    100100: pCube176
+    100102: pCube177
+    100104: pCube178
+    100106: pCube179
+    100108: pCube180
+    100110: pCube181
+    100112: pCube182
+    100114: pCube183
+    100116: pCube184
+    100118: pCube185
+    100120: pCube186
+    100122: pCube187
+    100124: pCube188
+    100126: pCube21
+    100128: pCube23
+    100130: pCube41
+    100132: pCube42
+    100134: pCube43
+    100136: pCube44
+    100138: pCube51
+    100140: pCube52
+    100142: pCube53
+    100144: pCube54
+    100146: pCube57
+    100148: pCube58
+    100150: pCube60
+    100152: pCube61
+    100154: pCube62
+    100156: pCube63
+    100158: pCube64
+    100160: pCube65
+    100162: pCube66
+    100164: pCube67
+    100166: pCube68
+    100168: pCube69
+    100170: pCube90
+    100172: pCylinder105
+    100174: pCylinder106
+    100176: pCylinder107
+    100178: pCylinder108
+    100180: pCylinder109
+    100182: pCylinder110
+    100184: pCylinder111
+    100186: pCylinder112
+    100188: pCylinder113
+    100190: pCylinder114
+    100192: pCylinder115
+    100194: pCylinder117
+    100196: pCylinder118
+    100198: pCylinder119
+    100200: pCylinder120
+    100202: pCylinder121
+    100204: pCylinder122
+    100206: pCylinder124
+    100208: pCylinder125
+    100210: pCylinder18
+    100212: pCylinder2
+    100214: pCylinder36
+    100216: pCylinder36 1
+    100218: pCylinder37
+    100220: pCylinder37 1
+    100222: pCylinder37 2
+    100224: pCylinder40
+    100226: pCylinder40 1
+    100228: pCylinder40 2
+    100230: pCylinder40 3
+    100232: pCylinder40 4
+    100234: pCylinder40 5
+    100236: pCylinder52
+    100238: pCylinder55
+    100240: pCylinder61
+    100242: pCylinder62
+    100244: pCylinder63
+    100246: pCylinder64
+    100248: pCylinder65
+    100250: pCylinder66
+    100252: pCylinder67
+    100254: pCylinder68
+    100256: pCylinder69
+    100258: pCylinder70
+    100260: pCylinder83
+    100262: pCylinder88
+    100264: pCylinder89
+    100266: pCylinder90
+    100268: pCylinder91
+    100270: pCylinder92
+    100272: pCylinder93
+    100274: pCylinder94
+    100276: pCylinder95
+    100278: pCylinder96
+    100280: pCylinder97
+    100282: polySurface10
+    100284: polySurface12
+    100286: polySurface13
+    100288: polySurface14
+    100290: polySurface28
+    100292: polySurface3
+    100294: polySurface5
+    100296: polySurface6
+    100298: polySurface7
+    100300: pTorus1
+    100302: pTorus3
+    100304: pTorus4
+    100306: transform172
+    100308: transform173
+    100310: transform174
+    100312: transform175
+    100314: transform176
+    100316: transform177
+    100318: transform43
+    100320: transform44
+    400000: Beaker
+    400002: Beaker3
+    400004: Beaker3 1
+    400006: Beaker3 2
+    400008: Beaker3 3
+    400010: Beaker3 4
+    400012: Beaker4
+    400014: Beaker5
+    400016: Beaker6
+    400018: Beaker7
+    400020: Beaker8
+    400022: group
+    400024: group1
+    400026: group2
+    400028: group3
+    400030: group4
+    400032: group5
+    400034: group6
+    400036: //RootNode
+    400038: pasted__pCube27
+    400040: pasted__pCube27 1
+    400042: pasted__pCube27 2
+    400044: pasted__pCube28
+    400046: pasted__pCube29
+    400048: pasted__pCube36
+    400050: pasted__pCube36 1
+    400052: pasted__pCube37
+    400054: pCube14
+    400056: pCube147
+    400058: pCube148
+    400060: pCube149
+    400062: pCube150
+    400064: pCube151
+    400066: pCube152
+    400068: pCube157
+    400070: pCube158
+    400072: pCube159
+    400074: pCube16
+    400076: pCube160
+    400078: pCube161
+    400080: pCube162
+    400082: pCube163
+    400084: pCube168
+    400086: pCube169
+    400088: pCube170
+    400090: pCube171
+    400092: pCube172
+    400094: pCube173
+    400096: pCube174
+    400098: pCube175
+    400100: pCube176
+    400102: pCube177
+    400104: pCube178
+    400106: pCube179
+    400108: pCube180
+    400110: pCube181
+    400112: pCube182
+    400114: pCube183
+    400116: pCube184
+    400118: pCube185
+    400120: pCube186
+    400122: pCube187
+    400124: pCube188
+    400126: pCube21
+    400128: pCube23
+    400130: pCube41
+    400132: pCube42
+    400134: pCube43
+    400136: pCube44
+    400138: pCube51
+    400140: pCube52
+    400142: pCube53
+    400144: pCube54
+    400146: pCube57
+    400148: pCube58
+    400150: pCube60
+    400152: pCube61
+    400154: pCube62
+    400156: pCube63
+    400158: pCube64
+    400160: pCube65
+    400162: pCube66
+    400164: pCube67
+    400166: pCube68
+    400168: pCube69
+    400170: pCube90
+    400172: pCylinder105
+    400174: pCylinder106
+    400176: pCylinder107
+    400178: pCylinder108
+    400180: pCylinder109
+    400182: pCylinder110
+    400184: pCylinder111
+    400186: pCylinder112
+    400188: pCylinder113
+    400190: pCylinder114
+    400192: pCylinder115
+    400194: pCylinder117
+    400196: pCylinder118
+    400198: pCylinder119
+    400200: pCylinder120
+    400202: pCylinder121
+    400204: pCylinder122
+    400206: pCylinder124
+    400208: pCylinder125
+    400210: pCylinder18
+    400212: pCylinder2
+    400214: pCylinder36
+    400216: pCylinder36 1
+    400218: pCylinder37
+    400220: pCylinder37 1
+    400222: pCylinder37 2
+    400224: pCylinder40
+    400226: pCylinder40 1
+    400228: pCylinder40 2
+    400230: pCylinder40 3
+    400232: pCylinder40 4
+    400234: pCylinder40 5
+    400236: pCylinder52
+    400238: pCylinder55
+    400240: pCylinder61
+    400242: pCylinder62
+    400244: pCylinder63
+    400246: pCylinder64
+    400248: pCylinder65
+    400250: pCylinder66
+    400252: pCylinder67
+    400254: pCylinder68
+    400256: pCylinder69
+    400258: pCylinder70
+    400260: pCylinder83
+    400262: pCylinder88
+    400264: pCylinder89
+    400266: pCylinder90
+    400268: pCylinder91
+    400270: pCylinder92
+    400272: pCylinder93
+    400274: pCylinder94
+    400276: pCylinder95
+    400278: pCylinder96
+    400280: pCylinder97
+    400282: polySurface10
+    400284: polySurface12
+    400286: polySurface13
+    400288: polySurface14
+    400290: polySurface28
+    400292: polySurface3
+    400294: polySurface5
+    400296: polySurface6
+    400298: polySurface7
+    400300: pTorus1
+    400302: pTorus3
+    400304: pTorus4
+    400306: transform172
+    400308: transform173
+    400310: transform174
+    400312: transform175
+    400314: transform176
+    400316: transform177
+    400318: transform43
+    400320: transform44
+    2100000: Beaker1
+    2100002: Liquid
+    2100004: VialStand
+    2100006: Scale
+    2100008: ScalePlate
+    2100010: Microscope_White
+    2100012: microscope_Black
+    2100014: Beaker_Stand
+    2100016: Liquid_2
+    2100018: Lab_Table
+    2100020: Virus_Container
+    2100022: Creep_LIghts
+    2100024: Lights
+    2100026: Computer
+    2100028: Cork
+    2100030: lambert1
+    2100032: Whiteboard_metal
+    2100034: Whiteboad_board
+    2100036: Metal_Stool
+    2100038: Round_Desk
+    2100040: BookSpine
+    2100042: Book_Pages
+    2100044: Monitor
+    2100046: MOnitor_screen
+    2100048: lambert40
+    2100050: Keyboard
+    2100052: pasted__Book
+    2100054: pasted__Book_Pages
+    2100056: pasted__Laptop
+    2100058: pasted__Laptop_screen
+    2100060: pasted__Laptop_Keyboard
+    2100062: pasted__Laptop_Button
+    2100064: pasted__Weird_Pot
+    2100066: Plate_thing
+    2100068: Lights_dimmer
+    2100070: Pencil_Wood
+    2100072: Pencil_Eraser
+    2100074: Pencil_end
+    2100076: Pencil_Metal
+    2100078: Floor
+    2100080: Walls
+    2100082: Photos
+    2300000: Beaker
+    2300002: Beaker3
+    2300004: Beaker3 1
+    2300006: Beaker3 2
+    2300008: Beaker3 3
+    2300010: Beaker3 4
+    2300012: Beaker4
+    2300014: Beaker5
+    2300016: Beaker6
+    2300018: Beaker7
+    2300020: Beaker8
+    2300022: pasted__pCube27
+    2300024: pasted__pCube27 1
+    2300026: pasted__pCube27 2
+    2300028: pasted__pCube28
+    2300030: pasted__pCube29
+    2300032: pasted__pCube36
+    2300034: pasted__pCube36 1
+    2300036: pasted__pCube37
+    2300038: pCube14
+    2300040: pCube147
+    2300042: pCube148
+    2300044: pCube149
+    2300046: pCube150
+    2300048: pCube151
+    2300050: pCube152
+    2300052: pCube157
+    2300054: pCube158
+    2300056: pCube159
+    2300058: pCube16
+    2300060: pCube160
+    2300062: pCube161
+    2300064: pCube162
+    2300066: pCube163
+    2300068: pCube169
+    2300070: pCube170
+    2300072: pCube171
+    2300074: pCube172
+    2300076: pCube173
+    2300078: pCube174
+    2300080: pCube175
+    2300082: pCube176
+    2300084: pCube177
+    2300086: pCube178
+    2300088: pCube179
+    2300090: pCube180
+    2300092: pCube181
+    2300094: pCube182
+    2300096: pCube183
+    2300098: pCube184
+    2300100: pCube185
+    2300102: pCube186
+    2300104: pCube187
+    2300106: pCube188
+    2300108: pCube21
+    2300110: pCube23
+    2300112: pCube41
+    2300114: pCube42
+    2300116: pCube43
+    2300118: pCube44
+    2300120: pCube51
+    2300122: pCube52
+    2300124: pCube53
+    2300126: pCube54
+    2300128: pCube57
+    2300130: pCube58
+    2300132: pCube63
+    2300134: pCube64
+    2300136: pCube65
+    2300138: pCube66
+    2300140: pCube67
+    2300142: pCube68
+    2300144: pCube69
+    2300146: pCylinder105
+    2300148: pCylinder106
+    2300150: pCylinder107
+    2300152: pCylinder108
+    2300154: pCylinder109
+    2300156: pCylinder110
+    2300158: pCylinder111
+    2300160: pCylinder112
+    2300162: pCylinder113
+    2300164: pCylinder114
+    2300166: pCylinder117
+    2300168: pCylinder118
+    2300170: pCylinder119
+    2300172: pCylinder120
+    2300174: pCylinder121
+    2300176: pCylinder122
+    2300178: pCylinder124
+    2300180: pCylinder125
+    2300182: pCylinder18
+    2300184: pCylinder2
+    2300186: pCylinder36
+    2300188: pCylinder36 1
+    2300190: pCylinder37
+    2300192: pCylinder37 1
+    2300194: pCylinder37 2
+    2300196: pCylinder40
+    2300198: pCylinder40 1
+    2300200: pCylinder40 2
+    2300202: pCylinder40 3
+    2300204: pCylinder40 4
+    2300206: pCylinder40 5
+    2300208: pCylinder52
+    2300210: pCylinder61
+    2300212: pCylinder62
+    2300214: pCylinder63
+    2300216: pCylinder64
+    2300218: pCylinder65
+    2300220: pCylinder66
+    2300222: pCylinder67
+    2300224: pCylinder68
+    2300226: pCylinder69
+    2300228: pCylinder70
+    2300230: pCylinder83
+    2300232: pCylinder88
+    2300234: pCylinder89
+    2300236: pCylinder90
+    2300238: pCylinder91
+    2300240: pCylinder92
+    2300242: pCylinder93
+    2300244: pCylinder94
+    2300246: pCylinder96
+    2300248: pCylinder97
+    2300250: polySurface10
+    2300252: polySurface12
+    2300254: polySurface13
+    2300256: polySurface14
+    2300258: polySurface28
+    2300260: polySurface3
+    2300262: polySurface5
+    2300264: polySurface6
+    2300266: polySurface7
+    3300000: Beaker
+    3300002: Beaker3
+    3300004: Beaker3 1
+    3300006: Beaker3 2
+    3300008: Beaker3 3
+    3300010: Beaker3 4
+    3300012: Beaker4
+    3300014: Beaker5
+    3300016: Beaker6
+    3300018: Beaker7
+    3300020: Beaker8
+    3300022: pasted__pCube27
+    3300024: pasted__pCube27 1
+    3300026: pasted__pCube27 2
+    3300028: pasted__pCube28
+    3300030: pasted__pCube29
+    3300032: pasted__pCube36
+    3300034: pasted__pCube36 1
+    3300036: pasted__pCube37
+    3300038: pCube14
+    3300040: pCube147
+    3300042: pCube148
+    3300044: pCube149
+    3300046: pCube150
+    3300048: pCube151
+    3300050: pCube152
+    3300052: pCube157
+    3300054: pCube158
+    3300056: pCube159
+    3300058: pCube16
+    3300060: pCube160
+    3300062: pCube161
+    3300064: pCube162
+    3300066: pCube163
+    3300068: pCube169
+    3300070: pCube170
+    3300072: pCube171
+    3300074: pCube172
+    3300076: pCube173
+    3300078: pCube174
+    3300080: pCube175
+    3300082: pCube176
+    3300084: pCube177
+    3300086: pCube178
+    3300088: pCube179
+    3300090: pCube180
+    3300092: pCube181
+    3300094: pCube182
+    3300096: pCube183
+    3300098: pCube184
+    3300100: pCube185
+    3300102: pCube186
+    3300104: pCube187
+    3300106: pCube188
+    3300108: pCube21
+    3300110: pCube23
+    3300112: pCube41
+    3300114: pCube42
+    3300116: pCube43
+    3300118: pCube44
+    3300120: pCube51
+    3300122: pCube52
+    3300124: pCube53
+    3300126: pCube54
+    3300128: pCube57
+    3300130: pCube58
+    3300132: pCube63
+    3300134: pCube64
+    3300136: pCube65
+    3300138: pCube66
+    3300140: pCube67
+    3300142: pCube68
+    3300144: pCube69
+    3300146: pCylinder105
+    3300148: pCylinder106
+    3300150: pCylinder107
+    3300152: pCylinder108
+    3300154: pCylinder109
+    3300156: pCylinder110
+    3300158: pCylinder111
+    3300160: pCylinder112
+    3300162: pCylinder113
+    3300164: pCylinder114
+    3300166: pCylinder117
+    3300168: pCylinder118
+    3300170: pCylinder119
+    3300172: pCylinder120
+    3300174: pCylinder121
+    3300176: pCylinder122
+    3300178: pCylinder124
+    3300180: pCylinder125
+    3300182: pCylinder18
+    3300184: pCylinder2
+    3300186: pCylinder36
+    3300188: pCylinder36 1
+    3300190: pCylinder37
+    3300192: pCylinder37 1
+    3300194: pCylinder37 2
+    3300196: pCylinder40
+    3300198: pCylinder40 1
+    3300200: pCylinder40 2
+    3300202: pCylinder40 3
+    3300204: pCylinder40 4
+    3300206: pCylinder40 5
+    3300208: pCylinder52
+    3300210: pCylinder61
+    3300212: pCylinder62
+    3300214: pCylinder63
+    3300216: pCylinder64
+    3300218: pCylinder65
+    3300220: pCylinder66
+    3300222: pCylinder67
+    3300224: pCylinder68
+    3300226: pCylinder69
+    3300228: pCylinder70
+    3300230: pCylinder83
+    3300232: pCylinder88
+    3300234: pCylinder89
+    3300236: pCylinder90
+    3300238: pCylinder91
+    3300240: pCylinder92
+    3300242: pCylinder93
+    3300244: pCylinder94
+    3300246: pCylinder96
+    3300248: pCylinder97
+    3300250: polySurface10
+    3300252: polySurface12
+    3300254: polySurface13
+    3300256: polySurface14
+    3300258: polySurface28
+    3300260: polySurface3
+    3300262: polySurface5
+    3300264: polySurface6
+    3300266: polySurface7
+    4300000: Beaker
+    4300002: pCylinder2
+    4300004: pCylinder36
+    4300006: pCube14
+    4300008: pCube16
+    4300010: pCube21
+    4300012: pCube23
+    4300014: pCylinder37
+    4300016: pCylinder18
+    4300018: pCylinder52
+    4300020: polySurface5
+    4300022: polySurface3
+    4300024: Beaker4
+    4300026: Beaker3
+    4300028: pCylinder61
+    4300030: pCube41
+    4300032: pCube42
+    4300034: pCube43
+    4300036: pCube44
+    4300038: polySurface6
+    4300040: polySurface7
+    4300042: pCube51
+    4300044: Beaker5
+    4300046: Beaker3
+    4300048: pCube52
+    4300050: pCylinder40
+    4300052: pCube53
+    4300054: pCylinder40
+    4300056: pCylinder62
+    4300058: pCylinder63
+    4300060: pCylinder64
+    4300062: pCylinder65
+    4300064: pCube54
+    4300066: pCylinder66
+    4300068: pCylinder67
+    4300070: pCylinder68
+    4300072: pCylinder69
+    4300074: pCylinder70
+    4300076: pCylinder83
+    4300078: polySurface10
+    4300080: pCube57
+    4300082: pCylinder88
+    4300084: pCube58
+    4300086: pCylinder89
+    4300088: pCylinder90
+    4300090: pCylinder91
+    4300092: pCylinder92
+    4300094: pCylinder93
+    4300096: pCylinder94
+    4300098: Beaker6
+    4300100: Beaker3
+    4300102: pCylinder96
+    4300104: pCylinder97
+    4300106: pCylinder105
+    4300108: pCube63
+    4300110: pCube64
+    4300112: pCylinder106
+    4300114: pCube65
+    4300116: pCylinder40
+    4300118: pCube66
+    4300120: pCylinder40
+    4300122: pCube67
+    4300124: pCylinder40
+    4300126: pCube68
+    4300128: pCylinder37
+    4300130: Beaker7
+    4300132: Beaker3
+    4300134: pCylinder107
+    4300136: pCylinder108
+    4300138: pCylinder109
+    4300140: pCylinder110
+    4300142: pasted__pCube27
+    4300144: pasted__pCube28
+    4300146: pasted__pCube27
+    4300148: pasted__pCube37
+    4300150: pasted__pCube27
+    4300152: pasted__pCube29
+    4300154: pCube69
+    4300156: pCylinder37
+    4300158: pCylinder111
+    4300160: pCylinder36
+    4300162: pCylinder112
+    4300164: pasted__pCube36
+    4300166: pasted__pCube36
+    4300168: polySurface14
+    4300170: pCube147
+    4300172: pCylinder113
+    4300174: pCylinder114
+    4300176: pCylinder117
+    4300178: pCylinder118
+    4300180: pCube148
+    4300182: Beaker8
+    4300184: Beaker3
+    4300186: pCylinder119
+    4300188: pCylinder120
+    4300190: pCylinder121
+    4300192: pCylinder122
+    4300194: pCube149
+    4300196: pCube150
+    4300198: pCube151
+    4300200: pCube152
+    4300202: pCylinder124
+    4300204: pCube157
+    4300206: pCube158
+    4300208: pCube159
+    4300210: pCylinder40
+    4300212: pCube160
+    4300214: pCube161
+    4300216: pCube162
+    4300218: pCube163
+    4300220: polySurface13
+    4300222: pCube169
+    4300224: pCube170
+    4300226: pCube171
+    4300228: pCube172
+    4300230: pCube173
+    4300232: pCube174
+    4300234: pCube175
+    4300236: pCube176
+    4300238: pCube177
+    4300240: pCube178
+    4300242: pCube179
+    4300244: pCube180
+    4300246: pCube181
+    4300248: pCube182
+    4300250: pCube183
+    4300252: pCube184
+    4300254: pCube185
+    4300256: pCube186
+    4300258: pCube187
+    4300260: pCube188
+    4300262: polySurface12
+    4300264: pCylinder125
+    4300266: polySurface28
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beaker1
+    second: {fileID: 2100000, guid: 843a2c69fced2e042a9911665b9988eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beaker_Stand
+    second: {fileID: 2100000, guid: 0b1b152ce841c8940a9c5c91df530654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BookSpine
+    second: {fileID: 2100000, guid: a7aeaee13fa4e14499cba147d4716b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Pages
+    second: {fileID: 2100000, guid: d010a734d2a30494c8eac6cd72475e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computer
+    second: {fileID: 2100000, guid: e52b94c2f548bf64a8e8d124b9fee678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cork
+    second: {fileID: 2100000, guid: ada6dfc23f42c844280f1519dbfba59d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Creep_LIghts
+    second: {fileID: 2100000, guid: 55024714716528c4f812e330d01aaf2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 87dbfffe83e987c4dac3505b878e5ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard
+    second: {fileID: 2100000, guid: 90a7188002f73f34191c7506c1d7a888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lab_Table
+    second: {fileID: 2100000, guid: 9ab6a6c6bfeb315428ec730f0a56fac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights
+    second: {fileID: 2100000, guid: b951e66d3fca857478414120eb64173f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights_dimmer
+    second: {fileID: 2100000, guid: c0f8e2962996c9c49910b4527cd23a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liquid
+    second: {fileID: 2100000, guid: 7a37f8fca531be3408ce9d9704a6871e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liquid_2
+    second: {fileID: 2100000, guid: dc923e5eef8921541b92f719b9e40bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MOnitor_screen
+    second: {fileID: 2100000, guid: a8210d0b72736d04e8fa5f53ee73de97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Stool
+    second: {fileID: 2100000, guid: 5af49a20721cc5e48a5a1c0a2fbe6d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Microscope_White
+    second: {fileID: 2100000, guid: aec153926ae0c5e4391dd8eec79cfa96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor
+    second: {fileID: 2100000, guid: 298dd1477791c1442a77a9e21dfe0ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pencil_Eraser
+    second: {fileID: 2100000, guid: 564f71eef195a324e9eaaedd43b3277a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pencil_Metal
+    second: {fileID: 2100000, guid: 2ac225f91783b5e4bbac4d87c0a6ebab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pencil_Wood
+    second: {fileID: 2100000, guid: 28491e84fdd9a10458d3b141c4f9fa55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pencil_end
+    second: {fileID: 2100000, guid: 74ab145b3763a8e4eb643e1a96dae98c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Photos
+    second: {fileID: 2100000, guid: afc4a2490b161b14aa69eb88be6e39f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate_thing
+    second: {fileID: 2100000, guid: 8d635004f345daa4baa8cf4b78f79aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Round_Desk
+    second: {fileID: 2100000, guid: 2d0084c2ec785f640a3f1c7a9f27edd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scale
+    second: {fileID: 2100000, guid: ba9c77ec3c7ca154c86750a21abb9b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScalePlate
+    second: {fileID: 2100000, guid: a9414cf8a457b744082f6c49231abd9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VialStand
+    second: {fileID: 2100000, guid: 572082247ddb32440b659d2776d293cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virus_Container
+    second: {fileID: 2100000, guid: 6a1463727d658d844befdcd2546b6c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: a40273b044aa99c429fd62ab9dbea045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Whiteboad_board
+    second: {fileID: 2100000, guid: fe0bb37d3defe7b40bd021e48e9777b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Whiteboard_metal
+    second: {fileID: 2100000, guid: 8900db042e3960a47b809d3c446b06a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 2f6c3b7a77a466948a6101cafc1c9771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert40
+    second: {fileID: 2100000, guid: 737c2ec395ee7624fbb9ff23663547c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: microscope_Black
+    second: {fileID: 2100000, guid: 62b90e7fe5c712e47ae95455c6caca06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Book
+    second: {fileID: 2100000, guid: c16a72e99802d0e4eb75a285284ae223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Book_Pages
+    second: {fileID: 2100000, guid: 612a5d379c8ada946a04ca1f3ecd5b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop
+    second: {fileID: 2100000, guid: ddddd2ebccd39da45945e5f3950b6e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop_Button
+    second: {fileID: 2100000, guid: a0efd3c702e3ed94a8d37bc59d464c25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop_Keyboard
+    second: {fileID: 2100000, guid: a60f0e4c8f9f0314097afea2bb1ad959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop_screen
+    second: {fileID: 2100000, guid: 3521ef89bcc70394b89cf18b6d32e067, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Weird_Pot
+    second: {fileID: 2100000, guid: 8bb00b486c52bd74bb4be5b56ff35e8d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

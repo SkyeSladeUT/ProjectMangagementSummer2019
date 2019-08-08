@@ -1,9 +1,13 @@
 0#
 Carl@
-~Hi I'm Carl!*
+Normal^
+~Hi I'm Carl!+
+Happy^
 Would you like to be my friend?<
 
 George@
-~Hi Carl*
+Mad^
+~Hi Carl+
+ ^
 No I would not.>
 %

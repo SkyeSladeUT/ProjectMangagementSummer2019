@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e0e81d9-f14b-4fde-a1ae-49112769f5bc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2084727887">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="prefab" value="1" />
+          <entry key="unity" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Assets/Prefabs/Required_Objects.prefab">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-366">
+              <caret line="2248" selection-start-line="2248" selection-end-line="2248" />
+              <caret line="2255" selection-start-line="2255" selection-end-line="2255" />
+              <caret line="2262" selection-start-line="2262" selection-end-line="2262" />
+              <caret line="2269" selection-start-line="2269" selection-end-line="2269" />
+              <caret line="2276" selection-start-line="2276" selection-end-line="2276" />
+              <caret line="2293" selection-start-line="2293" selection-end-line="2293" />
+              <caret line="2300" selection-start-line="2300" selection-end-line="2300" />
+              <caret line="2307" selection-start-line="2307" selection-end-line="2307" />
+              <caret line="2314" selection-start-line="2314" selection-end-line="2314" />
+              <caret line="2321" selection-start-line="2321" selection-end-line="2321" />
+              <caret line="2328" selection-start-line="2328" selection-end-line="2328" />
+              <caret line="2335" selection-start-line="2335" selection-end-line="2335" />
+              <caret line="2342" selection-start-line="2342" selection-end-line="2342" />
+              <caret line="2349" selection-start-line="2349" selection-end-line="2349" />
+              <caret line="2356" selection-start-line="2356" selection-end-line="2356" />
+              <caret line="2363" selection-start-line="2363" selection-end-line="2363" />
+              <caret line="2370" selection-start-line="2370" selection-end-line="2370" />
+              <caret line="2392" selection-start-line="2392" selection-end-line="2392" />
+              <caret line="2399" selection-start-line="2399" selection-end-line="2399" />
+              <caret line="2406" selection-start-line="2406" selection-end-line="2406" />
+              <caret line="2413" selection-start-line="2413" selection-end-line="2413" />
+              <caret line="2420" selection-start-line="2420" selection-end-line="2420" />
+              <caret line="2427" selection-start-line="2427" selection-end-line="2427" />
+              <caret line="2434" selection-start-line="2434" selection-end-line="2434" />
+              <caret line="2441" selection-start-line="2441" selection-end-line="2441" />
+              <caret line="2448" selection-start-line="2448" selection-end-line="2448" />
+              <caret line="2455" selection-start-line="2455" selection-end-line="2455" />
+              <caret line="2462" selection-start-line="2462" selection-end-line="2462" />
+              <caret line="2469" selection-start-line="2469" selection-end-line="2469" />
+              <caret line="2476" selection-start-line="2476" selection-end-line="2476" />
+              <caret line="2483" selection-start-line="2483" selection-end-line="2483" />
+              <caret line="2490" selection-start-line="2490" selection-end-line="2490" />
+              <caret line="2497" selection-start-line="2497" selection-end-line="2497" />
+              <caret line="2504" selection-start-line="2504" selection-end-line="2504" />
+              <caret line="2511" selection-start-line="2511" selection-end-line="2511" />
+              <caret line="2518" selection-start-line="2518" selection-end-line="2518" />
+              <caret line="2525" selection-start-line="2525" selection-end-line="2525" />
+              <caret line="2532" selection-start-line="2532" selection-end-line="2532" />
+              <caret line="2539" selection-start-line="2539" selection-end-line="2539" />
+              <caret line="2546" selection-start-line="2546" selection-end-line="2546" />
+              <caret line="2553" selection-start-line="2553" selection-end-line="2553" />
+              <caret line="2560" selection-start-line="2560" selection-end-line="2560" />
+              <caret line="2567" selection-start-line="2567" selection-end-line="2567" />
+              <caret line="2574" selection-start-line="2574" selection-end-line="2574" />
+              <caret line="2581" selection-start-line="2581" selection-end-line="2581" />
+              <caret line="2588" selection-start-line="2588" selection-end-line="2588" />
+              <caret line="2595" selection-start-line="2595" selection-end-line="2595" />
+              <caret line="2602" selection-start-line="2602" selection-end-line="2602" />
+              <caret line="2634" selection-start-line="2634" selection-end-line="2634" />
+              <caret line="2641" selection-start-line="2641" selection-end-line="2641" />
+              <caret line="2648" selection-start-line="2648" selection-end-line="2648" />
+              <caret line="2655" selection-start-line="2655" selection-end-line="2655" />
+              <caret line="2662" selection-start-line="2662" selection-end-line="2662" />
+              <caret line="2669" selection-start-line="2669" selection-end-line="2669" />
+              <caret line="2676" selection-start-line="2676" selection-end-line="2676" />
+              <caret line="2683" selection-start-line="2683" selection-end-line="2683" />
+              <caret line="2690" selection-start-line="2690" selection-end-line="2690" />
+              <caret line="2697" selection-start-line="2697" selection-end-line="2697" />
+              <caret line="2704" selection-start-line="2704" selection-end-line="2704" />
+              <caret line="2711" selection-start-line="2711" selection-end-line="2711" />
+              <caret line="2718" selection-start-line="2718" selection-end-line="2718" />
+              <caret line="2725" selection-start-line="2725" selection-end-line="2725" />
+              <caret line="2732" selection-start-line="2732" selection-end-line="2732" />
+              <caret line="2739" selection-start-line="2739" selection-end-line="2739" />
+              <caret line="2746" selection-start-line="2746" selection-end-line="2746" />
+              <caret line="2753" selection-start-line="2753" selection-end-line="2753" />
+              <caret line="2760" selection-start-line="2760" selection-end-line="2760" />
+              <caret line="2767" selection-start-line="2767" selection-end-line="2767" />
+              <caret line="2774" selection-start-line="2774" selection-end-line="2774" />
+              <caret line="2781" selection-start-line="2781" selection-end-line="2781" />
+              <caret line="2788" selection-start-line="2788" selection-end-line="2788" />
+              <caret line="2825" selection-start-line="2825" selection-end-line="2825" />
+              <caret line="2832" selection-start-line="2832" selection-end-line="2832" />
+              <caret line="2839" selection-start-line="2839" selection-end-line="2839" />
+              <caret line="2846" selection-start-line="2846" selection-end-line="2846" />
+              <caret line="2853" selection-start-line="2853" selection-end-line="2853" />
+              <caret line="2860" selection-start-line="2860" selection-end-line="2860" />
+              <caret line="2867" selection-start-line="2867" selection-end-line="2867" />
+              <caret line="2874" selection-start-line="2874" selection-end-line="2874" />
+              <caret line="2881" selection-start-line="2881" selection-end-line="2881" />
+              <caret line="2888" selection-start-line="2888" selection-end-line="2888" />
+              <caret line="2895" selection-start-line="2895" selection-end-line="2895" />
+              <caret line="2902" selection-start-line="2902" selection-end-line="2902" />
+              <caret line="2909" selection-start-line="2909" selection-end-line="2909" />
+              <caret line="2916" selection-start-line="2916" selection-end-line="2916" />
+              <caret line="2923" selection-start-line="2923" selection-end-line="2923" />
+              <caret line="2975" selection-start-line="2975" selection-end-line="2975" />
+              <caret line="2982" selection-start-line="2982" selection-end-line="2982" />
+              <caret line="2989" selection-start-line="2989" selection-end-line="2989" />
+              <caret line="2996" selection-start-line="2996" selection-end-line="2996" />
+              <caret line="3003" selection-start-line="3003" selection-end-line="3003" />
+              <caret line="3010" selection-start-line="3010" selection-end-line="3010" />
+              <caret line="3017" selection-start-line="3017" selection-end-line="3017" />
+              <caret line="3024" selection-start-line="3024" selection-end-line="3024" />
+              <caret line="3031" selection-start-line="3031" selection-end-line="3031" />
+              <caret line="3038" selection-start-line="3038" selection-end-line="3038" />
+              <caret line="3045" selection-start-line="3045" selection-end-line="3045" />
+              <caret line="3052" selection-start-line="3052" selection-end-line="3052" />
+              <caret line="3058" selection-start-line="3058" selection-end-line="3058" />
+              <caret line="3065" selection-start-line="3065" selection-end-line="3065" />
+              <caret line="3072" selection-start-line="3072" selection-end-line="3072" />
+              <caret line="3154" selection-start-line="3154" selection-end-line="3154" />
+              <caret line="3161" selection-start-line="3161" selection-end-line="3161" />
+              <caret line="3168" selection-start-line="3168" selection-end-line="3168" />
+              <caret line="3199" selection-start-line="3199" selection-end-line="3199" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Assets/Scenes/Cafe_Scene.unity">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</find>
+      <find>&gt;&gt;&gt;&gt;&gt;&gt;&gt; pr/24</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/workspace.xml" />
+        <option value="$PROJECT_DIR$/../../../Assets/Prefabs/Required_Objects.prefab" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1348" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0e81d9-f14b-4fde-a1ae-49112769f5bc" name="Default Changelist" comment="" />
+      <created>1563468439793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563468439793</updated>
+      <workItem from="1563468442409" duration="1300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1300000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1348" height="1038" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="1006" selection-start-line="1006" selection-end-line="1006" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Assets/Prefabs/Required_Objects.prefab">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366">
+          <caret line="2248" selection-start-line="2248" selection-end-line="2248" />
+          <caret line="2255" selection-start-line="2255" selection-end-line="2255" />
+          <caret line="2262" selection-start-line="2262" selection-end-line="2262" />
+          <caret line="2269" selection-start-line="2269" selection-end-line="2269" />
+          <caret line="2276" selection-start-line="2276" selection-end-line="2276" />
+          <caret line="2293" selection-start-line="2293" selection-end-line="2293" />
+          <caret line="2300" selection-start-line="2300" selection-end-line="2300" />
+          <caret line="2307" selection-start-line="2307" selection-end-line="2307" />
+          <caret line="2314" selection-start-line="2314" selection-end-line="2314" />
+          <caret line="2321" selection-start-line="2321" selection-end-line="2321" />
+          <caret line="2328" selection-start-line="2328" selection-end-line="2328" />
+          <caret line="2335" selection-start-line="2335" selection-end-line="2335" />
+          <caret line="2342" selection-start-line="2342" selection-end-line="2342" />
+          <caret line="2349" selection-start-line="2349" selection-end-line="2349" />
+          <caret line="2356" selection-start-line="2356" selection-end-line="2356" />
+          <caret line="2363" selection-start-line="2363" selection-end-line="2363" />
+          <caret line="2370" selection-start-line="2370" selection-end-line="2370" />
+          <caret line="2392" selection-start-line="2392" selection-end-line="2392" />
+          <caret line="2399" selection-start-line="2399" selection-end-line="2399" />
+          <caret line="2406" selection-start-line="2406" selection-end-line="2406" />
+          <caret line="2413" selection-start-line="2413" selection-end-line="2413" />
+          <caret line="2420" selection-start-line="2420" selection-end-line="2420" />
+          <caret line="2427" selection-start-line="2427" selection-end-line="2427" />
+          <caret line="2434" selection-start-line="2434" selection-end-line="2434" />
+          <caret line="2441" selection-start-line="2441" selection-end-line="2441" />
+          <caret line="2448" selection-start-line="2448" selection-end-line="2448" />
+          <caret line="2455" selection-start-line="2455" selection-end-line="2455" />
+          <caret line="2462" selection-start-line="2462" selection-end-line="2462" />
+          <caret line="2469" selection-start-line="2469" selection-end-line="2469" />
+          <caret line="2476" selection-start-line="2476" selection-end-line="2476" />
+          <caret line="2483" selection-start-line="2483" selection-end-line="2483" />
+          <caret line="2490" selection-start-line="2490" selection-end-line="2490" />
+          <caret line="2497" selection-start-line="2497" selection-end-line="2497" />
+          <caret line="2504" selection-start-line="2504" selection-end-line="2504" />
+          <caret line="2511" selection-start-line="2511" selection-end-line="2511" />
+          <caret line="2518" selection-start-line="2518" selection-end-line="2518" />
+          <caret line="2525" selection-start-line="2525" selection-end-line="2525" />
+          <caret line="2532" selection-start-line="2532" selection-end-line="2532" />
+          <caret line="2539" selection-start-line="2539" selection-end-line="2539" />
+          <caret line="2546" selection-start-line="2546" selection-end-line="2546" />
+          <caret line="2553" selection-start-line="2553" selection-end-line="2553" />
+          <caret line="2560" selection-start-line="2560" selection-end-line="2560" />
+          <caret line="2567" selection-start-line="2567" selection-end-line="2567" />
+          <caret line="2574" selection-start-line="2574" selection-end-line="2574" />
+          <caret line="2581" selection-start-line="2581" selection-end-line="2581" />
+          <caret line="2588" selection-start-line="2588" selection-end-line="2588" />
+          <caret line="2595" selection-start-line="2595" selection-end-line="2595" />
+          <caret line="2602" selection-start-line="2602" selection-end-line="2602" />
+          <caret line="2634" selection-start-line="2634" selection-end-line="2634" />
+          <caret line="2641" selection-start-line="2641" selection-end-line="2641" />
+          <caret line="2648" selection-start-line="2648" selection-end-line="2648" />
+          <caret line="2655" selection-start-line="2655" selection-end-line="2655" />
+          <caret line="2662" selection-start-line="2662" selection-end-line="2662" />
+          <caret line="2669" selection-start-line="2669" selection-end-line="2669" />
+          <caret line="2676" selection-start-line="2676" selection-end-line="2676" />
+          <caret line="2683" selection-start-line="2683" selection-end-line="2683" />
+          <caret line="2690" selection-start-line="2690" selection-end-line="2690" />
+          <caret line="2697" selection-start-line="2697" selection-end-line="2697" />
+          <caret line="2704" selection-start-line="2704" selection-end-line="2704" />
+          <caret line="2711" selection-start-line="2711" selection-end-line="2711" />
+          <caret line="2718" selection-start-line="2718" selection-end-line="2718" />
+          <caret line="2725" selection-start-line="2725" selection-end-line="2725" />
+          <caret line="2732" selection-start-line="2732" selection-end-line="2732" />
+          <caret line="2739" selection-start-line="2739" selection-end-line="2739" />
+          <caret line="2746" selection-start-line="2746" selection-end-line="2746" />
+          <caret line="2753" selection-start-line="2753" selection-end-line="2753" />
+          <caret line="2760" selection-start-line="2760" selection-end-line="2760" />
+          <caret line="2767" selection-start-line="2767" selection-end-line="2767" />
+          <caret line="2774" selection-start-line="2774" selection-end-line="2774" />
+          <caret line="2781" selection-start-line="2781" selection-end-line="2781" />
+          <caret line="2788" selection-start-line="2788" selection-end-line="2788" />
+          <caret line="2825" selection-start-line="2825" selection-end-line="2825" />
+          <caret line="2832" selection-start-line="2832" selection-end-line="2832" />
+          <caret line="2839" selection-start-line="2839" selection-end-line="2839" />
+          <caret line="2846" selection-start-line="2846" selection-end-line="2846" />
+          <caret line="2853" selection-start-line="2853" selection-end-line="2853" />
+          <caret line="2860" selection-start-line="2860" selection-end-line="2860" />
+          <caret line="2867" selection-start-line="2867" selection-end-line="2867" />
+          <caret line="2874" selection-start-line="2874" selection-end-line="2874" />
+          <caret line="2881" selection-start-line="2881" selection-end-line="2881" />
+          <caret line="2888" selection-start-line="2888" selection-end-line="2888" />
+          <caret line="2895" selection-start-line="2895" selection-end-line="2895" />
+          <caret line="2902" selection-start-line="2902" selection-end-line="2902" />
+          <caret line="2909" selection-start-line="2909" selection-end-line="2909" />
+          <caret line="2916" selection-start-line="2916" selection-end-line="2916" />
+          <caret line="2923" selection-start-line="2923" selection-end-line="2923" />
+          <caret line="2975" selection-start-line="2975" selection-end-line="2975" />
+          <caret line="2982" selection-start-line="2982" selection-end-line="2982" />
+          <caret line="2989" selection-start-line="2989" selection-end-line="2989" />
+          <caret line="2996" selection-start-line="2996" selection-end-line="2996" />
+          <caret line="3003" selection-start-line="3003" selection-end-line="3003" />
+          <caret line="3010" selection-start-line="3010" selection-end-line="3010" />
+          <caret line="3017" selection-start-line="3017" selection-end-line="3017" />
+          <caret line="3024" selection-start-line="3024" selection-end-line="3024" />
+          <caret line="3031" selection-start-line="3031" selection-end-line="3031" />
+          <caret line="3038" selection-start-line="3038" selection-end-line="3038" />
+          <caret line="3045" selection-start-line="3045" selection-end-line="3045" />
+          <caret line="3052" selection-start-line="3052" selection-end-line="3052" />
+          <caret line="3058" selection-start-line="3058" selection-end-line="3058" />
+          <caret line="3065" selection-start-line="3065" selection-end-line="3065" />
+          <caret line="3072" selection-start-line="3072" selection-end-line="3072" />
+          <caret line="3154" selection-start-line="3154" selection-end-line="3154" />
+          <caret line="3161" selection-start-line="3161" selection-end-line="3161" />
+          <caret line="3168" selection-start-line="3168" selection-end-line="3168" />
+          <caret line="3199" selection-start-line="3199" selection-end-line="3199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Assets/Scenes/Cafe_Scene.unity">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

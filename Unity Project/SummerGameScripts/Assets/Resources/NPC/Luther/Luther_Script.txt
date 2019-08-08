@@ -1,0 +1,95 @@
+0 - Luther in Sewers#
+Luther@
+ ^
+~Yo detective, What's up?{<
+
+~Seen anything+
+Sewer+
+Leave>
+
+1 - Seen anything#
+Me@
+ ^
+~I'm investigating the infection spreading throughout the island. Have you seen anything that may be of use?<
+
+Luther@
+ ^
+~Nope, I've just been staying down here, waiting for my skateboard to show up.<
+
+Me@
+ ^
+~Wouldn't it be quicker to find your skateboard if you went looking for it?<
+
+Luther@
+ ^
+~Probably, but I'm also keeping an eye on the sewer entrance.<
+
+Me@
+ ^
+~Okay...>
+
+2 - Sewer#
+Me@
+ ^
+~Hey, could I get past you for a second. I need to check out the sewers.<
+
+Luther@
+ ^
+~Sorry bro, but I'm not moving 'til I get my skateboard.+
+ ^
+I want these pipes to be fresh when I shred them.<
+
+Me@
+ ^
+~So if I find your board I can go in?<
+
+Luther@
+ ^
+~Of course. After I have had my turn, that is.<
+
+Me@
+ ^
+~I'll keep an eye out for it.<
+
+Luther@
+ ^
+~Thanks bro.>
+
+3 - Leave#
+Me@
+ ^
+~I've got to go investigate some more.<
+
+Luther@
+ ^
+~Later skater.>
+
+4 - Has Skateboard#
+Me@
+ ^
+~Found your board.<
+
+ @
+1^
+Give the skateboard#
+~You hand over the skateboard to Luther<
+
+Luther@
+F^
+~Really! This is awesome.+
+ ^
+Luther hugs board#
+I've missed you soooo much.<
+
+Me@
+ ^
+~...<
+
+Luther@
+ ^
+~Thank you so much, this skateboard is like, part of me. I guess it’s my better half… I feel so calm now.+
+ ^
+Guess I can get skating now. Later Skater!> 
+Skates off#
+
+%

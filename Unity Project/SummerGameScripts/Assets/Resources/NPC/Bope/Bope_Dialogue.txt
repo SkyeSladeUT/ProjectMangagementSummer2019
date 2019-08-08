@@ -1,0 +1,46 @@
+0 - Church#
+Bope@
+ ^
+~Hello Detective, all hail the moon+
+4^
+I have seen all the turmoil outside of these walls unraveling...{<
+
+~What do you know?+
+Who is responsible?+
+Leave>
+
+1 - What do you know#
+Me@
+ ^
+~Do you know anything about it?<
+Bope@
+ ^
+I wish I did, but all I can do is stay in here and pray to the Lunar heavens to forgive us for whatever sins we may have committed.+
+ ^
+I think this is something that was before our time here on the island.>
+
+2 - Who is responsible#
+Me@
+ ^
+~Who do you think is responsible?<
+
+Bope@
+ ^
+~I could never imagine someone doing such horrid things. This may be something that we are paying for from our ancestors…+
+4^
+You behave and may the moon  be iwth you in all your endeavors, I will  be here to pray.>
+
+3 - Leave#
+Me@
+ ^
+~I'm doing my best to stop this infection and will continue to do so until this island is saved.<
+
+Bope@
+ ^
+~And I will pray for your safety, young one.>
+
+
+%
+
+
+

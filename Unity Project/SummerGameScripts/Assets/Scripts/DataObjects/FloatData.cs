@@ -7,4 +7,9 @@ public class FloatData : ScriptableObject
 	{
 		get {return value;}
 	}
+
+	public void changeFloat(int val)
+	{
+		value = val;
+	}
 }

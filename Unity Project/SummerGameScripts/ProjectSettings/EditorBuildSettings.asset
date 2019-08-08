@@ -5,13 +5,58 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 62c775d42232aae44933d4201165a739
+  - enabled: 0
+    path: Assets/Scenes/TestScripts.unity
+    guid: 5acc0945c8cf3ad49afb94c61c8c4415
+  - enabled: 1
+    path: Assets/Scenes/Cafe_Scene.unity
+    guid: ab62409ff93fde04998ebe1c1d1481b4
   - enabled: 0
     path: Assets/Scenes/Slide_Tile_Puzzle.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/TestScripts.unity
-    guid: 5acc0945c8cf3ad49afb94c61c8c4415
+    path: Assets/Scenes/Island.unity
+    guid: 139cc886bdd862349af2b4ba7a59b509
   - enabled: 1
-    path: Assets/Scenes/Test_House.unity
-    guid: ab62409ff93fde04998ebe1c1d1481b4
+    path: Assets/Scenes/Sewer_Pipe_maze.unity
+    guid: 304c57b06351de9409b4a61bd25acdfc
+  - enabled: 1
+    path: Assets/Scenes/Secret_Lab.unity
+    guid: a68c2d01d64401949bc5eaf3a2d8a7d6
+  - enabled: 1
+    path: Assets/Scenes/Police Station.unity
+    guid: beecc94207cf14a4fb2d1721f151d1bd
+  - enabled: 1
+    path: Assets/Scenes/Ice_Cream_Shop.unity
+    guid: 10c3dd4a38d4ccf4fa586ad00eb02c5d
+  - enabled: 1
+    path: Assets/Scenes/Kim and Skye.unity
+    guid: e2db927548d18f34c80214b8d6a54646
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 35c5013e40d5ae045bc18fd50d5d540f
+  - enabled: 1
+    path: Assets/Scenes/Rose and Kirk.unity
+    guid: 1b142c21082818f488b04fca8eccc026
+  - enabled: 1
+    path: Assets/Scenes/Church.unity
+    guid: 24de1803c24d36341a7fec711a457c02
+  - enabled: 1
+    path: Assets/Scenes/Brad_Steve_House.unity
+    guid: 403d5db6f686ffa489a9bd150f9f1b96
+  - enabled: 1
+    path: Assets/Scenes/Clinic.unity
+    guid: 2671cd955008aab44842149de75dc95a
+  - enabled: 1
+    path: Assets/Scenes/Lighthouse.unity
+    guid: 5c628baeb29185d4381a2b00a5f5eee9
+  - enabled: 1
+    path: Assets/Scenes/Luther_Home.unity
+    guid: b3b819ee7c5a93f429d7f4beeda8ede0
+  - enabled: 1
+    path: Assets/Scenes/Mansion.unity
+    guid: 06abf05260b031046942297342303b41
   m_configObjects: {}

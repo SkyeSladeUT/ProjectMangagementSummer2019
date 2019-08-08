@@ -1,0 +1,24 @@
+0#
+Captain Al@
+ ^
+~Hey there! What are you doing here?<
+
+Me@
+ ^
+~I need to get some apples for Rose<
+
+Captain Al@
+M^
+~Oh great timing Carl is slowly unloading the boat. He sure does need to hurry up!"<
+
+Me@
+N^
+~I'll go talk to him.>
+
+1 - in Cafe#
+Captain Al@
+ ^
+~Hi-Ho Detective! This place makes the best waffles on the island!>
+
+%
+

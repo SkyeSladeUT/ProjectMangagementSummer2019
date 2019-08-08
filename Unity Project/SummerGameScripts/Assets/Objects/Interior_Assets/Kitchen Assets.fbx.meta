@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: c2bb9ae4d51faa549bc984d62db448b2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group1
+    100002: //RootNode
+    100004: pasted__pCube15
+    100006: pCube27
+    100008: pCube28
+    100010: pCylinder25
+    100012: pCylinder28
+    100014: pCylinder34
+    100016: pCylinder41
+    100018: polySurface12
+    100020: polySurface33
+    100022: polySurface36
+    100024: polySurface37
+    100026: polySurface38
+    100028: polySurface8
+    400000: group1
+    400002: //RootNode
+    400004: pasted__pCube15
+    400006: pCube27
+    400008: pCube28
+    400010: pCylinder25
+    400012: pCylinder28
+    400014: pCylinder34
+    400016: pCylinder41
+    400018: polySurface12
+    400020: polySurface33
+    400022: polySurface36
+    400024: polySurface37
+    400026: polySurface38
+    400028: polySurface8
+    2100000: Pot
+    2100002: Mug
+    2100004: Burners
+    2100006: Oven
+    2100008: Oven_Window
+    2100010: Oven_Handles
+    2100012: Oven_Dials56
+    2100014: Counter_Knob
+    2100016: Cupnoard_Door
+    2100018: Cupboard_Hinges
+    2100020: Counter_Top
+    2100022: Counter656
+    2100024: Fridge
+    2100026: FridgeHandle
+    2100028: Dining_Chair
+    2100030: Dining_Table
+    2100032: Soap_Dispenser
+    2100034: Cutting_Board
+    2100036: pasted__Counter_Top
+    2100038: pasted__Counter656
+    2100040: pasted__Counter_Knob
+    2100042: pasted__CounterDrawers
+    2100044: Microwave
+    2100046: lambert28
+    2100048: Microwave_Spinny_thing
+    2100050: Microwave_Window
+    2100052: Sink
+    2100054: Sink_Faucet
+    2300000: pasted__pCube15
+    2300002: pCube27
+    2300004: pCube28
+    2300006: pCylinder25
+    2300008: pCylinder28
+    2300010: pCylinder34
+    2300012: pCylinder41
+    2300014: polySurface12
+    2300016: polySurface33
+    2300018: polySurface36
+    2300020: polySurface37
+    2300022: polySurface38
+    2300024: polySurface8
+    3300000: pasted__pCube15
+    3300002: pCube27
+    3300004: pCube28
+    3300006: pCylinder25
+    3300008: pCylinder28
+    3300010: pCylinder34
+    3300012: pCylinder41
+    3300014: polySurface12
+    3300016: polySurface33
+    3300018: polySurface36
+    3300020: polySurface37
+    3300022: polySurface38
+    3300024: polySurface8
+    4300000: polySurface8
+    4300002: pCylinder25
+    4300004: pCylinder28
+    4300006: polySurface33
+    4300008: polySurface12
+    4300010: pCube27
+    4300012: pCylinder34
+    4300014: pCylinder41
+    4300016: pCube28
+    4300018: polySurface36
+    4300020: pasted__pCube15
+    4300022: polySurface37
+    4300024: polySurface38
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

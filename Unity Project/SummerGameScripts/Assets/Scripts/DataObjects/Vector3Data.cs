@@ -11,4 +11,9 @@ public class Vector3Data : ScriptableObject
     {
         vector = transform.position;
     }
+
+    public void SetDest(Vector3Data vect)
+    {
+        vector = vect.vector;
+    }
 }

@@ -1,0 +1,44 @@
+0 - initial meeting#
+Kym@
+ ^
+~I'm looking for a book. I know it was right here. It should be here but I can't find it.+ 
+ ^
+I know it should be on this shelf so I'm going to keep checking this shelf.{<
+
+~Can I help?+
+Leave>
+
+1 - option 1#
+Me@
+ ^
+~Is there anyway I can help?<
+
+Kym@
+ ^
+~You can see if I may have misplaced the book somewhere else. It has a blue cover.>
+
+2 - option 2#
+Me@
+ ^
+~Well... I'm going to go.<
+
+Kym@
+ ^
+~...>
+
+3 - Found book#
+ @
+1^
+~*You hand over the book to Kim<
+
+Kym@
+ ^
+~You found it. Thanks... I guess.>
+
+4 - Has Book#
+Kym@
+ ^
+~I'm reading, don't talk to me.>
+
+%
+

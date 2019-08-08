@@ -1,0 +1,133 @@
+0 - first encounter in house#
+Scruffles@
+A^
+~MUAHAHAHAHA!!!! I have caught you in my lair… now you can never escape!<
+
+Me@
+ ^
+~...<
+
+Scruffles@
+H^
+~Just kidding! Hello, welcome!<
+
+Me@
+N^
+~Oh, I was just about to arrest you for attempted kidnapping.<
+
+Scruffles@
+ ^
+~My humor gets me in a lot of trouble,+
+ ^
+Everyone here on the island thinks I am some kind of crazy scientist.+
+ ^
+I mean I am hardly a scientist, just crazy!<
+
+Me@
+ ^
+~...<
+
+Scruffles@
+ ^
+~Haha... there I go again.+
+ ^
+You see, I never get visitors so I get a little over the top sometimes.+
+ ^
+Anyway, what can I do for you Detective?<
+
+Me@
+ ^
+~I need some  help with something.+
+ ^
+I've found some vials filled with liquids and notes talking about an antidote, to what hopefully is causing all these infections.+
+ ^
+I'm hoping that you might be able to help me figure out all the ingredients needed.<
+
+ @
+1^
+~You give the ingredients to Scruffles<
+
+Scruffles@
+H^
+~Ohh-la-la! You brought a fun challenge for me?!+
+N^
+Okay I think I can decipher what you still need.>
+
+
+
+l - after looking at ingredients for a while#
+Scruffles@
+ ^
+~I have come to the conclusion after I calibrated my results and taken away all of the anomalies and photosynthesized the ingredients you have given me….+
+2^
+Scruffles hands you your ingredients and a note+
+F^
+I have written them down for you, and once you get all of them, come back and I can brew you up an antidote.<
+
+Me@
+ ^
+~Thanks, see you soon, I guess.<
+
+Scruffles@
+ ^
+~Alas, another one escapes my trap.<
+
+Me@
+ ^
+~...>
+
+
+2 - Conv after getting ingredient list before recieving all ingredients#
+Scruffles@
+ ^
+You're back! And since you don't have all the ingredients yet, it must mean you came to just visit me.{<
+
+~Do you like being alone?+
+Do you ever leave?+
+Yeah, let's talk?+
+Leave>
+
+
+3 - Alone#
+Me@
+ ^
+~How is it, living alone on this isolated cliff... on an isolated island?<
+
+Scruffles@
+ ^
+~Not bad, but only having your own thoughts to talk to causes some side effects.>
+
+4 - Leave#
+Me@
+ ^
+~Do you ever leave your house? How do you get your supplies and food?<
+
+Scruffles@
+ ^
+~I used to get out, but since I learned how to create my own synthetic food there isn't really any need.>
+
+5 - Story#
+Me@
+ ^
+~Well, since I'm here, is there something you'd like to talk about?<
+
+Scruffles@
+ ^
+~Actually, I had this really weird dream last night.+
+ ^
+... continue with story...>
+
+6 - Leave#
+Me@
+ ^
+~Hey, I actually have to be going, I have ingredients to collect and all.<
+
+Scruffles@
+ ^
+~Oh... okay, guess I'll see you again later, right?<
+
+Me@
+ ^
+~Right>
+
+%

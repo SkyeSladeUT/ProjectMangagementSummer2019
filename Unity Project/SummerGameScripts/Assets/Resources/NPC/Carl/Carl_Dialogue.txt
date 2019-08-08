@@ -1,0 +1,19 @@
+0#
+Carl@
+ ^
+~Hello hello, just loading up the new week's shipment. What can I get you?<
+
+Me@
+ ^
+~Hi Carl, just a few apples.<
+
+ @
+2^
+~You recieve apples from Carl<
+
+Me@
+F^
+~Thanks.>
+%
+
+

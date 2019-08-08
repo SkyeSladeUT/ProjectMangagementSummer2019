@@ -1,0 +1,248 @@
+0 - Mayor outside of house#
+Mayor Merryann@
+ ^
+~What the moon! Oh, hello detective!<
+
+Me@
+ ^
+~Hey Mayor!... Uh what are you doing?<
+
+Mayor Merryann@
+ ^
+~Ha-ha, I am so embarrassed, I seem to have misplaced my keys...+
+ ^
+Will you please help me find them?<
+
+Me@
+ ^
+~Of course I will Madam Mayor, where was the last place you could have left them?<
+
+Mayor Merryann@
+T^
+~Hmmm... I was walking through the graveyard this morning, check there first while I keep thinking...<
+
+Me@
+N^
+~Okay, I'll be right back!>
+
+1 - Have the Key#
+Me@
+ ^
+~I found your key, it was in the lost and found at the ice cream shop.<
+
+Mayor Merryann@
+1^
+Give Keys to Mayor#
+~Thank you so much! Phew, I was worried. Last time I lost my keys I couldn't find them for days.<
+
+Me@
+F^
+~Days?<
+
+Mayor Merryann@
+ ^
+~Heh heh... why don't you come inside? I can make some tea and show you around.+
+ ^
+It is haunted... But you're brave, won't you still come in?{<
+
+~Okay!+
+No thank you>
+
+2 - Okay#
+Me@
+ ^
+~Sure, why not?<
+
+Mayor Merryann@
+ ^
+~Great! The ghosts are friendly anyway.<
+
+Me@
+ ^
+~Well, that's good, I guess.>
+
+3 - No Thanks#
+Me@
+ ^
+~No thank you, I've got more investigating to do.<
+
+Mayor Merryann@
+ ^
+~Oh well, my door is open to you anytime, just come right in.>
+
+
+4 - Inside House - before exploring#
+
+Mayor Merryann@
+ ^
+~You know, with everything going on I think I am more safe with the ghost!{<
+
+~It is very strange+
+Why is it happening>
+
+5 - very strange#
+Me@
+ ^
+~It is very strange, people randomly turning into zombie-like creatures.<
+
+Mayor Merryann@
+ ^
+~I have been elected mayor here for so long and I care so much about the island. I just want my people to be safe.>
+
+6 - Why#
+Me@
+ ^
+~Do you have any idea why this is happening?<
+
+Mayor Merryann@
+ ^
+~You know this island seems so nice and pretty now, but we do have quite a dark past...+
+ ^
+I wonder if its karma coming back around to us.{<
+
+~Dark past+
+Continue Exploring>
+
+7 - Dark past#
+Me@
+ ^
+~What makes our history so dark?<
+
+Mayor Merryann@
+ ^
+~I'm not good with details. There might be some information around the manor, why don't you take a look around!>
+
+8 - Continue Exploring#
+Me@
+ ^
+~I'm going to keep looking around. The longer I wait on this investigation the more people are hurt by the virus.<
+
+Mayor Merryann@
+ ^
+~Of course, It's a shame what happened to all those people years ago... but we have such a wonderful life now.+
+ ^
+Please, detective, save my island and my people!{<
+
+~I'll try my best+
+Save it yourself>
+
+9 - I'll do my best#
+Me@
+ ^
+I'll do my best, I wont let you down.<
+
+Mayor Merryann@
+ ^
+Thank you! I knew I could count on you, I'll be here trying to help too.>
+
+10 - Save it yourself#
+Me@
+ ^
+~Why don't you just save it yourself.<
+
+Mayor Merryann@
+M^
+~And you call yourself a detective! Go to moon!>
+
+11 - inside house after first conv#
+Mayor Merryann@
+ ^
+~Yes detective? How can I help you?{<
+
+~Kym+
+Kirk+
+Places to search+
+Leave>
+
+12 - Kym#
+Me@
+ ^
+~Do you know about Kym being infected?<
+
+Mayor Merryann@
+ ^
+~Yeah, what a shame, I hear she's still reading even though she's infected!+
+ ^
+I sure do hope Dr. Brad can figure out what is going on with them...>
+
+13 - Kirk#
+Me@
+ ^
+Have you heard about Kirk. He got infected almost the exact same time as Kym.<
+
+Mayor Merryann@
+ ^
+~Poor Kirk, I know he's a simple boy but his intentions were always in the right place. I sure wonder how he got infected...>
+
+14 - place suggestions#
+Me@
+ ^
+~Do you have any suggestions as to where I should search?<
+
+Mayor Merryann@
+ ^
+~I know this island really well, but the one place I never go to is the sewer. It stinks!+
+ ^
+I don't know what's there except Luther. I don't know how he stands to live there!>
+
+15 - Leave#
+Me@
+ ^
+~Well, I'm going to get going. There's more investigating to do.<
+
+Mayor Merryann@
+ ^
+~Of course, I'll be here if you need help.>
+
+16 - In church#
+Mayor Merryann@
+ ^
+~Why, hello detective, how are you?<
+
+Me@
+ ^
+~I'm doing fine, but the island, not so much.<
+
+Mayor Merryann@
+ ^
+~Yeah, I know. That's why I'm in here, praying that things start to get better<
+
+Me@
+ ^
+~Well I'm going to leave you to it. I need to look around some more.>
+
+17 - leaving church#
+Mayor Merryann@
+ ^
+~What in the moon's name is that?! The church has a secret set of stairs. I must be seeing things.+
+ ^
+I think it's time for me to head home and take a rest. Detective, feel free to stop by.>
+
+18 - Mad Merry#
+Mayor Merryann@
+M^
+~...>
+
+19 - Checked Graveyard#
+Me@
+ ^
+~I didn't see any keys there, where else did you go today?<
+
+Mayor Merryann@
+ ^
+~Oh whoops, it was yesterday when I was walking through there.<
+
+Me@
+ ^
+~...<
+
+Mayor Merryann@
+ ^
+~Oh yeah! I had ice cream for breakfast... then I went to read at the library after. Try those two places.<
+
+Me@
+ ^
+~Ok, I'll check them out.>
+
+
+%

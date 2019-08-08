@@ -9,13 +9,26 @@ public class Nav_Mesh_Controller : MonoBehaviour
     private NavMeshAgent _agent;
     private Vector3 _destination, offset;
     public float walkSpeed, runSpeed;
-    public UnityEvent ReachedDestination;
+    public ActionObject ReachDest;
+    public TransformData destination;
+    public BoolData ReachedDest;
 
     private void Start()
     {
+        ReachedDest.value = false;
         offset.Set(.05f, .05f, .05f);
         _agent = GetComponent<NavMeshAgent>();
         DisableAgent();
+    }
+
+    public void GetAgent()
+    {
+        _agent = GetComponent<NavMeshAgent>();
+    }
+
+    public void OnMesh()
+    {
+        //Debug.Log(_agent.isOnNavMesh);
     }
 
     public void DisableAgent()
@@ -26,21 +39,29 @@ public class Nav_Mesh_Controller : MonoBehaviour
     public void EnableAgent()
     {
         _agent.enabled = true;
+        //Debug.Log("Enable");
     }
 
-    public void SetDestination(Vector3 newDest)
+    public void SetDestination(Transform newDest)
     {
-        _destination = newDest;
+        destination.trans = newDest;
     }
 
     public void Walk()
     {
+        ReachedDest.value = false;
+        if (_agent == null)
+        {
+            _agent = GetComponent<NavMeshAgent>();
+        }
+        //Debug.Log("OnNavMesh: " + _agent.isOnNavMesh);
         _agent.speed = walkSpeed;
         StartCoroutine(GoToDest());
     }
 
     public void Walk_Back()
     {
+        
         _agent.speed = walkSpeed;
         StartCoroutine(WalkBackwards());
     }
@@ -53,18 +74,18 @@ public class Nav_Mesh_Controller : MonoBehaviour
 
     private IEnumerator GoToDest()
     {
-        while (true)
+        while (!ReachedDest.value)
         {
-            _agent.destination = _destination;
+            _agent.destination = destination.trans.position;
             yield return new WaitForFixedUpdate();
-            if (((_agent.transform.position.z <= (_destination + offset).z) &&
-                 (_agent.transform.position.x <= (_destination + offset).x))
-                && ((_agent.transform.position.z >= (_destination - offset).z) &&
-                    (_agent.transform.position.x >= (_destination - offset).x)))
+            if (((_agent.transform.position.z <= (destination.trans.position + offset).z) &&
+                 (_agent.transform.position.x <= (destination.trans.position + offset).x))
+                && ((_agent.transform.position.z >= (destination.trans.position - offset).z) &&
+                    (_agent.transform.position.x >= (destination.trans.position - offset).x)))
                 break;
         }
-        ReachedDestination.Invoke();
-        print("Done");
+        ReachDest.Action.Invoke();
+        //print("Done");
         
     }
 
@@ -84,10 +105,10 @@ public class Nav_Mesh_Controller : MonoBehaviour
             }
             transform.eulerAngles = Vector3.Lerp(transform.eulerAngles, direc, Time.deltaTime);
             yield return new WaitForFixedUpdate();
-            if (((_agent.transform.position.z <= (_destination + offset).z) &&
-                 (_agent.transform.position.x <= (_destination + offset).x))
-                && ((_agent.transform.position.z >= (_destination - offset).z) &&
-                    (_agent.transform.position.x >= (_destination - offset).x)))
+            if (((_agent.transform.position.z <= (destination.trans.position + offset).z) &&
+                 (_agent.transform.position.x <= (destination.trans.position + offset).x))
+                && ((_agent.transform.position.z >= (destination.trans.position - offset).z) &&
+                    (_agent.transform.position.x >= (destination.trans.position - offset).x)))
                 break;
         }
         _agent.updateRotation=true; //when no longer need to step back then go to normal
