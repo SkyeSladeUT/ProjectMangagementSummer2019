@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Controls
   m_EditorClassIdentifier: 
   itemName: Controls
-  itemDescription: Esc - Inventory, E - Interact, WASD or arrows - Move, Shift - run
+  itemDescription: i - Inventory, E - Interact, WASD or arrows - Move, Shift - run,
+    Esc - Quit
   itemType: Hint
   inventoryImage: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}

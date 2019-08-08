@@ -12,7 +12,7 @@ M^
 ~Oh great timing Carl is slowly unloading the boat. He sure does need to hurry up!"<
 
 Me@
- ^
+N^
 ~I'll go talk to him.>
 
 1 - in Cafe#

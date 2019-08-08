@@ -75,9 +75,9 @@ Give the skateboard#
 ~You hand over the skateboard to Luther<
 
 Luther@
- ^
-~Really! This is awesome.+
 F^
+~Really! This is awesome.+
+ ^
 Luther hugs board#
 I've missed you soooo much.<
 

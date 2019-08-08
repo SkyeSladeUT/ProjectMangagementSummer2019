@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b880647c-94a4-4e91-8e3a-1320773a21b6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Dock/Dock (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dock/Dock (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dock/Dock (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctors office/Clinic (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctors office/Clinic (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doctors office/Clinic (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Door/Door_Albedo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fountain/Fountain (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fountain/Fountain (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fountain/Fountain (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gate/Gate (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gate/Gate (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gate/Gate (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (7).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (8).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Generic/Fence (9).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (7).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (8).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Monds/Monds (9).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (7).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (8).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Graves4 (9).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lamp_post/Lamp (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lamp_post/Lamp (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lamp_post/Lamp (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (7).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (8).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/Grave (9).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Fence/Prof3 (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Fence/Prof3 (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Fence/Prof3 (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty_Rod/Prof2 (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty_Rod/Prof2 (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty_Rod/Prof2 (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty_Rod/Prof2 (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty_Rod/Prof2 (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty_Rod/Prof2 (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Prof (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Prof (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Prof (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Prof (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Prof (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Prof (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Beach_redone/Beach (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Beach_redone/Beach (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Beach_redone/Beach (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Boulder/Boulder (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Boulder/Boulder (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Boulder/Boulder (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliff_moon/Cliff_Moon (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliff_moon/Cliff_Moon (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliff_moon/Cliff_Moon (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (10).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (11).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (12).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (7).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (8).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (9).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/LowGround/Lowground (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/LowGround/Lowground (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/LowGround/Lowground (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Mansion_ground/Grass (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Mansion_ground/Grass (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Mansion_ground/Grass (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Moon_top/Mooon (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Moon_top/Mooon (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Moon_top/Mooon (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Ramp/Ramp (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Ramp/Ramp (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nature/Ramp/Ramp (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Police_station/Police (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Police_station/Police (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Police_station/Police (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Police_station/Police (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Police_station/Police (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Sewer/Sewer (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Sewer/Sewer (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Sewer/Sewer (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Sewer/Sewer (4).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Sewer/Sewer (5).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Sewer/Sewer (6).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Tent/Tent (1).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Tent/Tent (2).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Residential/Tent/Tent (3).png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Prefabs/Assets/Wall Lamp.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Material/Building/Library.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Material/Building/Library.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Dock.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Dock.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/House.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/House.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Library.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Library.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Lighthouse.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Lighthouse.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Tent.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assets/Buildings/base_model/Tent.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Church_Inside.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Church_Inside.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Bridge (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Bridge (1).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Bridge (2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Bridge (2).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Bridge (3).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Bridge (3).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Bridge_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Bridge_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Bridge_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Bridge_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bridge/Bridge_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Bridge/Bridge_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church (3).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church (2).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Text_Trans.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Text_Trans.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_Text_Trans.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Text_Trans.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_text.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_text.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Church/Church_text.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_text.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock/Dock_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dock/Dock_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock/Dock_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Dock/Dock_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock/Dock_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dock/Dock_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock/Dock_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Dock/Dock_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock/Dock_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Dock/Dock_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock/Dock_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Dock/Dock_text.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Dock/Dock_text.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Clinic_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Clinic_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Clinic_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Clinic_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Clinic_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Clinic_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Clinic_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Clinic_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Clinic_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Clinic_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Clinic_normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Doc_Clinic_Trans.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Doc_Clinic_Trans.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Doc_Clinic_Trans.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Doc_Clinic_Trans.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Doc_clinic.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Doc_clinic.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Doctors office/Doc_clinic.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Doc_clinic.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_Trans.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_Trans.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_Trans.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_Trans.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_01_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_01_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02_Colosr.png" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02_Colosr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02_Colosr.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02_Colosr.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02_Trans.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02_Trans.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_02_Trans.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_02_Trans.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business/Police_station/Police_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station/Police_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Church.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Church/Church (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church (1).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Church/Church_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Church/Church_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Church/Church_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Church/Church_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dock.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Dock.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dock/Dock_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Dock/Dock_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dock/Dock_text.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doctors office.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doctors office/Clinic_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Doctors office/Clinic_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Door.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Door.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Door/Door_metal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Door/Door_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fountain.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fountain/Fountain.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gate.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Gate.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gate/Gate_text.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Ger_tin_sher/Germain.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Ger_tin_sher/Sherry.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Ger_tin_sher/Tina.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Monds/Amy.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Monds/Monds.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Monds/Spot.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Professors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Professors/Fence.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Professors/Fence/Fence.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Professors/Marty_Rod.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Rog_Alb_Jack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Jack.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Robert.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Roger.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamp_post.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamp_post/Lamps.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Door.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Door/Door.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Door/Door.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Door/Door.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Door/Door.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Door/Door_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Door/Door_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Door/Door_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Door/Door_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Door/Door_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Door/Door_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Door/Door_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Door/Door_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain/Fountain.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain/Fountain.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain/Fountain_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain/Fountain_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain/Fountain_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain/Fountain_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain/Fountain_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain/Fountain_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain/Fountain_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain/Fountain_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain/Fountain_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain/Fountain_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Fountain/Fountain_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Fountain/Fountain_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate/Gat_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Gate/Gat_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate/Gat_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Gate/Gat_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate/Gat_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Gate/Gat_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate/Gat_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Gate/Gat_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate/Gate_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Gate/Gate_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate/Gate_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Gate/Gate_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Gate/Gate_text.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Gate/Gate_text.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence1_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence1_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence2_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence2_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Generic/GraveFence3_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Generic/GraveFence3_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/Germain.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/Germain.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/KangaGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/KangaGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/KangaGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/KangaGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/KangaGrave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/KangaGrave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/KangaGrave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/KangaGrave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/KangaGrave_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/KangaGrave_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/KangaGrave_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/KangaGrave_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/OtterGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/OtterGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/OtterGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/OtterGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/OtterGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/OtterGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/OtterGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/OtterGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/Otter_Grave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/Otter_Grave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/Otter_Grave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/Otter_Grave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/Sherry.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/Sherry.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/Tina.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/Tina.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/ToucanGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/ToucanGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/ToucanGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/ToucanGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/ToucanGrave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/ToucanGrave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/ToucanGrave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/ToucanGrave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/ToucanGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/ToucanGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Ger_tin_sher/ToucanGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Ger_tin_sher/ToucanGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/Amy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/Amy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/CatGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/CatGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/CatGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/CatGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/CatGrave_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/CatGrave_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/CatGrave_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/CatGrave_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/CatGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/CatGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/CatGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/CatGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/DogGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/DogGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/DogGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/DogGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/DogGrave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/DogGrave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/DogGrave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/DogGrave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/DogGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/DogGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/DogGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/DogGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/MondGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/MondGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/MondGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/MondGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/MondGrave_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/MondGrave_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/MondGrave_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/MondGrave_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/MondGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/MondGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/MondGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/MondGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/Monds.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/Monds.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Monds/Spot.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Monds/Spot.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Anthony.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Anthony.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Anthony.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Anthony.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/AnthonyGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/AnthonyGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/AnthonyGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/AnthonyGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/AnthonyGrave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/AnthonyGrave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/AnthonyGrave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/AnthonyGrave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/AnthonyGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/AnthonyGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/AnthonyGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/AnthonyGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Clayton.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Clayton.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Clayton.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Clayton.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/ClaytonGrave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/ClaytonGrave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/ClaytonGrave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/ClaytonGrave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/ClaytonGrave_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/ClaytonGrave_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/ClaytonGrave_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/ClaytonGrave_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/ClaytonGrave_color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/ClaytonGrave_color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/ClaytonGrave_color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/ClaytonGrave_color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Fence/Fence.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Fence/Fence.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Fence/Fence01_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Fence/Fence01_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Fence/Fence01_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Fence/Fence01_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Fence/Fence01_color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Fence/Fence01_color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Fence/Fence01_color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Fence/Fence01_color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Fence/Fence01_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Fence/Fence01_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Fence/Fence01_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Fence/Fence01_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/Marty.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Marty.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/Marty.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/MartyGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/MartyGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/MartyGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/MartyGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/MartyGrave_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/MartyGrave_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/MartyGrave_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/MartyGrave_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/MartyGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/MartyGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/MartyGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/MartyGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Rodayne.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/Rodayne.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/Rodayne.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/Rodayne.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/RodayneGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/RodayneGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/RodayneGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/RodayneGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/RodayneGrave_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/RodayneGrave_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/RodayneGrave_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/RodayneGrave_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/RodayneGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/RodayneGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Professors/Marty_Rod/RodayneGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Professors/Marty_Rod/RodayneGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/Jack.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Jack.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/KoalGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/KoalGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/KoalGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/KoalGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/KoalGrave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/KoalGrave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/KoalGrave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/KoalGrave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/KoalGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/KoalGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/KoalGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/KoalGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/LeoGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/LeoGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/LeoGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/LeoGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/LeoGrave_Metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/LeoGrave_Metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/LeoGrave_Metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/LeoGrave_Metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/LeoGrave_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/LeoGrave_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/LeoGrave_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/LeoGrave_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/PengGrave_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/PengGrave_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/PengGrave_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/PengGrave_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/PengGrave_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/PengGrave_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/PengGrave_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/PengGrave_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/PengGrave_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/PengGrave_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/PengGrave_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/PengGrave_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/Robert.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Robert.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Graves/Rog_Alb_Jack/Roger.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Graves/Rog_Alb_Jack/Roger.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post/Lamp_Color.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post/Lamp_Color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post/Lamp_Color.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post/Lamp_Color.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post/Lamp_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post/Lamp_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post/Lamp_metal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post/Lamp_metal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post/Lamp_normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post/Lamp_normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post/Lamp_normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post/Lamp_normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc_buildings/Lamp_post/Lamps.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Lamp_post/Lamps.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nature/Cliffs/Cliff (1).mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (1).mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nature/Cliffs/Cliff (2).mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (2).mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nature/Cliffs/Cliff (3).mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Nature/Cliffs/Cliff (3).mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Police_station.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Police_station.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/Clinic.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/Clinic.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/Dock.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/Dock.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/House.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/House.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/Ice_cream_shop.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/Ice_cream_shop.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/Library.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/Library.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/Lighthouse.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/Lighthouse.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/Police station.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/Police station.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base_model/Sewer_entrance.ma.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base_model/Sewer_entrance.ma.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Prefabs/Assets/Wall Lamp.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Prefabs/Assets/Wall Lamp.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Scenes/Mansion.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Scenes/Mansion.unity" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Bridge.meta" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bridge.meta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Bridge.meta" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="1360" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b880647c-94a4-4e91-8e3a-1320773a21b6" name="Default" comment="" />
+      <created>1565145475641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565145475641</updated>
+      <workItem from="1565145478575" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1088" height="831" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Bridge.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

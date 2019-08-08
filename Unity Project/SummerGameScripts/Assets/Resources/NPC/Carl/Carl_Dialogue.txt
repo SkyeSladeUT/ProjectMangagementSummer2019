@@ -12,7 +12,7 @@ Me@
 ~You recieve apples from Carl<
 
 Me@
- ^
+F^
 ~Thanks.>
 %
 

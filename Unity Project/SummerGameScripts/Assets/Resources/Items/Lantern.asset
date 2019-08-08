@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Lantern
   itemDescription: This lantern seems to be well kept and still works.
   itemType: Object
-  inventoryImage: {fileID: 0}
+  inventoryImage: {fileID: 21300002, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

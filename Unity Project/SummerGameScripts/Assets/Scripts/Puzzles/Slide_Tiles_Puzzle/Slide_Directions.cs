@@ -1,10 +1,5 @@
 ﻿using System.Collections.Generic;
-using System.Runtime.InteropServices;
-using TMPro;
 using UnityEngine;
-using UnityEngine.Events;
-using UnityEngine.UI;
-using UnityEngine.WSA;
 [CreateAssetMenu(menuName = "Slide_Tile_Puzzle/Directions")]
 public class Slide_Directions : ScriptableObject
 {
