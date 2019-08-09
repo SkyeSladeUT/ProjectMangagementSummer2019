@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Note 03
   itemDescription: info about ingredient
   itemType: Note
-  inventoryImage: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  inventoryImage: {fileID: 21300016, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

@@ -4,20 +4,24 @@ using UnityEngine;
 
 public class Door_Script : MonoBehaviour
 {
+    //private AudioSource aud;
     public BoolData IsOpen;
-        private Animator anim;
+        public Animator anim;
     
         private void Start()
         {
-            anim = GetComponent<Animator>();
+            //aud = GetComponent<AudioSource>();
+            if(anim == null)
+                anim = GetComponent<Animator>();
         }
     
         public void OpenCloseDoor()
         {
-            if (anim == null)
+            //aud.Play();
+            /*if (anim == null)
             {
                 anim = GetComponent<Animator>();
-            }
+            }*/
             if (IsOpen.value)
             {
                 IsOpen.value = false;

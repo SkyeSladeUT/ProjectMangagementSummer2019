@@ -5877,6 +5877,21 @@ PrefabInstance:
       propertyPath: Event.Array.data[1].m_PersistentCalls.m_Calls.Array.data[3].m_Mode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 467339606100920446, guid: 5bca15cb0d17f1c42b2b390b77b68526,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.28397438
+      objectReference: {fileID: 0}
+    - target: {fileID: 7308561799765829548, guid: 5bca15cb0d17f1c42b2b390b77b68526,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.113
+      objectReference: {fileID: 0}
+    - target: {fileID: 7308561801781336434, guid: 5bca15cb0d17f1c42b2b390b77b68526,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.113000005
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1844622820, guid: 5bca15cb0d17f1c42b2b390b77b68526, type: 3}
     - {fileID: 7934490084399404674, guid: 5bca15cb0d17f1c42b2b390b77b68526, type: 3}
