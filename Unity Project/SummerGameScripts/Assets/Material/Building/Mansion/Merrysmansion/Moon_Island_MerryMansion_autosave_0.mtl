@@ -1,0 +1,15 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.151580502)
+
+newmtl lambert1
+kd 0.5 0.5 0.5
+illum 1
+
+newmtl Details_window_railings
+kd 0.0714286 0.0714286 0.0714286
+illum 1
+
+newmtl defaultPolygonShader
+kd 0.5 0.5 0.5
+illum 1
+
