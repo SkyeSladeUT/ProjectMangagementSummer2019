@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Damp_Paper
   m_EditorClassIdentifier: 
   itemName: Damp Paper
-  itemDescription: Why?
+  itemDescription: Paper that has been been in contact with H2O (why are we holding
+    this?)
   itemType: Object
   inventoryImage: {fileID: 21300018, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

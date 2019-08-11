@@ -87,7 +87,12 @@ ModelImporter:
     2300000: polySurface9
     3300000: polySurface9
     4300000: polySurface9
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalmTree
+    second: {fileID: 2100000, guid: 342114df5473d764a97fb14cad9058fb, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

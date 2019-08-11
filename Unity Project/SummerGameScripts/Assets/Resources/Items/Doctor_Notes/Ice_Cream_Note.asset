@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18a9e4362b53bcc44ba18ae7dfe3a2d3, type: 3}
   m_Name: Ice_Cream_Note
   m_EditorClassIdentifier: 
-  itemName: Note 03
-  itemDescription: info about ingredient
+  itemName: Note 3
+  itemDescription: The milk must go sour as to have a reaction with O2, this step
+    is crucial. It must be exactly 7 days rotten.
   itemType: Note
   inventoryImage: {fileID: 21300016, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

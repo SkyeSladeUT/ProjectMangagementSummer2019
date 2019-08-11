@@ -68,7 +68,57 @@ ModelImporter:
     4300014: pTorus6_pTorus6
     4300016: pTorus7_pTorus7
     4300018: pTorus8_pTorus8
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_house_geo_Large_house_geoMat
+    second: {fileID: 2100000, guid: a23551ff1bff7344b921dcbac8edcb1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube3_pCube3Mat
+    second: {fileID: 2100000, guid: b7ae425c372eb5848a488e15e37d2460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube6_pCube6Mat
+    second: {fileID: 2100000, guid: d297cf5d09a30944bb2f333da544110e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube7_pCube7Mat
+    second: {fileID: 2100000, guid: 367f704082713434a8df50fe8c5987f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pTorus3_pTorus3Mat
+    second: {fileID: 2100000, guid: 6e3ab73ea49988d42861c40a42db109e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pTorus4_pTorus4Mat
+    second: {fileID: 2100000, guid: 787f428c45878b845976e1b66f856f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pTorus5_pTorus5Mat
+    second: {fileID: 2100000, guid: e02746399f4e98b4db75c3a246a28ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pTorus6_pTorus6Mat
+    second: {fileID: 2100000, guid: ae4cfafd8deea9240ba8ac4cb56630b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pTorus7_pTorus7Mat
+    second: {fileID: 2100000, guid: 4fdf6b14e627cc247a8e055d2b054700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pTorus8_pTorus8Mat
+    second: {fileID: 2100000, guid: 9fb3b6f1c97162446afeab1f614af539, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

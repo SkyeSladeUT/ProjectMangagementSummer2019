@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Salt
   m_EditorClassIdentifier: 
   itemName: Salt
-  itemDescription: Salt
+  itemDescription: Married to Pepper.
   itemType: Object
   inventoryImage: {fileID: 21300020, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

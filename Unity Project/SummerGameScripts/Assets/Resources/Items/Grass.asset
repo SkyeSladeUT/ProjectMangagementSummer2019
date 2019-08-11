@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18a9e4362b53bcc44ba18ae7dfe3a2d3, type: 3}
   m_Name: Grass
   m_EditorClassIdentifier: 
-  itemName: Grass
-  itemDescription: 3 Blades of grass
+  itemName: 3 Blades of Grass
+  itemDescription: "The Earth\u2019s hair"
   itemType: Object
   inventoryImage: {fileID: 21300008, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

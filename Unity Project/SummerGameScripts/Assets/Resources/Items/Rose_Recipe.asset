@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Rose_Recipe
   m_EditorClassIdentifier: 
   itemName: Recipe
-  itemDescription: A recipe found in Rose and Kirk's house. Most likely just Rose's
-    cookie recipe.
+  itemDescription: "3 apples, 1 cup of milk, 1 gallon of brown sugar, a sprinkle of
+    cinnamon. Preheat oven for 450 degrees and mix ingredients into pan. Bake until
+    golden brown. This is Kirk\u2019s Favorite dessert!"
   itemType: Note
   inventoryImage: {fileID: 21300016, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

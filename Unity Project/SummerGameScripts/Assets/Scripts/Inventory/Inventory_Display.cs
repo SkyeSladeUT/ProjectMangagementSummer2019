@@ -11,14 +11,17 @@ public class Inventory_Display : MonoBehaviour
     private List<Image> ObjectImages, NoteImages, KeyImages, DetectiveNoteImages;
     public List<Button> ObjectButtons, NoteButtons, KeyButtons, DetectiveNoteButtons;
     private Item item;
+    public Dropdown drop;
 
     private void Start()
     {
         Initialize();
+        drop.value = 0;
     }
 
     public void Initialize()
     {
+        drop.value = 0;
         ObjectImages = new List<Image>();
         ObjectImages.Clear();
         NoteImages = new List<Image>();

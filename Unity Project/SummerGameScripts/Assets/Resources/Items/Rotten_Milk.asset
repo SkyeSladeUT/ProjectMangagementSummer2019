@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Rotten_Milk
   m_EditorClassIdentifier: 
   itemName: Rotten Milk
-  itemDescription: Gross :(
+  itemDescription: This is from an old cow.
   itemType: Object
   inventoryImage: {fileID: 21300010, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

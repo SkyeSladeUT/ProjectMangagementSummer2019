@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18a9e4362b53bcc44ba18ae7dfe3a2d3, type: 3}
   m_Name: Library_Note
   m_EditorClassIdentifier: 
-  itemName: Note 04
-  itemDescription: info about ingredient
+  itemName: Note 4
+  itemDescription: "I have found that dry paper does not have the correct texture
+    to hold on to the antidote\u2026 the more damp the better. "
   itemType: Note
   inventoryImage: {fileID: 21300016, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}
