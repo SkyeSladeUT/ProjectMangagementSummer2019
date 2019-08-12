@@ -8,7 +8,7 @@ H^
 ~HI! And I was helping!<
 
 Me@
- ^
+N^
 ~Seems like the town is a little spooked out about what happened…<
 
 Dr. Brad@
@@ -24,14 +24,14 @@ Me@
 ~What in the moon is going on around here! I...<
 
 Kirk@
-H^
+F^
 Sound effect, everyone turns towards Kirk#
 ~Sorry, I tooted.<
 
 Me@
  ^
 ~Uhhmm... that's okay.+
-S^
+ ^
 Turn Back Towards Brad#
 Anyway, as I was saying, I need to investigate to see how this happened.<
 
@@ -46,7 +46,7 @@ U^
 ~I'm SCARED!<
 
 Me@
-1^
+N^
 Turn towards Kirk#
 ~Don't worry Kirk, I am going to get to the bottom of this.>
 %

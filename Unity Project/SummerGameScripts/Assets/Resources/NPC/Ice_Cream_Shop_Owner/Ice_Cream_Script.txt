@@ -30,7 +30,7 @@ Me@
 
 2 - Talk#
 Ice Cream Worker@
- ^
+N^
 ~What can I do for you, detective?{<
 
 ~Information+
@@ -39,7 +39,7 @@ Leave>
 
 3 - Info#
 Me@
- ^
+N^
 ~I'm investigating what might have caused Carl's illness. Do you know of anything or one that might be related?<
 
 Ice Cream Worker@
@@ -50,7 +50,7 @@ I think it could be someone that lives here!>
 
 4 - Keys#
 Me@
- ^
+N^
 ~Can I check out the back room?<
 
 Ice Cream Worker@
@@ -65,7 +65,7 @@ Me@
 
 5 - Leave#
 Me@
- ^
+N^
 ~I've got to get back to my investigation. I'll be back if I have any more questions.<
 
 Ice Cream Worker@
@@ -83,7 +83,7 @@ Me@
 ~You hand over the keys.<
 
 Ice Cream Worker@
- ^
+F^
 ~Thanks. I'll go open it for you right now.>
 
 7 - Fixed Air Conditioning#

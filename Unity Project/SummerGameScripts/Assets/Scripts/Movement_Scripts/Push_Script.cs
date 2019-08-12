@@ -10,6 +10,12 @@ public class Push_Script : MonoBehaviour
     private float time, scale;
     private bool _crrunning = false;
     public BoolData isGrabbing;
+    public AudioSource pushsound;
+
+    private void Start()
+    {
+        pushsound = GetComponent<AudioSource>();
+    }
 
 
     private void OnTriggerEnter(Collider other)
@@ -28,6 +34,7 @@ public class Push_Script : MonoBehaviour
         //Debug.Log("Leave");
         isGrabbing.value = false;
         objectrb = null;
+        pushsound.Stop();
     }
 
     private void OnControllerColliderHit(ControllerColliderHit hit)
@@ -57,6 +64,7 @@ public class Push_Script : MonoBehaviour
     private IEnumerator Push(GameObject obj)
     {
         _crrunning = true;
+        pushsound.Play();
         while (isGrabbing.value)
         {
             obj.transform.position = Vector3.Lerp(obj.transform.position, _position,
@@ -65,7 +73,7 @@ public class Push_Script : MonoBehaviour
             scale -= Time.deltaTime;
             yield return new WaitForFixedUpdate();
         }
-
+        pushsound.Stop();
         _crrunning = false;
     }
 

@@ -10,6 +10,28 @@ public class AnimationScript : MonoBehaviour
     public KeyCodeData Push_Keys;
     public List<string> TriggerNames;
     public BoolData in_control, Can_Run;
+    public string walktrigg = "Walk", idletrigg = "Idle", runtrigg = "Run";
+    
+    public void normalwalk()
+    {
+        walktrigg = "Walk";
+        idletrigg = "Idle";
+        runtrigg = "Run";
+    }
+
+    public void PoisonWalk()
+    {
+        walktrigg = "Poison_Walk";
+        idletrigg = "Poison_Idle";
+        runtrigg = "";
+    }
+
+    public void CrawlWalk()
+    {
+        walktrigg = "CrawlMove";
+        idletrigg = "CrawlIdle";
+        runtrigg = "";
+    }
 
     private void Start()
     {
@@ -50,19 +72,19 @@ public class AnimationScript : MonoBehaviour
 
             else if (Forward.KeyHold())
             {
-                anim.ResetTrigger("Idle");
+                anim.ResetTrigger(idletrigg);
                 if (Run.KeyHold() && Can_Run.value)
                 {
                     ResetAllTriggers();
                     anim.SetTrigger("Run");
-                    anim.ResetTrigger("Walk");
+                    anim.ResetTrigger(walktrigg);
 
                 }
                 else
                 {
                     ResetAllTriggers();
                     anim.ResetTrigger("Run");
-                    anim.SetTrigger("Walk");
+                    anim.SetTrigger(walktrigg);
                 }
 
             }
@@ -70,8 +92,8 @@ public class AnimationScript : MonoBehaviour
             {
                 ResetAllTriggers();
                 anim.ResetTrigger("Run");
-                anim.ResetTrigger("Walk");
-                anim.SetTrigger("Idle");
+                anim.ResetTrigger(walktrigg);
+                anim.SetTrigger(idletrigg);
             }
         }
 

@@ -27,15 +27,15 @@ RectTransform:
   m_GameObject: {fileID: 2389682549277451296}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1286258, y: 0.7638251, z: 1}
+  m_LocalScale: {x: 0.121662, y: 0.72247165, z: 0.94586}
   m_Children: []
   m_Father: {fileID: 2389682549667649839}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.12862802, y: -3.8191223}
-  m_SizeDelta: {x: 755, y: 120}
+  m_AnchoredPosition: {x: 1.7, y: 9}
+  m_SizeDelta: {x: 747.42, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2389682549277451301
 CanvasRenderer:
@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -78,9 +78,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Testing Testing 1 2 3...
-
-    >:( :( :| :) :D :P'
+  m_Text: This is a test of the size of the dialogue box text, I am making sure everything
+    fits nicely. I don't know what to write anymore but luckily its almost full.
 --- !u!1 &2389682549502340812
 GameObject:
   m_ObjectHideFlags: 0
@@ -140,14 +139,14 @@ RectTransform:
   m_GameObject: {fileID: 2389682549514870402}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9870602, y: 0.9182808, z: 0.9182808}
+  m_LocalScale: {x: 0.9870602, y: 1.2836647, z: 0.9182808}
   m_Children: []
   m_Father: {fileID: 2389682549667649839}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 22.2}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2389682549514870407
@@ -171,14 +170,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.6509804}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 33a616d8bd6b917439ede45c54873cd0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -237,7 +236,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2389682549908942699
 RectTransform:
   m_ObjectHideFlags: 0
@@ -321,14 +320,14 @@ RectTransform:
   m_GameObject: {fileID: 2389682550289123966}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5318087, y: 2.4531112, z: 0.90237945}
+  m_LocalScale: {x: 0.4498357, y: 2.0749886, z: 0.7632867}
   m_Children: []
   m_Father: {fileID: 2389682551058517728}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.8, y: 1.2265167}
+  m_AnchoredPosition: {x: 19.6, y: 26}
   m_SizeDelta: {x: 226.1, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2389682550289123955
@@ -352,7 +351,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -390,7 +389,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2389682550576766103
 RectTransform:
   m_ObjectHideFlags: 0
@@ -464,7 +463,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2389682550971632857
 RectTransform:
   m_ObjectHideFlags: 0

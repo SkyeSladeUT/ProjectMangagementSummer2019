@@ -16,7 +16,7 @@ public class dialouge_script : MonoBehaviour
     private string _text_to_display;
     public ActionObject EndDialouge;
     public UnityEvent OnInteract, OnChoiceSelectStart;
-    public UnityEvent Mad, Happy, Surprised, Upset, Scared, Thinking, Normal, HandOverItem, GetItem, StopConv, Nod;
+    public UnityEvent Mad, Happy, Surprised, Upset, Scared, Thinking, Normal, HandOverItem, GetItem, StopConv, Nod, FinishConv;
     private char _choice_char;
     public BoolData choiceselection;
     public List<StringData> ChoiceOptions;
@@ -165,6 +165,7 @@ public class dialouge_script : MonoBehaviour
             Character_Text.text = "";
             Dialouge_Object.SetActive(false);
             ConvStart = false;
+            FinishConv.Invoke();
             EndDialouge.Action.Invoke();
         }
     }

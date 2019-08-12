@@ -161,6 +161,9 @@
               <e p="Commotion" t="Include">
                 <e p="Group_Dialogues.txt" t="Include" />
               </e>
+              <e p="Ending" t="Include">
+                <e p="Ending_on_Carl 1.txt" t="Include" />
+              </e>
               <e p="Michael_Door" t="Include">
                 <e p="Door_Dialogues.txt" t="Include" />
               </e>
@@ -252,6 +255,7 @@
             <e p="Mouse_Events.cs" t="Include" />
             <e p="OnTriggerWIthPLayerEvent.cs" t="Include" />
           </e>
+          <e p="ExitGameScript.cs" t="Include" />
           <e p="Face_Swap.cs" t="Include" />
           <e p="Game_Manager_Cafe.cs" t="Include" />
           <e p="Input_Text.cs" t="Include" />
@@ -302,6 +306,7 @@
           </e>
           <e p="NPC_Scripts" t="Include">
             <e p="NPC_Controller.cs" t="Include" />
+            <e p="Set_Parent.cs" t="Include" />
             <e p="StandardShaderUtils.cs" t="Include" />
           </e>
           <e p="Puzzles" t="Include">
@@ -331,6 +336,7 @@
             </e>
             <e p="Sliding_Game.cs" t="Include" />
           </e>
+          <e p="Reset_Triggers.cs" t="Include" />
           <e p="Scriptable_Object_Holder.cs" t="Include" />
           <e p="Scriptable_Object_Saving.cs" t="Include" />
           <e p="Show_Text.cs" t="Include" />

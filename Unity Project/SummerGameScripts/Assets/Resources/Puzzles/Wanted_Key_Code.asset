@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd1f3286ef9bc7840b5b02dadb925f6b, type: 3}
   m_Name: Wanted_Key_Code
   m_EditorClassIdentifier: 
-  value: 2580
+  value: 2286
   prevvalue: 
+  LengthMax: 1000

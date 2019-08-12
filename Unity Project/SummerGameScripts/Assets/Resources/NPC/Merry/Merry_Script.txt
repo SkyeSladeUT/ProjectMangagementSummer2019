@@ -22,7 +22,7 @@ T^
 ~Hmmm... I was walking through the graveyard this morning, check there first while I keep thinking...<
 
 Me@
- ^
+N^
 ~Okay, I'll be right back!>
 
 1 - Have the Key#
@@ -36,7 +36,7 @@ Give Keys to Mayor#
 ~Thank you so much! Phew, I was worried. Last time I lost my keys I couldn't find them for days.<
 
 Me@
- ^
+F^
 ~Days?<
 
 Mayor Merryann@
@@ -141,7 +141,7 @@ Me@
 ~Why don't you just save it yourself.<
 
 Mayor Merryann@
-F^
+M^
 ~And you call yourself a detective! Go to moon!>
 
 11 - inside house after first conv#

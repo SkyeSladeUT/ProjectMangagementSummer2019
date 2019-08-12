@@ -19,7 +19,7 @@ Me@
 ~Sure Rose!<
 
 Rose@#
-4^
+ ^
 ~Thanks, I'll be waiting at my house.>
 
 2 - Give Rose Apples#

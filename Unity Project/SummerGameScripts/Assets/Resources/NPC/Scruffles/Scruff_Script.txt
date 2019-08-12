@@ -61,7 +61,7 @@ Scruffles@
 ~I have come to the conclusion after I calibrated my results and taken away all of the anomalies and photosynthesized the ingredients you have given me….+
 2^
 Scruffles hands you your ingredients and a note+
- ^
+F^
 I have written them down for you, and once you get all of them, come back and I can brew you up an antidote.<
 
 Me@

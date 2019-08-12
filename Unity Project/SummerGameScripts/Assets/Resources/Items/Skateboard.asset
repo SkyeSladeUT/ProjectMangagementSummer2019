@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Skateboard
   itemDescription: New Description
   itemType: Object
-  inventoryImage: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  inventoryImage: {fileID: 21300000, guid: 0a2b431f01058254fa8b528fbc694856, type: 3}

@@ -21,6 +21,7 @@ public class Character_Movement_JoystickConf : MonoBehaviour
     public Vector3Data Load_Destination, Room_Load_Pos;
     public QuaternionData Rotation_Destination, Room_Load_Rot;
     private Vector3 _destination, ypos;
+    
  
     void Start()
     {
@@ -105,6 +106,7 @@ public class Character_Movement_JoystickConf : MonoBehaviour
 
     public void TurnTowards()
     {
+        Debug.Log("Rotate");
         walkspeed = 0;
         rotatespeed = RotationFloat;
         _rotation = target.trans.rotation;

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &884711101824534008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 884711101824534010}
+  - component: {fileID: 884711101824534009}
+  m_Layer: 0
+  m_Name: Anim_Names
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &884711101824534010
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884711101824534008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -36.9383, y: -5.3602066, z: 15.404658}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &884711101824534009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884711101824534008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 186a378513f757147b809dbf2b7f529e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Triggernames:
+  - Stabbing
+  - Stabbed
+  - Poison_Idle
+  - Poison_Walk
+  - Nod
+  - Zombie_Idle
+  - Zombie_Walk
+  - Death
+  - Zombie_Maul
+  - Thinking
+  - CrawlIdle
+  - CrawlMove
+  - CrawlDown
+  - CrawlUp
+  - Angry
+  - Happy
+  - Sad
+  - Sit_Kick
+  - Surprised
+  - Interact
+  - BlockIdle
+  - DoneGrabbing
+  - GrabBlock
+  - PushingBlock
+  - DoneItemPickup
+  - ItemPickup
+  - DoneTalking
+  - Talking
+  - OpenDoor
+  - Still
+  - Walk_Back
+  - Idle
+  - Walk
+  - Run
