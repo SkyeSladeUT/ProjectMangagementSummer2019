@@ -1,0 +1,259 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Boxes": {
+            "shader": "Main shader"
+        },
+        "Brad_floor": {
+            "shader": "Main shader"
+        },
+        "Brad_walls": {
+            "shader": "Main shader"
+        },
+        "Kitchen_Main_color": {
+            "shader": "Main shader"
+        },
+        "Main_fllow": {
+            "shader": "Main shader"
+        },
+        "Main_walls": {
+            "shader": "Main shader"
+        },
+        "Papers": {
+            "shader": "Main shader"
+        },
+        "Steve_floor": {
+            "shader": "Main shader"
+        },
+        "Steve_walls": {
+            "shader": "Main shader"
+        },
+        "lambert2": {
+            "shader": "Main shader"
+        },
+        "pasted__Bananas": {
+            "shader": "Main shader"
+        },
+        "pasted__Bed_Frame": {
+            "shader": "Main shader"
+        },
+        "pasted__Bed_Sheet_pattern": {
+            "shader": "Main shader"
+        },
+        "pasted__Bed_Sheets_inside": {
+            "shader": "Main shader"
+        },
+        "pasted__Book": {
+            "shader": "Main shader"
+        },
+        "pasted__Book_Pages": {
+            "shader": "Main shader"
+        },
+        "pasted__Bookshelf": {
+            "shader": "Main shader"
+        },
+        "pasted__Burners": {
+            "shader": "Main shader"
+        },
+        "pasted__Chair_Cloth": {
+            "shader": "Main shader"
+        },
+        "pasted__Chair_WOod": {
+            "shader": "Main shader"
+        },
+        "pasted__CouchPIllow": {
+            "shader": "Main shader"
+        },
+        "pasted__Couch_Legs": {
+            "shader": "Main shader"
+        },
+        "pasted__Counter656": {
+            "shader": "Main shader"
+        },
+        "pasted__Counter_Knob": {
+            "shader": "Main shader"
+        },
+        "pasted__Cupboard_Hinges": {
+            "shader": "Main shader"
+        },
+        "pasted__Desk_": {
+            "shader": "Main shader"
+        },
+        "pasted__Dining_Chair": {
+            "shader": "Main shader"
+        },
+        "pasted__Dining_Table": {
+            "shader": "Main shader"
+        },
+        "pasted__Dresser": {
+            "shader": "Main shader"
+        },
+        "pasted__DresserDrawer_Handle": {
+            "shader": "Main shader"
+        },
+        "pasted__Dresser_Feet": {
+            "shader": "Main shader"
+        },
+        "pasted__FridgeHandle": {
+            "shader": "Main shader"
+        },
+        "pasted__LampShade": {
+            "shader": "Main shader"
+        },
+        "pasted__LampStand1": {
+            "shader": "Main shader"
+        },
+        "pasted__Laptop": {
+            "shader": "Main shader"
+        },
+        "pasted__Laptop_Button": {
+            "shader": "Main shader"
+        },
+        "pasted__Laptop_Keyboard": {
+            "shader": "Main shader"
+        },
+        "pasted__Laptop_screen": {
+            "shader": "Main shader"
+        },
+        "pasted__Mattress": {
+            "shader": "Main shader"
+        },
+        "pasted__Microwave": {
+            "shader": "Main shader"
+        },
+        "pasted__Microwave_Spinny_thing": {
+            "shader": "Main shader"
+        },
+        "pasted__Microwave_Window": {
+            "shader": "Main shader"
+        },
+        "pasted__Mug": {
+            "shader": "Main shader"
+        },
+        "pasted__Oven": {
+            "shader": "Main shader"
+        },
+        "pasted__Oven_Dials56": {
+            "shader": "Main shader"
+        },
+        "pasted__Oven_Handles": {
+            "shader": "Main shader"
+        },
+        "pasted__Oven_Window": {
+            "shader": "Main shader"
+        },
+        "pasted__PIano": {
+            "shader": "Main shader"
+        },
+        "pasted__PIano_White_Keys": {
+            "shader": "Main shader"
+        },
+        "pasted__Piano_black_keys": {
+            "shader": "Main shader"
+        },
+        "pasted__Piano_pedals": {
+            "shader": "Main shader"
+        },
+        "pasted__PictureFrame_Photo": {
+            "shader": "Main shader"
+        },
+        "pasted__Picture_Frames": {
+            "shader": "Main shader"
+        },
+        "pasted__Pillow": {
+            "shader": "Main shader"
+        },
+        "pasted__Pot": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio1": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio_Dials1": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio_Speaker1": {
+            "shader": "Main shader"
+        },
+        "pasted__Radio_face1": {
+            "shader": "Main shader"
+        },
+        "pasted__Round_Lamp_Base": {
+            "shader": "Main shader"
+        },
+        "pasted__Round_Lamp_Shade": {
+            "shader": "Main shader"
+        },
+        "pasted__Rug": {
+            "shader": "Main shader"
+        },
+        "pasted__Side_Table": {
+            "shader": "Main shader"
+        },
+        "pasted__Side_Table_Handle": {
+            "shader": "Main shader"
+        },
+        "pasted__Sink": {
+            "shader": "Main shader"
+        },
+        "pasted__Sink_Drain": {
+            "shader": "Main shader"
+        },
+        "pasted__Sink_Faucet": {
+            "shader": "Main shader"
+        },
+        "pasted__Soap_Dispenser": {
+            "shader": "Main shader"
+        },
+        "pasted__Toaster": {
+            "shader": "Main shader"
+        },
+        "pasted__ToasterHandle": {
+            "shader": "Main shader"
+        },
+        "pasted__Trash_Bin": {
+            "shader": "Main shader"
+        },
+        "pasted__couch": {
+            "shader": "Main shader"
+        },
+        "pasted__lambert28": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__CounterDrawers": {
+            "shader": "Main shader"
+        }
+    }
+}
