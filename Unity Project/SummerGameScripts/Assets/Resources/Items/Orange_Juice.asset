@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Orange_Juice
   m_EditorClassIdentifier: 
   itemName: Orange Juice
-  itemDescription: Perfect for Breakfast
+  itemDescription: Milk that comes from an orange.
   itemType: Object
   inventoryImage: {fileID: 21300014, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

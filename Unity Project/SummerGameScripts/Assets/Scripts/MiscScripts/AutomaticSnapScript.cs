@@ -5,11 +5,13 @@ using UnityEngine;
 public class AutomaticSnapScript : MonoBehaviour
 {
     private Vector3 _snapPosition;
+    private Vector3 originalpos;
     private float _objectZ;
     private bool onPuzzle;
 
     private void Start()
     {
+        originalpos = transform.position;
         onPuzzle = false;
     }
     
@@ -20,7 +22,10 @@ public class AutomaticSnapScript : MonoBehaviour
         {
             onPuzzle = true;
         }
-        if(other.CompareTag("snapPosition"))
+
+        if (other.gameObject.CompareTag("Untagged"))
+            _snapPosition = originalpos;
+        else if (other.CompareTag("snapPosition"))
             _snapPosition = other.transform.position;
     }
 

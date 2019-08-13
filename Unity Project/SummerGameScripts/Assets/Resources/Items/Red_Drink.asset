@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Red_Drink
   m_EditorClassIdentifier: 
   itemName: Red Drink
-  itemDescription: Will stain everything
+  itemDescription: "A mystery drink\u2026It smells like Kool-Aid, but don\u2019t drink
+    it!"
   itemType: Object
   inventoryImage: {fileID: 21300012, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

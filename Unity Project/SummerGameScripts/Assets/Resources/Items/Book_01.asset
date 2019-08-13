@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Book_01
   m_EditorClassIdentifier: 
   itemName: Book
-  itemDescription: A book
+  itemDescription: "Hairy Otter and the Cup of Water, a book in Kym\u2019s favorite
+    series, if you don\u2019t return it to her she will give you eye rolls until you
+    die."
   itemType: Object
   inventoryImage: {fileID: 21300004, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

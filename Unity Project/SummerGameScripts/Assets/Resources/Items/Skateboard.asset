@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Skateboard
   m_EditorClassIdentifier: 
   itemName: Skateboard
-  itemDescription: New Description
+  itemDescription: "Luther\u2019s baby, he lives in the sewers so he can skate from
+    when he wakes up to when he sleeps. He would be lost without it. "
   itemType: Object
   inventoryImage: {fileID: 21300000, guid: 0a2b431f01058254fa8b528fbc694856, type: 3}

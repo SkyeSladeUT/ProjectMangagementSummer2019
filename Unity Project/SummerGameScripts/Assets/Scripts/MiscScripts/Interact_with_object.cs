@@ -11,20 +11,28 @@ public class Interact_with_object : MonoBehaviour
     public UnityEvent InteractEvent, ExitPuzzle;
     public BoolData inPuzzleMode;
 
-
-    private void FixedUpdate()
+    private void Start()
     {
-        if (interactOnce && interacted)
-            return;
-        if (Interact_Keys.KeyDown() && _inRange && !inPuzzleMode.value)
+        StartCoroutine(CheckInteract());
+    }
+
+    private IEnumerator CheckInteract()
+    {
+        while (true)
         {
-            InteractEvent.Invoke();
-            interacted = true;
-        }
-        else if (Interact_Keys.KeyDown() && inPuzzleMode.value)
-        {
-            Exit_Puzzle();
-            //_inRange = true;
+            if (interactOnce && interacted)
+                yield return new WaitForFixedUpdate();
+            if (Interact_Keys.KeyDown() && _inRange && !inPuzzleMode.value)
+            {
+                InteractEvent.Invoke();
+                interacted = true;
+            }
+            else if (Interact_Keys.KeyDown() && inPuzzleMode.value)
+            {
+                Exit_Puzzle();
+                //_inRange = true;
+            }
+            yield return new WaitForSeconds(.1f);
         }
     }
 

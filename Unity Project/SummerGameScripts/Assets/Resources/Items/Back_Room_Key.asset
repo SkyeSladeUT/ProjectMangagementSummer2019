@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Back_Room_Key
   m_EditorClassIdentifier: 
   itemName: Ice Cream Shop Key
-  itemDescription: key to the back room of the Ice Cream Shop
+  itemDescription: The key to the best food ever, we all scream for ice cream!
   itemType: Key
   inventoryImage: {fileID: 21300000, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

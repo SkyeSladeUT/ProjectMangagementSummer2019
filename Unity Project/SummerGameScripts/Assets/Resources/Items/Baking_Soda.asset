@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Baking_Soda
   m_EditorClassIdentifier: 
   itemName: Baking Soda
-  itemDescription: Baking Soda
+  itemDescription: Mainly used in baking, sometimes used in antidotes...
   itemType: Object
   inventoryImage: {fileID: 21300022, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}

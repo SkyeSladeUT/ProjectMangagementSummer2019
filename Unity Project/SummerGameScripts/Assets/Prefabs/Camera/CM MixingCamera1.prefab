@@ -72,6 +72,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c28ad64ddbf1d94d8075a42168b3293, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startcam: 0
   CamSpeed: 1
 --- !u!1 &824654118996158931
 GameObject:
@@ -82,8 +83,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 824654118996158932}
-  - component: {fileID: 824654118996158933}
   - component: {fileID: 824654118996158934}
+  - component: {fileID: 824654118996158933}
   m_Layer: 0
   m_Name: Pipe_puzzle_cam (1)
   m_TagString: Untagged
@@ -106,6 +107,19 @@ Transform:
   m_Father: {fileID: 824654118840261067}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 12.522, y: 0, z: 0}
+--- !u!114 &824654118996158934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824654118996158931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 251e5abc5ba57564c991d7703bd1e2c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
 --- !u!114 &824654118996158933
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,19 +157,6 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
   m_LegacyBlendHint: 0
   m_ComponentOwner: {fileID: 824654119570527624}
---- !u!114 &824654118996158934
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 824654118996158931}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 251e5abc5ba57564c991d7703bd1e2c6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3
 --- !u!1 &824654119312126331
 GameObject:
   m_ObjectHideFlags: 0

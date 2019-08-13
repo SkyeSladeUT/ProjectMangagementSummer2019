@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Infection
   m_EditorClassIdentifier: 
   itemName: Infection
-  itemDescription: Carl seems to be exhibiting some strange symptoms and Brad is worried
-    that it is some kind of virus. I wonder who might be behind all of this.
+  itemDescription: Sweeping virus. Seems like it is spreading fast. Carl is deteriorating.
+    Doctor seems unsure of being saved, I believe he might be dead by tomorrow morning
+    at the rate he is going. Where did this come from? Some sort of sickness? Is there
+    an anti-serum or medicine that can help?
   itemType: Hint
-  inventoryImage: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  inventoryImage: {fileID: 21300016, guid: 92337498e9f61194d842b8f9fc2ee742, type: 3}
