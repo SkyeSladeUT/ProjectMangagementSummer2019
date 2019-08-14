@@ -470,6 +470,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.3036355
       objectReference: {fileID: 0}
+    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 855521417041879673}
+    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetTrigger
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653816, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: anim
@@ -481,16 +491,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0b125576a43455c43b55b66f0a61c982,
         type: 2}
-    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 855521417041879673}
-    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: SetTrigger
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3da4b92c0a12f74eb32b2e317c4082a, type: 3}
 --- !u!1001 &2063520988
@@ -575,6 +575,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 855521417041879673}
+    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetTrigger
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653816, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: anim
@@ -586,16 +596,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 652f9db3ecde6624eb6a519356a607a3,
         type: 2}
-    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 855521417041879673}
-    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: SetTrigger
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3da4b92c0a12f74eb32b2e317c4082a, type: 3}
 --- !u!1001 &855521417041879666
@@ -1256,6 +1256,16 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: b7b889c257fe63149ae2054fbb86485c, type: 2}
+    - target: {fileID: 855521417378307494, guid: 69a532a5ae84d484e898177457d7ef71,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a62abc052387c684b91fa0f533a1c9c9, type: 2}
+    - target: {fileID: 855521417378307496, guid: 69a532a5ae84d484e898177457d7ef71,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f5b6c179d46fc594a90f375a66638c95, type: 2}
     m_RemovedComponents:
     - {fileID: 1138857930942719240, guid: 69a532a5ae84d484e898177457d7ef71, type: 3}
     - {fileID: 1138857930942719241, guid: 69a532a5ae84d484e898177457d7ef71, type: 3}

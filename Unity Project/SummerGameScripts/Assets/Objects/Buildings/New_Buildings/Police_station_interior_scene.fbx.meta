@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 532f0a4811be5d04fbb25179186ad37f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bedroom
+    100002: Cell_Door
+    100004: Cube
+    100006: Cube__1_
+    100008: Cube__2_
+    100010: Cube__3_
+    100012: Cube__4_
+    100014: Cube__5_
+    100016: Cube__6_
+    100018: Door
+    100020: Door_1
+    100022: Door_rectangular_open_And_close_Animations
+    100024: Frame
+    100026: Interior_Door
+    100028: Interior_Door_1
+    100030: Interior_Door_Unlocked
+    100032: Laptop1
+    100034: pasted__pasted__polySurface4
+    100036: pasted__pCube17
+    100038: pasted__pCube27
+    100040: pasted__pCylinder8
+    100042: pCube33
+    100044: pCube36__1_
+    100046: pCube43
+    100048: pCube6
+    100050: pCube6__1_
+    100052: pCylinder20
+    100054: pCylinder21
+    100056: pCylinder9
+    100058: Police_Station
+    100060: //RootNode
+    100062: polySurface1
+    100064: polySurface2
+    100066: polySurface4
+    100068: Quad
+    100070: Quad__2_
+    100072: Wall
+    400000: Bedroom
+    400002: Cell_Door
+    400004: Cube
+    400006: Cube__1_
+    400008: Cube__2_
+    400010: Cube__3_
+    400012: Cube__4_
+    400014: Cube__5_
+    400016: Cube__6_
+    400018: Door
+    400020: Door_1
+    400022: Door_rectangular_open_And_close_Animations
+    400024: Frame
+    400026: Interior_Door
+    400028: Interior_Door_1
+    400030: Interior_Door_Unlocked
+    400032: Laptop1
+    400034: pasted__pasted__polySurface4
+    400036: pasted__pCube17
+    400038: pasted__pCube27
+    400040: pasted__pCylinder8
+    400042: pCube33
+    400044: pCube36__1_
+    400046: pCube43
+    400048: pCube6
+    400050: pCube6__1_
+    400052: pCylinder20
+    400054: pCylinder21
+    400056: pCylinder9
+    400058: Police_Station
+    400060: //RootNode
+    400062: polySurface1
+    400064: polySurface2
+    400066: polySurface4
+    400068: Quad
+    400070: Quad__2_
+    400072: Wall
+    2100000: Grey
+    2100002: Desk_
+    2100004: Chair_WOod
+    2100006: Chair_Cloth
+    2100008: Rug
+    2100010: DresserDrawer_Handle
+    2100012: Dresser
+    2100014: Dresser_Feet
+    2100016: Pillow
+    2100018: Bed_Sheets_inside
+    2100020: Bed_Sheet_pattern
+    2100022: lambert2
+    2100024: Bed_Frame
+    2100026: Mattress
+    2100028: Laptop
+    2100030: Laptop_screen
+    2100032: Laptop_Keyboard
+    2100034: Laptop_Button
+    2100036: pasted__Round_Lamp_Shade
+    2100038: pasted__Round_Lamp_Base
+    2100040: Cell
+    2100042: pasted__Bookshelf
+    2100044: pasted__Book
+    2100046: pasted__Book_Pages
+    2100048: pasted__pasted__Pillow
+    2100050: Prison_Bed
+    2100052: Library_Counter
+    2100054: Default_Material
+    2100056: Door1
+    2100058: Door_Knob
+    2100060: Door_Frame
+    2300000: Cell_Door
+    2300002: Cube
+    2300004: Cube__1_
+    2300006: Cube__2_
+    2300008: Cube__3_
+    2300010: Cube__4_
+    2300012: Cube__5_
+    2300014: Cube__6_
+    2300016: Door
+    2300018: Door_1
+    2300020: Frame
+    2300022: Laptop1
+    2300024: pasted__pasted__polySurface4
+    2300026: pasted__pCube17
+    2300028: pasted__pCube27
+    2300030: pasted__pCylinder8
+    2300032: pCube33
+    2300034: pCube36__1_
+    2300036: pCube43
+    2300038: pCube6
+    2300040: pCube6__1_
+    2300042: pCylinder20
+    2300044: pCylinder21
+    2300046: pCylinder9
+    2300048: polySurface1
+    2300050: polySurface2
+    2300052: polySurface4
+    2300054: Quad
+    2300056: Quad__2_
+    3300000: Cell_Door
+    3300002: Cube
+    3300004: Cube__1_
+    3300006: Cube__2_
+    3300008: Cube__3_
+    3300010: Cube__4_
+    3300012: Cube__5_
+    3300014: Cube__6_
+    3300016: Door
+    3300018: Door_1
+    3300020: Frame
+    3300022: Laptop1
+    3300024: pasted__pasted__polySurface4
+    3300026: pasted__pCube17
+    3300028: pasted__pCube27
+    3300030: pasted__pCylinder8
+    3300032: pCube33
+    3300034: pCube36__1_
+    3300036: pCube43
+    3300038: pCube6
+    3300040: pCube6__1_
+    3300042: pCylinder20
+    3300044: pCylinder21
+    3300046: pCylinder9
+    3300048: polySurface1
+    3300050: polySurface2
+    3300052: polySurface4
+    3300054: Quad
+    3300056: Quad__2_
+    4300000: Door
+    4300002: pCube33
+    4300004: pCube43
+    4300006: pCylinder9
+    4300008: pCylinder20
+    4300010: polySurface4
+    4300012: pCube36__1_
+    4300014: pasted__pCylinder8
+    4300016: Cell_Door
+    4300018: Laptop1
+    4300020: pasted__pCube17
+    4300022: pasted__pCube27
+    4300024: pasted__pasted__polySurface4
+    4300026: pCube6
+    4300028: polySurface1
+    4300030: polySurface2
+    4300032: pCube6__1_
+    4300034: pCylinder21
+    4300036: Cube
+    4300038: Cube__1_
+    4300040: Cube__2_
+    4300042: Cube__3_
+    4300044: Cube__4_
+    4300046: Cube__5_
+    4300048: Cube__6_
+    4300050: Quad
+    4300052: Quad__2_
+    4300054: Door_1
+    4300056: Frame
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Frame
+    second: {fileID: 2100000, guid: 2be5f352d5fe57849b06338026db5858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Sheet_pattern
+    second: {fileID: 2100000, guid: 25e50bc0a031af7449d5ed1202d60154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_Sheets_inside
+    second: {fileID: 2100000, guid: e26f56bd98187814d89d9cb25cd2cf1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cell
+    second: {fileID: 2100000, guid: c1edf2452eab14547b2729c88bb7f2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_Cloth
+    second: {fileID: 2100000, guid: 538a7e794d41e404b889b1ac3288fc88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair_WOod
+    second: {fileID: 2100000, guid: 660532da4fbd968449c1c063712ae9f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: ebec3798f191dfd4289ad9c5f44219b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desk_
+    second: {fileID: 2100000, guid: 1544b2056303f094dbd2f9105ac00458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door1
+    second: {fileID: 2100000, guid: 082ef9dbbc49c6e41a71493dde9317e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Frame
+    second: {fileID: 2100000, guid: 85fb88e6a0242d045bc156defce83e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Knob
+    second: {fileID: 2100000, guid: df1f93c125719ad4ea22049f092279e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dresser
+    second: {fileID: 2100000, guid: eb584c4c102572243a15ea431b1a9ce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DresserDrawer_Handle
+    second: {fileID: 2100000, guid: 43d394155f014d24796f34e89833097b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dresser_Feet
+    second: {fileID: 2100000, guid: 01ad388bb71798b4d81974ed6624156b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2100000, guid: fa8ab9cbf8fb4554b97af490d9c2bde4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laptop
+    second: {fileID: 2100000, guid: 87bca7019a22a4742b5e51609700ca36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laptop_Button
+    second: {fileID: 2100000, guid: 3d614d2ec130e1046bf6177743ea45a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laptop_Keyboard
+    second: {fileID: 2100000, guid: 3023e77d468230b47b74d1c35421b7f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laptop_screen
+    second: {fileID: 2100000, guid: 8adecf97aeda0f843a10372c3956e73c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Library_Counter
+    second: {fileID: 2100000, guid: 3e69a0fcbe5665441868ac9a00199397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mattress
+    second: {fileID: 2100000, guid: 50e557ce0c0a171448f6a809cf6021cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillow
+    second: {fileID: 2100000, guid: 337db260ac40b354cbe94490f767227a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prison_Bed
+    second: {fileID: 2100000, guid: 62538d243e721014b89d088df7315206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rug
+    second: {fileID: 2100000, guid: 03a7c62a6fd39f941876c72e5340d0fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 3685c3d219d18b142a985ec64ab86720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Book
+    second: {fileID: 2100000, guid: 4c1148b501d195d4a988efab0195f4ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Book_Pages
+    second: {fileID: 2100000, guid: 9e1660e6b8bce0f46a84078accec3ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bookshelf
+    second: {fileID: 2100000, guid: fb7d447a65e67ff4dbb73e25c72f1c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Round_Lamp_Base
+    second: {fileID: 2100000, guid: 1016095b3743aea4095736e6e56c4f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Round_Lamp_Shade
+    second: {fileID: 2100000, guid: b5e2a9184f0f23043ac5949e06d7ac2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__Pillow
+    second: {fileID: 2100000, guid: 6c4191e66bf62244e956c36b3292b19e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

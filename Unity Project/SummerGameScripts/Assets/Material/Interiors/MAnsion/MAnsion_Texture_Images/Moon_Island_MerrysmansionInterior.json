@@ -1,0 +1,244 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Cabinet5": {
+            "shader": "Main shader"
+        },
+        "Carpet": {
+            "shader": "Main shader"
+        },
+        "Carpet1": {
+            "shader": "Main shader"
+        },
+        "Clock_Swingy_Thing": {
+            "shader": "Main shader"
+        },
+        "Coffee_Table": {
+            "shader": "Main shader"
+        },
+        "Curtain5": {
+            "shader": "Main shader"
+        },
+        "Desk": {
+            "shader": "Main shader"
+        },
+        "Desk_Drawer_knobs": {
+            "shader": "Main shader"
+        },
+        "Fancy_Chair": {
+            "shader": "Main shader"
+        },
+        "Fancy_Chair_Wood": {
+            "shader": "Main shader"
+        },
+        "Fireplace": {
+            "shader": "Main shader"
+        },
+        "Fireplace_Inside": {
+            "shader": "Main shader"
+        },
+        "Glass": {
+            "shader": "Main shader"
+        },
+        "Grandfather_Clock": {
+            "shader": "Main shader"
+        },
+        "Grandfather_Clock_face": {
+            "shader": "Main shader"
+        },
+        "Lamp2": {
+            "shader": "Main shader"
+        },
+        "LampShade2": {
+            "shader": "Main shader"
+        },
+        "Lamp_Base": {
+            "shader": "Main shader"
+        },
+        "Lamp_Shade": {
+            "shader": "Main shader"
+        },
+        "Logs": {
+            "shader": "Main shader"
+        },
+        "OfficeCarpet": {
+            "shader": "Main shader"
+        },
+        "PIano": {
+            "shader": "Main shader"
+        },
+        "PIano_White_Keys": {
+            "shader": "Main shader"
+        },
+        "Piano_black_keys": {
+            "shader": "Main shader"
+        },
+        "Piano_pedals": {
+            "shader": "Main shader"
+        },
+        "Radio": {
+            "shader": "Main shader"
+        },
+        "Radio_Dials": {
+            "shader": "Main shader"
+        },
+        "Radio_Speaker": {
+            "shader": "Main shader"
+        },
+        "Radio_face": {
+            "shader": "Main shader"
+        },
+        "Stair": {
+            "shader": "Main shader"
+        },
+        "Stairs": {
+            "shader": "Main shader"
+        },
+        "TV": {
+            "shader": "Main shader"
+        },
+        "TV_2": {
+            "shader": "Main shader"
+        },
+        "TV_Screen": {
+            "shader": "Main shader"
+        },
+        "TV_antenna": {
+            "shader": "Main shader"
+        },
+        "TVset": {
+            "shader": "Main shader"
+        },
+        "Trashbin": {
+            "shader": "Main shader"
+        },
+        "Vase": {
+            "shader": "Main shader"
+        },
+        "Walls": {
+            "shader": "Main shader"
+        },
+        "Window": {
+            "shader": "Main shader"
+        },
+        "Window_Light": {
+            "shader": "Main shader"
+        },
+        "cANDLE_sTICK": {
+            "shader": "Main shader"
+        },
+        "candle": {
+            "shader": "Main shader"
+        },
+        "floor": {
+            "shader": "Main shader"
+        },
+        "lambert44": {
+            "shader": "Main shader"
+        },
+        "pasted__Shield": {
+            "shader": "Main shader"
+        },
+        "pasted__SwordBlade": {
+            "shader": "Main shader"
+        },
+        "pasted__Sword_Handle": {
+            "shader": "Main shader"
+        },
+        "pasted__TV": {
+            "shader": "Main shader"
+        },
+        "pasted__TV_2": {
+            "shader": "Main shader"
+        },
+        "pasted__TV_Screen": {
+            "shader": "Main shader"
+        },
+        "pasted__TV_antenna": {
+            "shader": "Main shader"
+        },
+        "pasted__cANDLE_sTICK": {
+            "shader": "Main shader"
+        },
+        "pasted__candle": {
+            "shader": "Main shader"
+        },
+        "pasted__lambert18": {
+            "shader": "Main shader"
+        },
+        "pasted__lambert44": {
+            "shader": "Main shader"
+        },
+        "pasted__lambert45": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__CouchPIllow": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Mug": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Side_Table": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Side_Table_Handle": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__Toaster": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__ToasterHandle": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__couch": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__pasted__lambert44": {
+            "shader": "Main shader"
+        },
+        "pasted__pasted__pasted__wall_Lamop": {
+            "shader": "Main shader"
+        },
+        "pasted__wall_Lamop": {
+            "shader": "Main shader"
+        },
+        "pasted__wall_Lamop1": {
+            "shader": "Main shader"
+        },
+        "wall_Lamop": {
+            "shader": "Main shader"
+        }
+    }
+}

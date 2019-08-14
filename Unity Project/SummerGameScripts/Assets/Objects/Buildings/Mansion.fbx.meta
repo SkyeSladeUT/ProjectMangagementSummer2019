@@ -694,7 +694,282 @@ ModelImporter:
     4300150: pasted__polySurface8
     4300152: pasted__polySurface9
     4300154: pasted__polySurface10
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet5
+    second: {fileID: 2100000, guid: d0babe1c08a4e2f4b8915beafad27333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 885762d9f78ba8e4dacd945c39f2fb24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet1
+    second: {fileID: 2100000, guid: 81141a72badb22440940fc33af54b978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_Swingy_Thing
+    second: {fileID: 2100000, guid: d1060a388a0678d408388afc0342c0c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee_Table
+    second: {fileID: 2100000, guid: 34cd65147def3914d9b8d72f8416e454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain5
+    second: {fileID: 2100000, guid: 77dc5b844c7643e4faedfb69a7d607a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desk
+    second: {fileID: 2100000, guid: b38cb8afa7ddc6344b5133a209ecd662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desk_Drawer_knobs
+    second: {fileID: 2100000, guid: af9b4ffb8b5ce544ca4ba1e17ed17569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fancy_Chair
+    second: {fileID: 2100000, guid: b57e0fae761b4f542a7bc2e806b6dddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fancy_Chair_Wood
+    second: {fileID: 2100000, guid: db503a222171d304baecfef3827ba271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireplace
+    second: {fileID: 2100000, guid: c474e69f2c290bd4392d98d10bf685a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireplace_Inside
+    second: {fileID: 2100000, guid: e1324cf6178bcc54689613c8cbfc04cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 82bc7582773d241479c735fc222865d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grandfather_Clock
+    second: {fileID: 2100000, guid: 291a1a052768ee344bfb1eccbbe3597c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grandfather_Clock_face
+    second: {fileID: 2100000, guid: b39b252f2a2e91d448c972c08ea243eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp2
+    second: {fileID: 2100000, guid: c1f0acf7e7b32224cadf54b9082009ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampShade2
+    second: {fileID: 2100000, guid: e61f01dc8e9bf594fbb4ceed67aa8723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_Base
+    second: {fileID: 2100000, guid: 2ac6a1fb14ab43743bc5ddc44f5aba5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_Shade
+    second: {fileID: 2100000, guid: b9fa68c433000f241b4aa23170fb4215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logs
+    second: {fileID: 2100000, guid: a5a2e81dfe2cc4a43b16aa2ade5e2e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIano
+    second: {fileID: 2100000, guid: f6e1a976d3d7a7a43a044714920c3e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIano_White_Keys
+    second: {fileID: 2100000, guid: c939b6839fee3fe418470ea1d56f3ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piano_black_keys
+    second: {fileID: 2100000, guid: c953e9fe6787c25478e1658034f109a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piano_pedals
+    second: {fileID: 2100000, guid: 7202f2f9255538a4ba458f46d1282c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radio
+    second: {fileID: 2100000, guid: f1c55e69f2c37f3468aa012970ad22b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radio_Dials
+    second: {fileID: 2100000, guid: 9f0a60f78ab4e3c4e9c5e40fe2087bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radio_Speaker
+    second: {fileID: 2100000, guid: 3b58944f926691b4d8710ee396cbf579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radio_face
+    second: {fileID: 2100000, guid: 5738762ad1667074eb159a3c40b2017a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV
+    second: {fileID: 2100000, guid: b692580048956694ab9f69f0b2bd06d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_2
+    second: {fileID: 2100000, guid: a80d83f668ae48f44bdf5fa248e1f772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen
+    second: {fileID: 2100000, guid: 37eaab9992bf1f34cb5aba8c4e005a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_antenna
+    second: {fileID: 2100000, guid: c80e33fede9c96e48aea44016a3adbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trashbin
+    second: {fileID: 2100000, guid: ca24d5d69a3ff924b8486d9ed05cfe39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vase
+    second: {fileID: 2100000, guid: 304520cbbf7272046bf757debe0b9cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 619c4a9b4013fac48998e5d6965c5b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_Light
+    second: {fileID: 2100000, guid: b18f4856ea47310479f44bf161f0a4d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cANDLE_sTICK
+    second: {fileID: 2100000, guid: b80a7ae7becb86a40a0c38ac65282308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candle
+    second: {fileID: 2100000, guid: 3adbe16a9b8dd68409475960a769f96f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: ca068670b56d2b9459e28ecc46fc0123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: d5b0b8ccce359e34d8949cb89abde12b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Shield
+    second: {fileID: 2100000, guid: bc204ab52f99ef749a72d30921911b33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__SwordBlade
+    second: {fileID: 2100000, guid: 4d3b42466b8e62d4f8c6a51e69fc4ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Sword_Handle
+    second: {fileID: 2100000, guid: 1938efe2969ea2440a9779db99b487a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__TV
+    second: {fileID: 2100000, guid: b692580048956694ab9f69f0b2bd06d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__TV_2
+    second: {fileID: 2100000, guid: a80d83f668ae48f44bdf5fa248e1f772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__TV_Screen
+    second: {fileID: 2100000, guid: 37eaab9992bf1f34cb5aba8c4e005a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__TV_antenna
+    second: {fileID: 2100000, guid: c80e33fede9c96e48aea44016a3adbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert18
+    second: {fileID: 2100000, guid: 4584069a7b2d11549891b1f14c1243d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__CouchPIllow
+    second: {fileID: 2100000, guid: 1ee7cf0909de6294dae0701f84f54784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__Mug
+    second: {fileID: 2100000, guid: 9cc275ba47da8f0418f3d31bd03a3c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__Side_Table
+    second: {fileID: 2100000, guid: 237d5b7d9c7d09b4b977999c058b92eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__Side_Table_Handle
+    second: {fileID: 2100000, guid: 1b8346ec5df8dec43a865370891039ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__Toaster
+    second: {fileID: 2100000, guid: 22093262d79592e4494bd1d5dc4a2f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__ToasterHandle
+    second: {fileID: 2100000, guid: 3bed07d5891977646a78bf160dc67059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__couch
+    second: {fileID: 2100000, guid: 60c9c6cf06123c74fb06941c9b10ca79, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

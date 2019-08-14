@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: dc84954eb4d061549b621823ac70101a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube10_pCube10
+    100004: pCube11_pCube11
+    100006: pCube12_pCube12
+    100008: pCube13_pCube13
+    100010: pCube3_pCube3
+    100012: pCube4_pCube4
+    100014: pCube7_pCube7
+    100016: pCube8_pCube8
+    100018: pCube9_pCube9
+    100020: polySurface110_polySurface110
+    400000: //RootNode
+    400002: pCube10_pCube10
+    400004: pCube11_pCube11
+    400006: pCube12_pCube12
+    400008: pCube13_pCube13
+    400010: pCube3_pCube3
+    400012: pCube4_pCube4
+    400014: pCube7_pCube7
+    400016: pCube8_pCube8
+    400018: pCube9_pCube9
+    400020: polySurface110_polySurface110
+    2100000: pCube10_pCube10Mat
+    2100002: pCube11_pCube11Mat
+    2100004: pCube12_pCube12Mat
+    2100006: pCube13_pCube13Mat
+    2100008: pCube3_pCube3Mat
+    2100010: pCube4_pCube4Mat
+    2100012: pCube7_pCube7Mat
+    2100014: pCube8_pCube8Mat
+    2100016: pCube9_pCube9Mat
+    2100018: polySurface110_polySurface110Mat
+    2300000: pCube10_pCube10
+    2300002: pCube11_pCube11
+    2300004: pCube12_pCube12
+    2300006: pCube13_pCube13
+    2300008: pCube3_pCube3
+    2300010: pCube4_pCube4
+    2300012: pCube7_pCube7
+    2300014: pCube8_pCube8
+    2300016: pCube9_pCube9
+    2300018: polySurface110_polySurface110
+    3300000: pCube10_pCube10
+    3300002: pCube11_pCube11
+    3300004: pCube12_pCube12
+    3300006: pCube13_pCube13
+    3300008: pCube3_pCube3
+    3300010: pCube4_pCube4
+    3300012: pCube7_pCube7
+    3300014: pCube8_pCube8
+    3300016: pCube9_pCube9
+    3300018: polySurface110_polySurface110
+    4300000: pCube10_pCube10
+    4300002: pCube11_pCube11
+    4300004: pCube12_pCube12
+    4300006: pCube13_pCube13
+    4300008: pCube3_pCube3
+    4300010: pCube4_pCube4
+    4300012: pCube7_pCube7
+    4300014: pCube8_pCube8
+    4300016: pCube9_pCube9
+    4300018: polySurface110_polySurface110
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube10_pCube10Mat
+    second: {fileID: 2100000, guid: aa6d505c43ad27146b2070d78881ab8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube11_pCube11Mat
+    second: {fileID: 2100000, guid: d8ed0fae2cb23a64c8130d75318f6c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube12_pCube12Mat
+    second: {fileID: 2100000, guid: 1cc32c224670f3145a654651bc3e4f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube13_pCube13Mat
+    second: {fileID: 2100000, guid: 5344dd286e72cdf46a32500ba051e73b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube3_pCube3Mat
+    second: {fileID: 2100000, guid: 42c1cf8bada811541b7a2cb59daf99bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube4_pCube4Mat
+    second: {fileID: 2100000, guid: 2539e628600ae6a4685ca4641c661dd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube7_pCube7Mat
+    second: {fileID: 2100000, guid: 2aac8f6b13c31b344b7441792609bac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube8_pCube8Mat
+    second: {fileID: 2100000, guid: a1cc5378b2afcd043b8ad9d422e8cad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube9_pCube9Mat
+    second: {fileID: 2100000, guid: 6c19cf1805af39f46a5ba28d24b560bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface110_polySurface110Mat
+    second: {fileID: 2100000, guid: 97a625a13978d6c47b94836c3d16b21d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

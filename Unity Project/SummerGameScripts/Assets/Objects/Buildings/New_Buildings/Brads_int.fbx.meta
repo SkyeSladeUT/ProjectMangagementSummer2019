@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: c83829f0afe4d884eb36c4e442a3df21
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group1
+    100006: group2
+    100008: group3
+    100010: group4
+    100012: pasted__group1
+    100014: pasted__group2
+    100016: pasted__pasted__Banana_Bunch3_pCylinder64
+    100018: pasted__pasted__pCube15
+    100020: pasted__pCube100
+    100022: pasted__pCube101
+    100024: pasted__pCube102
+    100026: pasted__pCube103
+    100028: pasted__pCube104
+    100030: pasted__pCube12
+    100032: pasted__pCube17
+    100034: pasted__pCube24
+    100036: pasted__pCube27
+    100038: pasted__pCube27 1
+    100040: pasted__pCube32
+    100042: pasted__pCube53
+    100044: pasted__pCube6
+    100046: pasted__pCube74
+    100048: pasted__pCube79
+    100050: pasted__pCube85
+    100052: pasted__pCube86
+    100054: pasted__pCube87
+    100056: pasted__pCube88
+    100058: pasted__pCube89
+    100060: pasted__pCube90
+    100062: pasted__pCube91
+    100064: pasted__pCube92
+    100066: pasted__pCube93
+    100068: pasted__pCube94
+    100070: pasted__pCube95
+    100072: pasted__pCube96
+    100074: pasted__pCube97
+    100076: pasted__pCube98
+    100078: pasted__pCube99
+    100080: pasted__pCylinder20
+    100082: pasted__pCylinder25
+    100084: pasted__pCylinder28
+    100086: pasted__pCylinder34
+    100088: pasted__pCylinder41
+    100090: pasted__pCylinder43
+    100092: pasted__pCylinder44
+    100094: pasted__pCylinder6
+    100096: pasted__pCylinder8
+    100098: pasted__pCylinder9
+    100100: pasted__polySurface12
+    100102: pasted__polySurface33
+    100104: pasted__polySurface36
+    100106: pasted__polySurface37
+    100108: pasted__polySurface39
+    100110: pasted__polySurface41
+    100112: pasted__polySurface42
+    100114: pasted__polySurface43
+    100116: pasted__polySurface8
+    100118: pCube1
+    100120: pCube10
+    100122: pCube11
+    100124: pCube12
+    100126: pCube13
+    100128: pCube14
+    100130: pCube15
+    100132: pCube16
+    100134: pCube17
+    100136: pCube18
+    100138: pCube19
+    100140: pCube2
+    100142: pCube20
+    100144: pCube21
+    100146: pCube22
+    100148: pCube23
+    100150: pCube24
+    100152: pCube25
+    100154: pCube26
+    100156: pCube3
+    100158: pCube4
+    100160: pCube5
+    100162: pCube6
+    100164: pCube7
+    100166: pCube8
+    100168: pCube9
+    400000: //RootNode
+    400002: group
+    400004: group1
+    400006: group2
+    400008: group3
+    400010: group4
+    400012: pasted__group1
+    400014: pasted__group2
+    400016: pasted__pasted__Banana_Bunch3_pCylinder64
+    400018: pasted__pasted__pCube15
+    400020: pasted__pCube100
+    400022: pasted__pCube101
+    400024: pasted__pCube102
+    400026: pasted__pCube103
+    400028: pasted__pCube104
+    400030: pasted__pCube12
+    400032: pasted__pCube17
+    400034: pasted__pCube24
+    400036: pasted__pCube27
+    400038: pasted__pCube27 1
+    400040: pasted__pCube32
+    400042: pasted__pCube53
+    400044: pasted__pCube6
+    400046: pasted__pCube74
+    400048: pasted__pCube79
+    400050: pasted__pCube85
+    400052: pasted__pCube86
+    400054: pasted__pCube87
+    400056: pasted__pCube88
+    400058: pasted__pCube89
+    400060: pasted__pCube90
+    400062: pasted__pCube91
+    400064: pasted__pCube92
+    400066: pasted__pCube93
+    400068: pasted__pCube94
+    400070: pasted__pCube95
+    400072: pasted__pCube96
+    400074: pasted__pCube97
+    400076: pasted__pCube98
+    400078: pasted__pCube99
+    400080: pasted__pCylinder20
+    400082: pasted__pCylinder25
+    400084: pasted__pCylinder28
+    400086: pasted__pCylinder34
+    400088: pasted__pCylinder41
+    400090: pasted__pCylinder43
+    400092: pasted__pCylinder44
+    400094: pasted__pCylinder6
+    400096: pasted__pCylinder8
+    400098: pasted__pCylinder9
+    400100: pasted__polySurface12
+    400102: pasted__polySurface33
+    400104: pasted__polySurface36
+    400106: pasted__polySurface37
+    400108: pasted__polySurface39
+    400110: pasted__polySurface41
+    400112: pasted__polySurface42
+    400114: pasted__polySurface43
+    400116: pasted__polySurface8
+    400118: pCube1
+    400120: pCube10
+    400122: pCube11
+    400124: pCube12
+    400126: pCube13
+    400128: pCube14
+    400130: pCube15
+    400132: pCube16
+    400134: pCube17
+    400136: pCube18
+    400138: pCube19
+    400140: pCube2
+    400142: pCube20
+    400144: pCube21
+    400146: pCube22
+    400148: pCube23
+    400150: pCube24
+    400152: pCube25
+    400154: pCube26
+    400156: pCube3
+    400158: pCube4
+    400160: pCube5
+    400162: pCube6
+    400164: pCube7
+    400166: pCube8
+    400168: pCube9
+    2100000: Main_fllow
+    2100002: Main_walls
+    2100004: pasted__Radio1
+    2100006: pasted__Radio_Speaker1
+    2100008: pasted__Radio_Dials1
+    2100010: pasted__Radio_face1
+    2100012: pasted__Trash_Bin
+    2100014: lambert2
+    2100016: pasted__LampStand1
+    2100018: pasted__LampShade
+    2100020: pasted__CouchPIllow
+    2100022: pasted__Couch_Legs
+    2100024: pasted__couch
+    2100026: pasted__PIano
+    2100028: pasted__Piano_pedals
+    2100030: pasted__Piano_black_keys
+    2100032: pasted__PIano_White_Keys
+    2100034: pasted__Pot
+    2100036: pasted__Mug
+    2100038: pasted__Burners
+    2100040: pasted__Oven
+    2100042: pasted__Oven_Window
+    2100044: pasted__Oven_Handles
+    2100046: pasted__Oven_Dials56
+    2100048: pasted__Counter_Knob
+    2100050: pasted__pasted__CounterDrawers
+    2100052: pasted__Cupboard_Hinges
+    2100054: pasted__Counter656
+    2100056: Kitchen_Main_color
+    2100058: pasted__FridgeHandle
+    2100060: pasted__Dining_Chair
+    2100062: pasted__Dining_Table
+    2100064: pasted__Microwave
+    2100066: pasted__lambert28
+    2100068: pasted__Microwave_Spinny_thing
+    2100070: pasted__Microwave_Window
+    2100072: pasted__Toaster
+    2100074: pasted__ToasterHandle
+    2100076: pasted__Bananas
+    2100078: pasted__Soap_Dispenser
+    2100080: pasted__Sink_Drain
+    2100082: pasted__Sink
+    2100084: pasted__Sink_Faucet
+    2100086: Brad_floor
+    2100088: Brad_walls
+    2100090: pasted__Bookshelf
+    2100092: pasted__Round_Lamp_Shade
+    2100094: pasted__Round_Lamp_Base
+    2100096: pasted__Book
+    2100098: pasted__Book_Pages
+    2100100: pasted__Rug
+    2100102: pasted__DresserDrawer_Handle
+    2100104: pasted__Dresser
+    2100106: pasted__Dresser_Feet
+    2100108: pasted__PictureFrame_Photo
+    2100110: pasted__Picture_Frames
+    2100112: pasted__Pillow
+    2100114: pasted__Bed_Sheets_inside
+    2100116: pasted__Bed_Sheet_pattern
+    2100118: pasted__Bed_Frame
+    2100120: pasted__Mattress
+    2100122: pasted__Desk_
+    2100124: pasted__Laptop
+    2100126: pasted__Laptop_screen
+    2100128: pasted__Laptop_Keyboard
+    2100130: pasted__Laptop_Button
+    2100132: pasted__Chair_WOod
+    2100134: pasted__Chair_Cloth
+    2100136: Steve_floor
+    2100138: Steve_walls
+    2100140: pasted__Side_Table
+    2100142: pasted__Side_Table_Handle
+    2100144: Boxes
+    2100146: Papers
+    2300000: pasted__pasted__Banana_Bunch3_pCylinder64
+    2300002: pasted__pasted__pCube15
+    2300004: pasted__pCube100
+    2300006: pasted__pCube101
+    2300008: pasted__pCube102
+    2300010: pasted__pCube103
+    2300012: pasted__pCube104
+    2300014: pasted__pCube12
+    2300016: pasted__pCube17
+    2300018: pasted__pCube24
+    2300020: pasted__pCube27
+    2300022: pasted__pCube27 1
+    2300024: pasted__pCube32
+    2300026: pasted__pCube53
+    2300028: pasted__pCube6
+    2300030: pasted__pCube74
+    2300032: pasted__pCube79
+    2300034: pasted__pCube85
+    2300036: pasted__pCube86
+    2300038: pasted__pCube87
+    2300040: pasted__pCube88
+    2300042: pasted__pCube89
+    2300044: pasted__pCube90
+    2300046: pasted__pCube91
+    2300048: pasted__pCube92
+    2300050: pasted__pCube93
+    2300052: pasted__pCube94
+    2300054: pasted__pCube95
+    2300056: pasted__pCube96
+    2300058: pasted__pCube97
+    2300060: pasted__pCube98
+    2300062: pasted__pCube99
+    2300064: pasted__pCylinder20
+    2300066: pasted__pCylinder25
+    2300068: pasted__pCylinder28
+    2300070: pasted__pCylinder34
+    2300072: pasted__pCylinder41
+    2300074: pasted__pCylinder43
+    2300076: pasted__pCylinder44
+    2300078: pasted__pCylinder6
+    2300080: pasted__pCylinder8
+    2300082: pasted__pCylinder9
+    2300084: pasted__polySurface12
+    2300086: pasted__polySurface33
+    2300088: pasted__polySurface36
+    2300090: pasted__polySurface37
+    2300092: pasted__polySurface39
+    2300094: pasted__polySurface41
+    2300096: pasted__polySurface42
+    2300098: pasted__polySurface43
+    2300100: pasted__polySurface8
+    2300102: pCube1
+    2300104: pCube10
+    2300106: pCube11
+    2300108: pCube12
+    2300110: pCube13
+    2300112: pCube14
+    2300114: pCube15
+    2300116: pCube16
+    2300118: pCube17
+    2300120: pCube18
+    2300122: pCube19
+    2300124: pCube2
+    2300126: pCube20
+    2300128: pCube21
+    2300130: pCube22
+    2300132: pCube23
+    2300134: pCube24
+    2300136: pCube25
+    2300138: pCube26
+    2300140: pCube3
+    2300142: pCube4
+    2300144: pCube5
+    2300146: pCube6
+    2300148: pCube7
+    2300150: pCube8
+    2300152: pCube9
+    3300000: pasted__pasted__Banana_Bunch3_pCylinder64
+    3300002: pasted__pasted__pCube15
+    3300004: pasted__pCube100
+    3300006: pasted__pCube101
+    3300008: pasted__pCube102
+    3300010: pasted__pCube103
+    3300012: pasted__pCube104
+    3300014: pasted__pCube12
+    3300016: pasted__pCube17
+    3300018: pasted__pCube24
+    3300020: pasted__pCube27
+    3300022: pasted__pCube27 1
+    3300024: pasted__pCube32
+    3300026: pasted__pCube53
+    3300028: pasted__pCube6
+    3300030: pasted__pCube74
+    3300032: pasted__pCube79
+    3300034: pasted__pCube85
+    3300036: pasted__pCube86
+    3300038: pasted__pCube87
+    3300040: pasted__pCube88
+    3300042: pasted__pCube89
+    3300044: pasted__pCube90
+    3300046: pasted__pCube91
+    3300048: pasted__pCube92
+    3300050: pasted__pCube93
+    3300052: pasted__pCube94
+    3300054: pasted__pCube95
+    3300056: pasted__pCube96
+    3300058: pasted__pCube97
+    3300060: pasted__pCube98
+    3300062: pasted__pCube99
+    3300064: pasted__pCylinder20
+    3300066: pasted__pCylinder25
+    3300068: pasted__pCylinder28
+    3300070: pasted__pCylinder34
+    3300072: pasted__pCylinder41
+    3300074: pasted__pCylinder43
+    3300076: pasted__pCylinder44
+    3300078: pasted__pCylinder6
+    3300080: pasted__pCylinder8
+    3300082: pasted__pCylinder9
+    3300084: pasted__polySurface12
+    3300086: pasted__polySurface33
+    3300088: pasted__polySurface36
+    3300090: pasted__polySurface37
+    3300092: pasted__polySurface39
+    3300094: pasted__polySurface41
+    3300096: pasted__polySurface42
+    3300098: pasted__polySurface43
+    3300100: pasted__polySurface8
+    3300102: pCube1
+    3300104: pCube10
+    3300106: pCube11
+    3300108: pCube12
+    3300110: pCube13
+    3300112: pCube14
+    3300114: pCube15
+    3300116: pCube16
+    3300118: pCube17
+    3300120: pCube18
+    3300122: pCube19
+    3300124: pCube2
+    3300126: pCube20
+    3300128: pCube21
+    3300130: pCube22
+    3300132: pCube23
+    3300134: pCube24
+    3300136: pCube25
+    3300138: pCube26
+    3300140: pCube3
+    3300142: pCube4
+    3300144: pCube5
+    3300146: pCube6
+    3300148: pCube7
+    3300150: pCube8
+    3300152: pCube9
+    4300000: pCube1
+    4300002: pCube2
+    4300004: pCube3
+    4300006: pCube4
+    4300008: pCube5
+    4300010: pasted__pCube85
+    4300012: pasted__pCube6
+    4300014: pasted__pCube12
+    4300016: pasted__pCube103
+    4300018: pasted__pCube104
+    4300020: pasted__pCylinder6
+    4300022: pasted__pCube86
+    4300024: pasted__pCube74
+    4300026: pasted__pCube79
+    4300028: pasted__polySurface8
+    4300030: pasted__pCylinder25
+    4300032: pasted__pCylinder28
+    4300034: pasted__polySurface33
+    4300036: pasted__polySurface12
+    4300038: pasted__pCube27
+    4300040: pasted__pCylinder34
+    4300042: pasted__polySurface36
+    4300044: pasted__pasted__pCube15
+    4300046: pasted__polySurface37
+    4300048: pasted__pCube32
+    4300050: pasted__pasted__Banana_Bunch3_pCylinder64
+    4300052: pasted__polySurface39
+    4300054: pasted__pCube87
+    4300056: pasted__pCylinder43
+    4300058: pasted__pCylinder41
+    4300060: pCube6
+    4300062: pCube7
+    4300064: pCube8
+    4300066: pCube9
+    4300068: pasted__pCube17
+    4300070: pasted__pCylinder8
+    4300072: pasted__pCube27
+    4300074: pasted__pCylinder9
+    4300076: pasted__pCylinder20
+    4300078: pasted__pCube53
+    4300080: pasted__polySurface42
+    4300082: pasted__pCube88
+    4300084: pasted__pCube89
+    4300086: pasted__pCube90
+    4300088: pasted__pCube91
+    4300090: pasted__pCube92
+    4300092: pasted__pCube93
+    4300094: pasted__pCube94
+    4300096: pasted__pCube95
+    4300098: pasted__pCube96
+    4300100: pasted__pCube97
+    4300102: pasted__pCube98
+    4300104: pasted__pCube99
+    4300106: pasted__polySurface43
+    4300108: pasted__pCube100
+    4300110: pasted__pCube101
+    4300112: pasted__pCube102
+    4300114: pasted__pCylinder44
+    4300116: pCube10
+    4300118: pCube11
+    4300120: pCube12
+    4300122: pCube13
+    4300124: pasted__pCube24
+    4300126: pCube14
+    4300128: pCube15
+    4300130: pCube16
+    4300132: pCube17
+    4300134: pCube18
+    4300136: pCube19
+    4300138: pCube20
+    4300140: pCube21
+    4300142: pCube22
+    4300144: pCube23
+    4300146: pCube24
+    4300148: pCube25
+    4300150: pCube26
+    4300152: pasted__polySurface41
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boxes
+    second: {fileID: 2100000, guid: 048269d18df10e4428d424aba22412cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brad_floor
+    second: {fileID: 2100000, guid: 95bef877426757647aa2753168824c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brad_walls
+    second: {fileID: 2100000, guid: db37f0a467aaa2e4c8162c234cc55c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Main_color
+    second: {fileID: 2100000, guid: e9867919949f68349a9f7835b930c71c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_fllow
+    second: {fileID: 2100000, guid: 8cf59db59cdfcde428cd28eb46bbf6d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_walls
+    second: {fileID: 2100000, guid: b9c60086dcfb75446b96bf68294b4b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Papers
+    second: {fileID: 2100000, guid: 8ecaf79984a27684ea850a3c3b863c5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steve_floor
+    second: {fileID: 2100000, guid: 95bef877426757647aa2753168824c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steve_walls
+    second: {fileID: 2100000, guid: 2cd1e6be837731f4b84e2d9448be05c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 9d81f12dd90400b40911af5099008887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bananas
+    second: {fileID: 2100000, guid: 14e66ffeade3b564abe6eae456365899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bed_Frame
+    second: {fileID: 2100000, guid: 362f801371029b94fa44ed81b5000faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bed_Sheet_pattern
+    second: {fileID: 2100000, guid: af73ce8c8f8e49a4399c4b5ac8a5b96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bed_Sheets_inside
+    second: {fileID: 2100000, guid: af73ce8c8f8e49a4399c4b5ac8a5b96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Book
+    second: {fileID: 2100000, guid: ee2e136f33c44a847a26d12527ce6a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Book_Pages
+    second: {fileID: 2100000, guid: 11743116b843b1d4f96fb17d51bef55e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Bookshelf
+    second: {fileID: 2100000, guid: 17627c0b830c3084f9ed168c97e34354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Burners
+    second: {fileID: 2100000, guid: e6f3f5afe05dda84ea78f32d99798f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Chair_Cloth
+    second: {fileID: 2100000, guid: ceed1834f34ca6d41948fce32f927a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Chair_WOod
+    second: {fileID: 2100000, guid: 1d161f5eccbcb654b96df1cdc43ec9c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__CouchPIllow
+    second: {fileID: 2100000, guid: 352cf807f8a16c145adeea3f7aa5f772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Couch_Legs
+    second: {fileID: 2100000, guid: 5fdd18b02e20a6b40b3d56b3da41db1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Counter656
+    second: {fileID: 2100000, guid: c633993db35daa94ea234eef3e721ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Counter_Knob
+    second: {fileID: 2100000, guid: fefe0d923edd0f744a54e2e6011680c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Cupboard_Hinges
+    second: {fileID: 2100000, guid: 64190f99b167958468f1a846dbacfa51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Desk_
+    second: {fileID: 2100000, guid: bfb1835167fb49b4dbe2b30abf1ef15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Dining_Chair
+    second: {fileID: 2100000, guid: 65b5395ca4fdcf448b5fd2004f7f560b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Dining_Table
+    second: {fileID: 2100000, guid: 0c7c0d9e388762942bd6fcd7dad9998c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Dresser
+    second: {fileID: 2100000, guid: 46313ab2bcfed7b4595ba3f6f2160306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DresserDrawer_Handle
+    second: {fileID: 2100000, guid: a992df11063bd9b438cd34845dac964b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Dresser_Feet
+    second: {fileID: 2100000, guid: 07aebf313e28bec4ba14719c30ab6e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__FridgeHandle
+    second: {fileID: 2100000, guid: 1bf2c07329bbd28428e266ccb0e75a01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__LampShade
+    second: {fileID: 2100000, guid: 23f2ffe858bf4d14fb43de5a85fd3c4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__LampStand1
+    second: {fileID: 2100000, guid: 44df4640788948e45b42781b42d4a29b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop
+    second: {fileID: 2100000, guid: 5741ad6f922f5914bb452e73cacd9c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop_Button
+    second: {fileID: 2100000, guid: 16b93987d459a8742bc29d3f2d58798d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop_Keyboard
+    second: {fileID: 2100000, guid: 7341185260209614f837e104072f55e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Laptop_screen
+    second: {fileID: 2100000, guid: ad3cb4ce0f0248e479de108503f848a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Mattress
+    second: {fileID: 2100000, guid: f314f5b6c8f385b47a96dde7c2ce80a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Microwave
+    second: {fileID: 2100000, guid: c9ee02b2aa7887848a35fa535d52262f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Microwave_Spinny_thing
+    second: {fileID: 2100000, guid: 721ed340e6aa8b84d923e3fa5c740036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Microwave_Window
+    second: {fileID: 2100000, guid: c294d230afb968047815031b2d5a3a2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Mug
+    second: {fileID: 2100000, guid: f4a6397d7eb33a540a86be35a6393da6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Oven
+    second: {fileID: 2100000, guid: 7dd37a6d05296c84bb8496b63606fcb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Oven_Dials56
+    second: {fileID: 2100000, guid: bb49d71b6c5c6b54092c77d8b2a65b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Oven_Handles
+    second: {fileID: 2100000, guid: 8d16455de858bc14aa1c04f78a1d984a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Oven_Window
+    second: {fileID: 2100000, guid: c20584f23abae8b44a156a9bfb9421d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__PIano
+    second: {fileID: 2100000, guid: c1cb51be7a13e714cb9669e77cd2e621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__PIano_White_Keys
+    second: {fileID: 2100000, guid: 9625f5b7d48d5da47be48bca7eaabff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Piano_black_keys
+    second: {fileID: 2100000, guid: 76cf0eca4f6792049950c6e45d5adad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Piano_pedals
+    second: {fileID: 2100000, guid: 8351e6999e9cb424d8bd30a3577a1791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__PictureFrame_Photo
+    second: {fileID: 2100000, guid: 8157a175d16959847beac8b5f03e5077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Picture_Frames
+    second: {fileID: 2100000, guid: e4b52141a0935f54bb79dd4e7210b714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Pillow
+    second: {fileID: 2100000, guid: e9006e30632963c428e562137ab487ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Pot
+    second: {fileID: 2100000, guid: 4befd008ba9dc3c4dba826f47fb381e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Radio1
+    second: {fileID: 2100000, guid: a88e743d01ea3554088d0ac7f001bb63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Radio_Dials1
+    second: {fileID: 2100000, guid: 29f646bb4924d864f8e9a6bd8fa1c2ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Radio_Speaker1
+    second: {fileID: 2100000, guid: 124d1971cb4f12d4381c5b52da0e38ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Radio_face1
+    second: {fileID: 2100000, guid: 5cb454f08e19cbf41b513d695b5ee8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Round_Lamp_Base
+    second: {fileID: 2100000, guid: 4b8452af9c0996c42b0ed48a113462a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Round_Lamp_Shade
+    second: {fileID: 2100000, guid: e1ca97e8aa6dc3448a30bb0bd839e371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Rug
+    second: {fileID: 2100000, guid: 1354471ebf6a82149bcdf26a97e91456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Side_Table
+    second: {fileID: 2100000, guid: 355a060c9954ad946bfabfd7518178bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Side_Table_Handle
+    second: {fileID: 2100000, guid: b9c39c639eae38444994c653e237f77c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Sink
+    second: {fileID: 2100000, guid: 242e2eca75be7b242807a106e87e10ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Sink_Drain
+    second: {fileID: 2100000, guid: 0b3d92db2c78b8c49b3c3729140ebf58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Sink_Faucet
+    second: {fileID: 2100000, guid: 500a9f42a3fb6014b9898057ac85a2a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Soap_Dispenser
+    second: {fileID: 2100000, guid: 72de6bd22491b5a409d6ba1d886e9e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Toaster
+    second: {fileID: 2100000, guid: 4698250d79ce16a4cbcbc79ef8c1d810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ToasterHandle
+    second: {fileID: 2100000, guid: d6115da4851c85941bd72da036b6029f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Trash_Bin
+    second: {fileID: 2100000, guid: d946e5edcf084044789c732b2ea185d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__couch
+    second: {fileID: 2100000, guid: 632330a9251ba8f479b318e20e19e7f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert28
+    second: {fileID: 2100000, guid: 88569b8e5a4cb044b83b19808683c6c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__CounterDrawers
+    second: {fileID: 2100000, guid: 52403c9681389814684760340877d546, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
