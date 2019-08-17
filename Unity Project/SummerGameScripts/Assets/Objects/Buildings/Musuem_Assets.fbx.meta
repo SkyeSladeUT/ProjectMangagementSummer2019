@@ -344,7 +344,112 @@ ModelImporter:
     4300110: pSphere2
     4300112: pCylinder8
     4300114: pCylinder11
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel_Metal
+    second: {fileID: 2100000, guid: e01239766ff22ce4590d32dd3a16c398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel_Wood
+    second: {fileID: 2100000, guid: f7205f4ee4fa6794ca37097383d87ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cannon1
+    second: {fileID: 2100000, guid: a520c21de26370143b1c45989b5eff07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cannon_Ball
+    second: {fileID: 2100000, guid: f66dda3e1fcb3f744ae72b2c46a7b8c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canteen1
+    second: {fileID: 2100000, guid: ca5540ac24fd4964ba137cc3f02edf06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Captain_Clothes
+    second: {fileID: 2100000, guid: b40ce13ecb2f86f45a591187f17debf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Captain_Hat
+    second: {fileID: 2100000, guid: 8d3137a4d49f2d74fbeeebf11ec38a37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Case_01
+    second: {fileID: 2100000, guid: 9a11e489791cba74dbafa5d4d43e9ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Case_02
+    second: {fileID: 2100000, guid: 36652283005903849ad8bfbc4c8ef3a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Stand
+    second: {fileID: 2100000, guid: 158d0f65897c71948b8dc99fb872a370, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Stand_02
+    second: {fileID: 2100000, guid: 0795a647766f7944493967a66cc89cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dog_Tag
+    second: {fileID: 2100000, guid: 58ddef49850c26c409425f2d51fc59c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frying_Pan1
+    second: {fileID: 2100000, guid: f79615bfe52bcd34e84a4798197aa370, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuse
+    second: {fileID: 2100000, guid: 53a5e56dd2801784ab338cbeda7ed4ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 0b05af9cff7f95a449a97a12d0ed8b4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mannequin_Body
+    second: {fileID: 2100000, guid: 319681c4bb397834b82fce1f8fd152dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Map1
+    second: {fileID: 2100000, guid: 06642acb7fe7f014b80fd9569f9829dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soldier_Clothes
+    second: {fileID: 2100000, guid: c761326ad3408414eaff988f5962c066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soldier_Hat
+    second: {fileID: 2100000, guid: 52834ba205983c740a2bd48f283cd4ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spout
+    second: {fileID: 2100000, guid: 82a359d8304f44b4881a1da2a96a0cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels
+    second: {fileID: 2100000, guid: ec4a788a6aa07b94d81b537f5b4200de, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

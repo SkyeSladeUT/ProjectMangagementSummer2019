@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
@@ -20,10 +21,18 @@ public class dialouge_script : MonoBehaviour
     private char _choice_char;
     public BoolData choiceselection;
     public List<StringData> ChoiceOptions;
+    public List<string> CharacterNames;
+    public List<AudioClip> CharacterSounds;
+    public List<Color> CharacterColors;
+    public Image Dialogue_image;
+    private AudioSource audio;
+    public List<float> pitchs;
+    private string charactername;
     
 
     private void Start()
     {
+        audio = GetComponent<AudioSource>();
         _choice_char = '{';
         inRange = false;
         SpeedUp = false;
@@ -102,11 +111,19 @@ public class dialouge_script : MonoBehaviour
         while (paragraph < character.Script.Dialouge[_conNum].Count && ConvStart && !choiceselection.value)
         {
             if (paragraph > character.Script.Characters[_conNum].Count)
+            {
                 Character_Text.text = "";
+                SetNullCharacter();
+            }
             else
+            {
                 Character_Text.text = character.Script.Characters[_conNum][paragraph];
+                SetCharacter();
+            }
+
             while (line < character.Script.Dialouge[_conNum][paragraph].Count)
             {
+                //audio.Play();
                 RunReaction();
                 _text_to_display = "";
                 while (_char < character.Script.Dialouge[_conNum][paragraph][line].Length)
@@ -165,6 +182,7 @@ public class dialouge_script : MonoBehaviour
             Character_Text.text = "";
             Dialouge_Object.SetActive(false);
             ConvStart = false;
+            audio.Stop();
             FinishConv.Invoke();
             EndDialouge.Action.Invoke();
         }
@@ -202,6 +220,7 @@ public class dialouge_script : MonoBehaviour
         Dialouge_Text.text = "";
         Character_Text.text = "";
         Dialouge_Object.SetActive(false);
+        audio.Stop();
         OnChoiceSelectStart.Invoke(); 
         ConvStart = false;
     }
@@ -242,6 +261,7 @@ public class dialouge_script : MonoBehaviour
                 break;
             case '3':
                 ConvStart = false;
+                audio.Stop();
                 StopConv.Invoke();
                 break;
             case '4' :
@@ -263,5 +283,44 @@ public class dialouge_script : MonoBehaviour
     public void NodHead()
     {
         Nod.Invoke();
+    }
+
+    public void SetCharacter()
+    {
+        for (int i = 0; i < CharacterNames.Count; i++)
+        {
+            charactername = "";
+            foreach (char c in character.Script.Characters[_conNum][paragraph])
+            {
+                //Debug.Log(c);
+                if (char.IsLetter(c))
+                {
+                    charactername += c;
+                }
+            }
+
+            //Debug.Log(letter);
+            if (charactername == CharacterNames[i])
+            {
+                if(CharacterSounds[i] == null)
+                    audio.Stop();
+                else
+                {
+                    audio.clip = CharacterSounds[i];
+                    Dialogue_image.color = CharacterColors[i];
+                    audio.pitch = pitchs[i];
+                    audio.Play();
+                }
+                return;
+            }
+            
+        }
+        SetNullCharacter();
+    }
+
+    public void SetNullCharacter()
+    {
+        Dialogue_image.color = CharacterColors[CharacterColors.Count - 1];
+        audio.Stop();
     }
 }

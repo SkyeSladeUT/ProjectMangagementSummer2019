@@ -14,6 +14,7 @@ public class Inventory_Dialouge : MonoBehaviour
     private int _char;
     private string _text_to_display;
     public UnityEvent OnInteract, OnEnd;
+    public Image dialogueimage;
     
 
     private void Start()
@@ -53,6 +54,7 @@ public class Inventory_Dialouge : MonoBehaviour
         Dialouge_Object.SetActive(true);
         StartCoroutine(ScrollText());
         StartCoroutine(CheckSpeed());
+        dialogueimage.color = Color.white;
     }
 }
 
