@@ -24,6 +24,7 @@ public class Interact_with_object : MonoBehaviour
                 yield return new WaitForFixedUpdate();
             if (Interact_Keys.KeyDown() && _inRange && !inPuzzleMode.value)
             {
+                _inRange = true;
                 InteractEvent.Invoke();
                 interacted = true;
             }
@@ -32,7 +33,7 @@ public class Interact_with_object : MonoBehaviour
                 Exit_Puzzle();
                 //_inRange = true;
             }
-            yield return new WaitForSeconds(.1f);
+            yield return new WaitForSeconds(.05f);
         }
     }
 

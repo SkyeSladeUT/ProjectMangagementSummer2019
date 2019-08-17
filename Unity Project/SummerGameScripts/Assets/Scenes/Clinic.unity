@@ -260,11 +260,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6666005226803851673}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -346,6 +341,11 @@ PrefabInstance:
       propertyPath: anim
       value: 
       objectReference: {fileID: 6666005226803851674}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -486,11 +486,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6666005226803851673}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -572,6 +567,11 @@ PrefabInstance:
       propertyPath: anim
       value: 
       objectReference: {fileID: 6666005226803851675}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -1524,6 +1524,11 @@ PrefabInstance:
       propertyPath: OnEnd.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_StringArgument
       value: DoneShow
       objectReference: {fileID: 0}
+    - target: {fileID: 6666005227924431988, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: dialogueimage
+      value: 
+      objectReference: {fileID: 1603191243}
     - target: {fileID: 3897082141906498372, guid: c7316f72063abd043b07ea55629de095,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.size

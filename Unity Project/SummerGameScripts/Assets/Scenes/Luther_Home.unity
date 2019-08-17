@@ -1329,6 +1329,21 @@ PrefabInstance:
       propertyPath: Event.Array.data[0].m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 240516240256233654, guid: e24efa0c5355cb74a95977f2d3f3101b,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 240516240256233654, guid: e24efa0c5355cb74a95977f2d3f3101b,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 240516240256233654, guid: e24efa0c5355cb74a95977f2d3f3101b,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e24efa0c5355cb74a95977f2d3f3101b, type: 3}
 --- !u!4 &3040796160701533923 stripped

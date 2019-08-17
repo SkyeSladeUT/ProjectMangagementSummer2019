@@ -5,85 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d183136a-9d8b-4f4a-944d-74955dadf713" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SummerGameScripts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SummerGameScripts/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Characters/Cafe_Owner/Fox_Model1_HeadandTail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Characters/Cafe_Owner/Fox_Model1_HeadandTail.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/lambert1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/lambert1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/lambert_Trans.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/lambert_Trans.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/windowwithtab.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/windowwithtab.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/windowwithtab_Trans.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Building/Ice_Cream_Shop/windowwithtab_Trans.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Material/Characters/Raccoon/Material/Raccoon_Head_Tail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Characters/Raccoon/Material/Raccoon_Head_Tail.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/MAnsion_Texture_Images/Mansion_UV_Updated_Piano_pedals_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/MAnsion_Texture_Images/Mansion_UV_Updated_Piano_pedals_Normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/MAnsion_Texture_Images/Mansion_UV_Updated_Radio_Speaker_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/MAnsion_Texture_Images/Mansion_UV_Updated_Radio_Speaker_Normal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCarpet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCarpet.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCarpet1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCarpet1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionClock_Swingy_Thing.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionClock_Swingy_Thing.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCoffee_Table.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCoffee_Table.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCurtain5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionCurtain5.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionDesk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionDesk.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionDesk_Drawer_knobs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionDesk_Drawer_knobs.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFancy_Chair.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFancy_Chair.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFancy_Chair_Wood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFancy_Chair_Wood.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFireplace.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFireplace.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFireplace_Inside.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionFireplace_Inside.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionGlass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionGlass.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionGrandfather_Clock.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionGrandfather_Clock.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionGrandfather_Clock_face.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionGrandfather_Clock_face.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLamp2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLamp2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLampShade2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLampShade2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLamp_Base.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLamp_Base.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLamp_Shade.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLamp_Shade.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLogs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionLogs.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPIano.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPIano.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPIano_White_Keys.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPIano_White_Keys.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPiano_black_keys.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPiano_black_keys.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPiano_pedals.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionPiano_pedals.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio_Dials.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio_Dials.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio_Speaker.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio_Speaker.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio_face.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionRadio_face.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionTrashbin.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionTrashbin.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionVase.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionVase.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionWalls.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionWalls.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionWindow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionWindow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionWindow_Light.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansionWindow_Light.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Cabinet5.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Cabinet5.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_CouchPIllow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_CouchPIllow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Lambert45.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Lambert45.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Mug.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Mug.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Shield.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Shield.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Side_Table.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Side_Table.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Side_Table_Handle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Side_Table_Handle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Stairs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Stairs.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Stairs2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Stairs2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_SwordBlade.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_SwordBlade.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Sword_Handle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Sword_Handle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV_Screen.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV_Screen.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV_antenna.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_TV_antenna.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Toaster.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_Toaster.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_ToasterHandle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_ToasterHandle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_UV_Updated_floor_BaseColor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_UV_Updated_floor_BaseColor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_couch.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_couch.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_lambert1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_lambert1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_lambert18.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_lambert18.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_office_Carpet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansion_office_Carpet.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansioncANDLE_sTICK.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/MansioncANDLE_sTICK.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansioncandle.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansioncandle.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansionlambert18.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/Mansionlambert18.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/lambert44.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/lambert44.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/wall_Lamop.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Interiors/MAnsion/Materials/wall_Lamop.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Objects/Buildings/Musuem_Assets.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Buildings/Musuem_Assets.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Buildings/Finished_Code/Mansion.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Buildings/Finished_Code/Mansion.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/dialouge_box.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/dialouge_box.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Dialogue_Variables/In_Choice_Selection_Mode.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Dialogue_Variables/In_Choice_Selection_Mode.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Characters/Steve/Material/Steve_Body.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Characters/Steve/Material/Steve_Body.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/CharacterController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/CharacterController.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Brad_Steve_House.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Brad_Steve_House.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Cafe_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Cafe_Scene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Church.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Church.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Clinic.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Clinic.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Ice_Cream_Shop.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Ice_Cream_Shop.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Island.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Island.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Kim and Skye.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Kim and Skye.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Library.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Library.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lighthouse.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lighthouse.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Luther_Home.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Luther_Home.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mansion.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mansion.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dialogue_Scripts/dialouge_script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dialogue_Scripts/dialouge_script.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Inventory/Inventory_Dialouge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Inventory/Inventory_Dialouge.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Police Station.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Police Station.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Rose and Kirk.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Rose and Kirk.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Secret_Lab.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Secret_Lab.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Sewer_Pipe_maze.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Sewer_Pipe_maze.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MiscScripts/Interact_with_object.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MiscScripts/Interact_with_object.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -212,24 +156,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Interact_with_object.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Interact_with_object.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MiscScripts/Interact_with_object.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            <state relative-caret-position="386">
+              <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
               <folding>
-                <marker date="1565731946301" expanded="false" signature="6:104" ph="..." />
-                <marker date="1565731946301" expanded="true" signature="155:1472" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="381:434" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="475:1018" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="502:1012" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="687:790" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="858:952" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="1067:1202" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="1113:1196" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="1250:1393" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="1296:1387" ph="{...}" />
-                <marker date="1565731946301" expanded="true" signature="1424:1465" ph="{...}" />
+                <marker date="1566062914400" expanded="false" signature="6:104" ph="..." />
+                <marker date="1566062914400" expanded="true" signature="155:1506" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="381:434" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="475:1052" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="502:1046" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="687:823" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="891:985" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="1101:1236" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="1147:1230" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="1284:1427" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="1330:1421" ph="{...}" />
+                <marker date="1566062914400" expanded="true" signature="1458:1499" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -241,58 +185,58 @@
             <state relative-caret-position="162">
               <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
               <folding>
-                <marker date="1565984522673" expanded="true" signature="6:140" ph="..." />
-                <marker date="1565984522673" expanded="true" signature="186:9557" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="1147:1491" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="1541:1677" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="1587:1671" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="1725:1806" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="1838:2022" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="1936:2016" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2051:2263" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2107:2261" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2298:2353" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2391:2690" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2470:2637" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2516:2576" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2727:5934" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="2990:5592" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="3072:3178" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="3195:3342" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="3422:5535" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="3629:5375" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="3768:3990" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="4015:4322" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="4356:5353" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="4477:5269" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="4611:4926" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="4959:5243" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="5629:5928" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="5965:6054" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="6094:7014" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="6438:6811" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="6522:6595" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="6612:6801" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="7046:8302" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="7252:8296" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="8336:8432" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="8459:8493" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="8525:9410" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="8586:9376" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="8708:8882" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="8792:8868" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="8968:9353" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="9084:9315" ph="{...}" />
-                <marker date="1565984522673" expanded="true" signature="9446:9555" ph="{...}" />
+                <marker date="1566019216297" expanded="false" signature="6:140" ph="..." />
+                <marker date="1566019216297" expanded="true" signature="186:9557" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="1147:1491" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="1541:1677" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="1587:1671" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="1725:1806" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="1838:2022" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="1936:2016" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2051:2263" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2107:2261" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2298:2353" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2391:2690" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2470:2637" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2516:2576" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2727:5934" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="2990:5592" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="3072:3178" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="3195:3342" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="3422:5535" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="3629:5375" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="3768:3990" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="4015:4322" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="4356:5353" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="4477:5269" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="4611:4926" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="4959:5243" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="5629:5928" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="5965:6054" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="6094:7014" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="6438:6811" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="6522:6595" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="6612:6801" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="7046:8302" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="7252:8296" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="8336:8432" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="8459:8493" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="8525:9410" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="8586:9376" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="8708:8882" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="8792:8868" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="8968:9353" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="9084:9315" ph="{...}" />
+                <marker date="1566019216297" expanded="true" signature="9446:9555" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ice_Cream_Script.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ice_Cream_Script.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Resources/NPC/Ice_Cream_Shop_Owner/Ice_Cream_Script.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
+            <state relative-caret-position="1005">
               <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
             </state>
           </provider>
@@ -310,7 +254,7 @@
       <file leaf-file-name="Inventory_Dialouge.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/Inventory_Dialouge.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-364">
+            <state relative-caret-position="840">
               <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
             </state>
           </provider>
@@ -464,9 +408,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Inventory/Inventory_Display.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MiscScripts/DeacvtivateSnapAreas.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MiscScripts/AutomaticSnapScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MiscScripts/Interact_with_object.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Inventory/Inventory_Dialouge.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue_Scripts/dialouge_script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MiscScripts/Interact_with_object.cs" />
       </list>
     </option>
   </component>
@@ -476,7 +420,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="width" value="1360" />
     <option name="height" value="1040" />
@@ -487,6 +431,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer" />
+      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -505,27 +451,11 @@
               <item name="" type="1045f7f1:UnityExplorerNode" />
               <item name="" type="1045f7f1:UnityExplorerNode" />
             </path>
-            <path>
-              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="SummerGameScripts" type="483dac07:UnityExplorerNode$Root" />
-              <item name="" type="1045f7f1:UnityExplorerNode" />
-              <item name="" type="1045f7f1:UnityExplorerNode" />
-              <item name="" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="SummerGameScripts" type="483dac07:UnityExplorerNode$Root" />
-              <item name="" type="1045f7f1:UnityExplorerNode" />
-              <item name="" type="1045f7f1:UnityExplorerNode" />
-              <item name="" type="1045f7f1:UnityExplorerNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="Scratches" />
-      <pane id="SolutionExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -691,11 +621,12 @@
       <workItem from="1565490052584" duration="3196000" />
       <workItem from="1565979079857" duration="1148000" />
       <workItem from="1565980678177" duration="4813000" />
+      <workItem from="1566062194114" duration="719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="473894000" />
+    <option name="totallyTimeSpent" value="474613000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -707,7 +638,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1088" height="832" extended-state="0" />
+    <frame x="-8" y="0" width="1088" height="832" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -716,7 +648,7 @@
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3200389" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32684824" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -740,24 +672,24 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Unity" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30214426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Unit Tests" order="10" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32902297" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1020,45 +952,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Puzzles/Pipe_Puzzle/Pipe_End_Objects.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1560909107270" expanded="true" signature="6:78" ph="..." />
-            <marker date="1560909107270" expanded="true" signature="125:163" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Puzzles/Pipe_Puzzle/Pipe_Trigger_Event.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-          <folding>
-            <marker date="1565302180393" expanded="false" signature="6:78" ph="..." />
-            <marker date="1565302180393" expanded="true" signature="127:1588" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="332:577" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="440:499" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="512:571" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="625:1160" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="672:897" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="910:1083" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="1208:1586" ph="{...}" />
-            <marker date="1565302180393" expanded="true" signature="1255:1440" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Puzzles/Pipe_Puzzle/PipeEntrance.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1560909107274" expanded="false" signature="6:78" ph="..." />
-            <marker date="1560909107274" expanded="true" signature="197:474" ph="{...}" />
-            <marker date="1560909107274" expanded="true" signature="297:364" ph="{...}" />
-            <marker date="1560909107274" expanded="true" signature="401:472" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Puzzles/Pipe_Puzzle/PipeListData.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -1138,30 +1042,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MiscScripts/Interact_with_object.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <marker date="1565731946301" expanded="false" signature="6:104" ph="..." />
-            <marker date="1565731946301" expanded="true" signature="155:1472" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="381:434" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="475:1018" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="502:1012" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="687:790" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="858:952" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="1067:1202" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="1113:1196" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="1250:1393" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="1296:1387" ph="{...}" />
-            <marker date="1565731946301" expanded="true" signature="1424:1465" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/Inventory_Dialouge.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
+        <state relative-caret-position="840">
           <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
         </state>
       </provider>
@@ -1173,62 +1056,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/NPC/Ice_Cream_Shop_Owner/Ice_Cream_Script.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dialogue_Scripts/dialouge_script.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="18" />
           <folding>
-            <marker date="1565984522673" expanded="true" signature="6:140" ph="..." />
-            <marker date="1565984522673" expanded="true" signature="186:9557" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="1147:1491" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="1541:1677" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="1587:1671" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="1725:1806" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="1838:2022" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="1936:2016" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2051:2263" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2107:2261" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2298:2353" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2391:2690" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2470:2637" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2516:2576" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2727:5934" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="2990:5592" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="3072:3178" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="3195:3342" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="3422:5535" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="3629:5375" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="3768:3990" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="4015:4322" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="4356:5353" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="4477:5269" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="4611:4926" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="4959:5243" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="5629:5928" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="5965:6054" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="6094:7014" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="6438:6811" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="6522:6595" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="6612:6801" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="7046:8302" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="7252:8296" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="8336:8432" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="8459:8493" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="8525:9410" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="8586:9376" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="8708:8882" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="8792:8868" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="8968:9353" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="9084:9315" ph="{...}" />
-            <marker date="1565984522673" expanded="true" signature="9446:9555" ph="{...}" />
+            <marker date="1566019216297" expanded="false" signature="6:140" ph="..." />
+            <marker date="1566019216297" expanded="true" signature="186:9557" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="1147:1491" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="1541:1677" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="1587:1671" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="1725:1806" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="1838:2022" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="1936:2016" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2051:2263" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2107:2261" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2298:2353" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2391:2690" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2470:2637" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2516:2576" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2727:5934" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="2990:5592" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="3072:3178" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="3195:3342" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="3422:5535" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="3629:5375" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="3768:3990" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="4015:4322" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="4356:5353" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="4477:5269" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="4611:4926" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="4959:5243" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="5629:5928" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="5965:6054" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="6094:7014" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="6438:6811" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="6522:6595" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="6612:6801" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="7046:8302" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="7252:8296" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="8336:8432" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="8459:8493" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="8525:9410" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="8586:9376" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="8708:8882" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="8792:8868" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="8968:9353" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="9084:9315" ph="{...}" />
+            <marker date="1566019216297" expanded="true" signature="9446:9555" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Resources/NPC/Ice_Cream_Shop_Owner/Ice_Cream_Script.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MiscScripts/Interact_with_object.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="386">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding>
+            <marker date="1566062914400" expanded="false" signature="6:104" ph="..." />
+            <marker date="1566062914400" expanded="true" signature="155:1506" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="381:434" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="475:1052" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="502:1046" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="687:823" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="891:985" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="1101:1236" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="1147:1230" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="1284:1427" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="1330:1421" ph="{...}" />
+            <marker date="1566062914400" expanded="true" signature="1458:1499" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

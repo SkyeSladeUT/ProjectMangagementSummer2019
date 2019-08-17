@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1905507340366712270}
   - component: {fileID: 1905507340366712271}
   m_Layer: 0
-  m_Name: Animation
+  m_Name: Chara_ANim
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71,6 +71,9 @@ MonoBehaviour:
   TriggerNames: []
   in_control: {fileID: 0}
   Can_Run: {fileID: 11400000, guid: 47f68316034de6d4c95b47c727dc2434, type: 2}
+  walktrigg: Walk
+  idletrigg: Idle
+  runtrigg: Run
 --- !u!1 &1905507340724257265
 GameObject:
   m_ObjectHideFlags: 0
@@ -401,10 +404,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1905507340724257266}
     m_Modifications:
-    - target: {fileID: 100100, guid: e1a7b58ca675b9c4eb7c2526a0204392, type: 3}
-      propertyPath: m_Name
-      value: New_Walk_Run_01
-      objectReference: {fileID: 0}
     - target: {fileID: 400100, guid: e1a7b58ca675b9c4eb7c2526a0204392, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -448,6 +447,18 @@ PrefabInstance:
     - target: {fileID: 400100, guid: e1a7b58ca675b9c4eb7c2526a0204392, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100100, guid: e1a7b58ca675b9c4eb7c2526a0204392, type: 3}
+      propertyPath: m_Name
+      value: New_Walk_Run_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100242, guid: e1a7b58ca675b9c4eb7c2526a0204392, type: 3}
+      propertyPath: m_Name
+      value: Chara_R_Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: 100220, guid: e1a7b58ca675b9c4eb7c2526a0204392, type: 3}
+      propertyPath: m_Name
+      value: Chara_L_Hand
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1a7b58ca675b9c4eb7c2526a0204392, type: 3}

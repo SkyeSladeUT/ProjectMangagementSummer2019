@@ -495,11 +495,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7962493365372382049}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -570,16 +565,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1457245
       objectReference: {fileID: 0}
-    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 7962493365372382044}
-    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: SetTrigger
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653816, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: anim
@@ -591,6 +576,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 652f9db3ecde6624eb6a519356a607a3,
         type: 2}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 7962493365372382044}
+    - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: SetTrigger
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3da4b92c0a12f74eb32b2e317c4082a, type: 3}
 --- !u!4 &1466173901 stripped
@@ -659,11 +659,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7962493365372382049}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -734,6 +729,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1600009
       objectReference: {fileID: 0}
+    - target: {fileID: 2832371070021653816, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: anim
+      value: 
+      objectReference: {fileID: 7962493365372382051}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -744,11 +749,6 @@ PrefabInstance:
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
       value: SetTrigger
       objectReference: {fileID: 0}
-    - target: {fileID: 2832371070021653816, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: anim
-      value: 
-      objectReference: {fileID: 7962493365372382051}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3da4b92c0a12f74eb32b2e317c4082a, type: 3}
 --- !u!1 &1951646631 stripped
@@ -1157,6 +1157,11 @@ PrefabInstance:
       propertyPath: OnInteract.m_PersistentCalls.m_Calls.Array.data[6].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 7962493365458169310, guid: 694f3a3a6dfd5e849b97c1d244218018,
+        type: 3}
+      propertyPath: dialogueimage
+      value: 
+      objectReference: {fileID: 7962493365372382052}
     - target: {fileID: 7678937481017763469, guid: 694f3a3a6dfd5e849b97c1d244218018,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.size
@@ -2607,6 +2612,21 @@ PrefabInstance:
       propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[6].m_Arguments.m_StringArgument
       value: Zombie_Maul
       objectReference: {fileID: 0}
+    - target: {fileID: 6213625239142227892, guid: 694f3a3a6dfd5e849b97c1d244218018,
+        type: 3}
+      propertyPath: dialogueimage
+      value: 
+      objectReference: {fileID: 7962493365372382052}
+    - target: {fileID: 7962493365641986042, guid: 694f3a3a6dfd5e849b97c1d244218018,
+        type: 3}
+      propertyPath: dialogueimage
+      value: 
+      objectReference: {fileID: 7962493365372382052}
+    - target: {fileID: 7962493365995530495, guid: 694f3a3a6dfd5e849b97c1d244218018,
+        type: 3}
+      propertyPath: dialogueimage
+      value: 
+      objectReference: {fileID: 7962493365372382052}
     m_RemovedComponents:
     - {fileID: 2279664416130307063, guid: 694f3a3a6dfd5e849b97c1d244218018, type: 3}
     - {fileID: 1174588614857497857, guid: 694f3a3a6dfd5e849b97c1d244218018, type: 3}
