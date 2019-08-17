@@ -210,6 +210,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  dialogueimage: {fileID: 0}
 --- !u!65 &4568772123712250416
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -389,6 +390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsOpen: {fileID: 11400000, guid: 3ea66374e4d21e14c92009cf459cbf6d, type: 2}
+  anim: {fileID: 0}
 --- !u!114 &4382415358336122450
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2311,6 +2313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsOpen: {fileID: 11400000, guid: 0b125576a43455c43b55b66f0a61c982, type: 2}
+  anim: {fileID: 0}
 --- !u!65 &4568772123989247838
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8676,6 +8679,10 @@ PrefabInstance:
       propertyPath: DetectiveNoteButtons.Array.data[14]
       value: 
       objectReference: {fileID: 8916704391977063999}
+    - target: {fileID: 529336433, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 528889155, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: TextBox
       value: 
@@ -8952,7 +8959,7 @@ PrefabInstance:
       objectReference: {fileID: 4568772123556180901}
     - target: {fileID: 34776403, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 950029798369820358, guid: 23dc72362010a5b4d94cd71e6c8fb8ad,
         type: 3}
@@ -11725,24 +11732,25 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 116105632, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: m_Color.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 116105632, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: m_Color.g
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 116105632, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: m_Color.b
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 116105632, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: m_Color.a
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 116105632, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 21300016, guid: 92337498e9f61194d842b8f9fc2ee742,
+        type: 3}
     - target: {fileID: 262552308, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
       propertyPath: m_Color.r
       value: 0
@@ -11843,6 +11851,18 @@ PrefabInstance:
       propertyPath: graphic
       value: 
       objectReference: {fileID: 4568772123711261172}
+    - target: {fileID: 115399379, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 621507188, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -65.25293
+      objectReference: {fileID: 0}
+    - target: {fileID: 621507188, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 200.94022
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 23dc72362010a5b4d94cd71e6c8fb8ad, type: 3}
 --- !u!4 &3623327436331082387 stripped
@@ -13706,7 +13726,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 4568772124066356308}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 

@@ -364,6 +364,12 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1032863654}
   m_PrefabAsset: {fileID: 0}
+--- !u!23 &528168783 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2300046, guid: f160c81edc016424db1e182085090603,
+    type: 3}
+  m_PrefabInstance: {fileID: 1032863654}
+  m_PrefabAsset: {fileID: 0}
 --- !u!64 &528168785
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -590,6 +596,12 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1032863654}
   m_PrefabAsset: {fileID: 0}
+--- !u!23 &999711336 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2300022, guid: f160c81edc016424db1e182085090603,
+    type: 3}
+  m_PrefabInstance: {fileID: 1032863654}
+  m_PrefabAsset: {fileID: 0}
 --- !u!64 &999711338
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -615,9 +627,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Doctor's Office (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100036, guid: f160c81edc016424db1e182085090603, type: 3}
+      propertyPath: m_Name
+      value: Wall_02_new
+      objectReference: {fileID: 0}
     - target: {fileID: 100044, guid: f160c81edc016424db1e182085090603, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100062, guid: f160c81edc016424db1e182085090603, type: 3}
+      propertyPath: m_Name
+      value: Wall_01_new
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f160c81edc016424db1e182085090603, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2894,6 +2914,66 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7371d40473fdbea4597d25a438a7c823, type: 2}
+    - target: {fileID: 6666005226688475933, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 528168783}
+    - target: {fileID: 6666005226688475933, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666005226915942584, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 999711336}
+    - target: {fileID: 6666005226915942584, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666005227719757414, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 999711336}
+    - target: {fileID: 6666005227719757414, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666005227848471192, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 999711336}
+    - target: {fileID: 6666005227848471192, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666005227946169297, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 528168783}
+    - target: {fileID: 6666005227946169297, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
+    - target: {fileID: 6666005228491905486, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 999711336}
+    - target: {fileID: 6666005228491905486, guid: c7316f72063abd043b07ea55629de095,
+        type: 3}
+      propertyPath: EnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6960893134329082880, guid: c7316f72063abd043b07ea55629de095, type: 3}
     - {fileID: 6382459515045409757, guid: c7316f72063abd043b07ea55629de095, type: 3}

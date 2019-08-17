@@ -74,6 +74,7 @@ public class Inventory_Display : MonoBehaviour
 
     public void OpenInventory()
     {
+        Debug.Log("Open");
         InventoryUI.SetActive(true);
         Initialize();
         SetKeyList();

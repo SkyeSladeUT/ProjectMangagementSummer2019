@@ -182,7 +182,7 @@ public class dialouge_script : MonoBehaviour
             Character_Text.text = "";
             Dialouge_Object.SetActive(false);
             ConvStart = false;
-            audio.Stop();
+            audio.Pause();
             FinishConv.Invoke();
             EndDialouge.Action.Invoke();
         }
@@ -220,7 +220,7 @@ public class dialouge_script : MonoBehaviour
         Dialouge_Text.text = "";
         Character_Text.text = "";
         Dialouge_Object.SetActive(false);
-        audio.Stop();
+        audio.Pause();
         OnChoiceSelectStart.Invoke(); 
         ConvStart = false;
     }
@@ -261,7 +261,7 @@ public class dialouge_script : MonoBehaviour
                 break;
             case '3':
                 ConvStart = false;
-                audio.Stop();
+                audio.Pause();
                 StopConv.Invoke();
                 break;
             case '4' :
@@ -303,7 +303,7 @@ public class dialouge_script : MonoBehaviour
             if (charactername == CharacterNames[i])
             {
                 if(CharacterSounds[i] == null)
-                    audio.Stop();
+                    audio.Pause();
                 else
                 {
                     audio.clip = CharacterSounds[i];
@@ -321,6 +321,6 @@ public class dialouge_script : MonoBehaviour
     public void SetNullCharacter()
     {
         Dialogue_image.color = CharacterColors[CharacterColors.Count - 1];
-        audio.Stop();
+        audio.Pause();
     }
 }
