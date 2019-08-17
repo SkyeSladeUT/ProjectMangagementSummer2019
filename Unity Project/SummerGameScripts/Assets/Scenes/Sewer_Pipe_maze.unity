@@ -120,6 +120,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2442724137462155245}
     m_Modifications:
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -191,16 +201,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 652f9db3ecde6624eb6a519356a607a3,
         type: 2}
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -225,6 +225,108 @@ MonoBehaviour:
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &38068490 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2779686293338081798, guid: a1a5c767a3258e74689554ebeb1b1d16,
+    type: 3}
+  m_PrefabInstance: {fileID: 2442724137462155240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &38068496
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38068490}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.15
+  m_Pitch: 0.5
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 0.25
+  MaxDistance: 10
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!114 &41869376 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2442724137615733132, guid: a1a5c767a3258e74689554ebeb1b1d16,
@@ -754,6 +856,108 @@ MonoBehaviour:
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1157769039 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6747801206078883001, guid: a1a5c767a3258e74689554ebeb1b1d16,
+    type: 3}
+  m_PrefabInstance: {fileID: 2442724137462155240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &1157769045
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1157769039}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.15
+  m_Pitch: 0.5
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 0.25
+  MaxDistance: 10
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1221354513 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2442724136888028184, guid: a1a5c767a3258e74689554ebeb1b1d16,
@@ -784,6 +988,108 @@ MonoBehaviour:
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1344318710 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2779686292889694882, guid: a1a5c767a3258e74689554ebeb1b1d16,
+    type: 3}
+  m_PrefabInstance: {fileID: 2442724137462155240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &1344318716
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1344318710}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.15
+  m_Pitch: 0.5
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 0.25
+  MaxDistance: 10
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!114 &1479160599 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2442724136774142527, guid: a1a5c767a3258e74689554ebeb1b1d16,
@@ -821,6 +1127,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2442724137462155245}
     m_Modifications:
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -896,11 +1207,6 @@ PrefabInstance:
       propertyPath: anim
       value: 
       objectReference: {fileID: 1499994793}
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -937,6 +1243,108 @@ MonoBehaviour:
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1521173271 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2779686292766904555, guid: a1a5c767a3258e74689554ebeb1b1d16,
+    type: 3}
+  m_PrefabInstance: {fileID: 2442724137462155240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &1521173277
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1521173271}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.15
+  m_Pitch: 0.5
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 0.25
+  MaxDistance: 10
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!114 &1582722007 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2442724138577298897, guid: a1a5c767a3258e74689554ebeb1b1d16,
@@ -1183,6 +1591,230 @@ MonoBehaviour:
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &2076454260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2076454263}
+  - component: {fileID: 2076454262}
+  - component: {fileID: 2076454261}
+  m_Layer: 0
+  m_Name: Audio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &2076454261
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076454260}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 77879f1a8f180a7499d31ca2f8301339, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.15
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!82 &2076454262
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076454260}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 36550227c00c82a43a31b77e75a1194b, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.05
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &2076454263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2076454260}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.245132, y: -15.6649685, z: 16.99942}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2100257066
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1287,6 +1919,361 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Sewer_Maze_Prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.size
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.size
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.size
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.size
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: InventoryUI
+      value: 
+      objectReference: {fileID: 1221354513}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectListUI
+      value: 
+      objectReference: {fileID: 841268656}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteListUI
+      value: 
+      objectReference: {fileID: 1506058832}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyListUI
+      value: 
+      objectReference: {fileID: 1868790363}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteUI
+      value: 
+      objectReference: {fileID: 1482345229}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: InformationDisplay
+      value: 
+      objectReference: {fileID: 1590432494}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[0]
+      value: 
+      objectReference: {fileID: 1585980657}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[1]
+      value: 
+      objectReference: {fileID: 1068450598}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[2]
+      value: 
+      objectReference: {fileID: 930809344}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[3]
+      value: 
+      objectReference: {fileID: 112071625}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[4]
+      value: 
+      objectReference: {fileID: 1808828591}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[5]
+      value: 
+      objectReference: {fileID: 873475319}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[6]
+      value: 
+      objectReference: {fileID: 713554608}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[7]
+      value: 
+      objectReference: {fileID: 1479160599}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[8]
+      value: 
+      objectReference: {fileID: 1508073246}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[9]
+      value: 
+      objectReference: {fileID: 799193720}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[10]
+      value: 
+      objectReference: {fileID: 1606913003}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[11]
+      value: 
+      objectReference: {fileID: 1604795743}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[12]
+      value: 
+      objectReference: {fileID: 512029278}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[13]
+      value: 
+      objectReference: {fileID: 542616916}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: ObjectButtons.Array.data[14]
+      value: 
+      objectReference: {fileID: 1262089936}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[0]
+      value: 
+      objectReference: {fileID: 1736859428}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[1]
+      value: 
+      objectReference: {fileID: 937820625}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[2]
+      value: 
+      objectReference: {fileID: 41869376}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[3]
+      value: 
+      objectReference: {fileID: 498330830}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[4]
+      value: 
+      objectReference: {fileID: 552426926}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[5]
+      value: 
+      objectReference: {fileID: 1847410171}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[6]
+      value: 
+      objectReference: {fileID: 2105005306}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[7]
+      value: 
+      objectReference: {fileID: 1834845736}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[8]
+      value: 
+      objectReference: {fileID: 864009844}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[9]
+      value: 
+      objectReference: {fileID: 428230105}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[10]
+      value: 
+      objectReference: {fileID: 1141328605}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[11]
+      value: 
+      objectReference: {fileID: 372063607}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[12]
+      value: 
+      objectReference: {fileID: 706148874}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[13]
+      value: 
+      objectReference: {fileID: 628944197}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: NoteButtons.Array.data[14]
+      value: 
+      objectReference: {fileID: 1818536340}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[0]
+      value: 
+      objectReference: {fileID: 151292027}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[1]
+      value: 
+      objectReference: {fileID: 1480223377}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[2]
+      value: 
+      objectReference: {fileID: 554159251}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[3]
+      value: 
+      objectReference: {fileID: 491660177}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[4]
+      value: 
+      objectReference: {fileID: 703119173}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[5]
+      value: 
+      objectReference: {fileID: 571593117}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[6]
+      value: 
+      objectReference: {fileID: 457821484}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[7]
+      value: 
+      objectReference: {fileID: 1819395220}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[8]
+      value: 
+      objectReference: {fileID: 902645617}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[9]
+      value: 
+      objectReference: {fileID: 1582722007}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[10]
+      value: 
+      objectReference: {fileID: 829158655}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[11]
+      value: 
+      objectReference: {fileID: 493125967}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[12]
+      value: 
+      objectReference: {fileID: 1637735199}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[13]
+      value: 
+      objectReference: {fileID: 627957511}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: KeyButtons.Array.data[14]
+      value: 
+      objectReference: {fileID: 20558571}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[0]
+      value: 
+      objectReference: {fileID: 2020230238}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[1]
+      value: 
+      objectReference: {fileID: 2035706561}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[2]
+      value: 
+      objectReference: {fileID: 473347682}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[3]
+      value: 
+      objectReference: {fileID: 915893612}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[4]
+      value: 
+      objectReference: {fileID: 853409582}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[5]
+      value: 
+      objectReference: {fileID: 1595594802}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[6]
+      value: 
+      objectReference: {fileID: 2136369757}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[7]
+      value: 
+      objectReference: {fileID: 880490038}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[8]
+      value: 
+      objectReference: {fileID: 2018759836}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[9]
+      value: 
+      objectReference: {fileID: 555921350}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[10]
+      value: 
+      objectReference: {fileID: 1264658750}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[11]
+      value: 
+      objectReference: {fileID: 1097703484}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[12]
+      value: 
+      objectReference: {fileID: 757416729}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[13]
+      value: 
+      objectReference: {fileID: 664975646}
+    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: DetectiveNoteButtons.Array.data[14]
+      value: 
+      objectReference: {fileID: 1900251286}
+    - target: {fileID: 2442724136888028184, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2442724137032334416, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
@@ -1798,361 +2785,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2442724136888028184, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.size
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.size
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.size
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.size
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: InventoryUI
-      value: 
-      objectReference: {fileID: 1221354513}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectListUI
-      value: 
-      objectReference: {fileID: 841268656}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteListUI
-      value: 
-      objectReference: {fileID: 1506058832}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyListUI
-      value: 
-      objectReference: {fileID: 1868790363}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteUI
-      value: 
-      objectReference: {fileID: 1482345229}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: InformationDisplay
-      value: 
-      objectReference: {fileID: 1590432494}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[0]
-      value: 
-      objectReference: {fileID: 1585980657}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[1]
-      value: 
-      objectReference: {fileID: 1068450598}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[2]
-      value: 
-      objectReference: {fileID: 930809344}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[3]
-      value: 
-      objectReference: {fileID: 112071625}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[4]
-      value: 
-      objectReference: {fileID: 1808828591}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[5]
-      value: 
-      objectReference: {fileID: 873475319}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[6]
-      value: 
-      objectReference: {fileID: 713554608}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[7]
-      value: 
-      objectReference: {fileID: 1479160599}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[8]
-      value: 
-      objectReference: {fileID: 1508073246}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[9]
-      value: 
-      objectReference: {fileID: 799193720}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[10]
-      value: 
-      objectReference: {fileID: 1606913003}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[11]
-      value: 
-      objectReference: {fileID: 1604795743}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[12]
-      value: 
-      objectReference: {fileID: 512029278}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[13]
-      value: 
-      objectReference: {fileID: 542616916}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: ObjectButtons.Array.data[14]
-      value: 
-      objectReference: {fileID: 1262089936}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[0]
-      value: 
-      objectReference: {fileID: 1736859428}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[1]
-      value: 
-      objectReference: {fileID: 937820625}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[2]
-      value: 
-      objectReference: {fileID: 41869376}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[3]
-      value: 
-      objectReference: {fileID: 498330830}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[4]
-      value: 
-      objectReference: {fileID: 552426926}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[5]
-      value: 
-      objectReference: {fileID: 1847410171}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[6]
-      value: 
-      objectReference: {fileID: 2105005306}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[7]
-      value: 
-      objectReference: {fileID: 1834845736}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[8]
-      value: 
-      objectReference: {fileID: 864009844}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[9]
-      value: 
-      objectReference: {fileID: 428230105}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[10]
-      value: 
-      objectReference: {fileID: 1141328605}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[11]
-      value: 
-      objectReference: {fileID: 372063607}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[12]
-      value: 
-      objectReference: {fileID: 706148874}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[13]
-      value: 
-      objectReference: {fileID: 628944197}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: NoteButtons.Array.data[14]
-      value: 
-      objectReference: {fileID: 1818536340}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[0]
-      value: 
-      objectReference: {fileID: 151292027}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[1]
-      value: 
-      objectReference: {fileID: 1480223377}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[2]
-      value: 
-      objectReference: {fileID: 554159251}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[3]
-      value: 
-      objectReference: {fileID: 491660177}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[4]
-      value: 
-      objectReference: {fileID: 703119173}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[5]
-      value: 
-      objectReference: {fileID: 571593117}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[6]
-      value: 
-      objectReference: {fileID: 457821484}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[7]
-      value: 
-      objectReference: {fileID: 1819395220}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[8]
-      value: 
-      objectReference: {fileID: 902645617}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[9]
-      value: 
-      objectReference: {fileID: 1582722007}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[10]
-      value: 
-      objectReference: {fileID: 829158655}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[11]
-      value: 
-      objectReference: {fileID: 493125967}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[12]
-      value: 
-      objectReference: {fileID: 1637735199}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[13]
-      value: 
-      objectReference: {fileID: 627957511}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: KeyButtons.Array.data[14]
-      value: 
-      objectReference: {fileID: 20558571}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[0]
-      value: 
-      objectReference: {fileID: 2020230238}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[1]
-      value: 
-      objectReference: {fileID: 2035706561}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[2]
-      value: 
-      objectReference: {fileID: 473347682}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[3]
-      value: 
-      objectReference: {fileID: 915893612}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[4]
-      value: 
-      objectReference: {fileID: 853409582}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[5]
-      value: 
-      objectReference: {fileID: 1595594802}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[6]
-      value: 
-      objectReference: {fileID: 2136369757}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[7]
-      value: 
-      objectReference: {fileID: 880490038}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[8]
-      value: 
-      objectReference: {fileID: 2018759836}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[9]
-      value: 
-      objectReference: {fileID: 555921350}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[10]
-      value: 
-      objectReference: {fileID: 1264658750}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[11]
-      value: 
-      objectReference: {fileID: 1097703484}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[12]
-      value: 
-      objectReference: {fileID: 757416729}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[13]
-      value: 
-      objectReference: {fileID: 664975646}
-    - target: {fileID: 2442724137910282451, guid: a1a5c767a3258e74689554ebeb1b1d16,
-        type: 3}
-      propertyPath: DetectiveNoteButtons.Array.data[14]
-      value: 
-      objectReference: {fileID: 1900251286}
     - target: {fileID: 2442724136944609714, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
       propertyPath: OnInventoryEnter.m_PersistentCalls.m_Calls.Array.size
@@ -2217,6 +2849,46 @@ PrefabInstance:
         type: 3}
       propertyPath: OnInventoryExit.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
       value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724138178982907, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724138178982907, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000000018626
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724138178982907, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0172334
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724137066423344, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724137066423344, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2442724138178982909, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8705888130726696848, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8705888130726696848, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5249654479706259690, guid: a1a5c767a3258e74689554ebeb1b1d16, type: 3}
