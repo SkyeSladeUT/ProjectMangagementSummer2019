@@ -120,16 +120,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2442724137462155245}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -201,6 +191,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 652f9db3ecde6624eb6a519356a607a3,
         type: 2}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -1127,11 +1127,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2442724137462155245}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1207,6 +1202,11 @@ PrefabInstance:
       propertyPath: anim
       value: 
       objectReference: {fileID: 1499994793}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -2889,6 +2889,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Center.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2779686292440653965, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: iswalking
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2779686293412507961, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: iswalking
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2779686293787154473, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: iswalking
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2779686293949790816, guid: a1a5c767a3258e74689554ebeb1b1d16,
+        type: 3}
+      propertyPath: iswalking
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5249654479706259690, guid: a1a5c767a3258e74689554ebeb1b1d16, type: 3}

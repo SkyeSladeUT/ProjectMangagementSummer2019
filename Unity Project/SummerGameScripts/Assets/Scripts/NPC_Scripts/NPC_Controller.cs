@@ -22,6 +22,8 @@ public class NPC_Controller : MonoBehaviour
     private float time;
     public bool isZombie;
     private string walktrigg, idletrigg;
+    public bool iswalking = false, ismisc = false;
+    private bool walkanim;
 
     private void Start()
     {
@@ -29,13 +31,26 @@ public class NPC_Controller : MonoBehaviour
         {
             walktrigg = "Zombie_Walk";
             idletrigg = "Zombie_Idle";
+            anim.SetTrigger("Zombie_Start");
         }
         else
         {
             walktrigg = "Walk";
             idletrigg = "Idle";
         }
-        anim.SetTrigger(idletrigg);
+
+        if (iswalking)
+        {
+            anim.SetTrigger(walktrigg);
+            //walkanim = true;
+        }
+        else if (!ismisc && !iswalking)
+        {
+            anim.SetTrigger(idletrigg);
+            //walkanim = false;
+        }
+
+        //anim.SetTrigger(idletrigg);
         _agent = GetComponent<NavMeshAgent>();
         _agent.destination = transform.position;
         anim = GetComponentInChildren<Animator>();
@@ -86,6 +101,8 @@ public class NPC_Controller : MonoBehaviour
             anim.SetTrigger(walktrigg);
             while (!CheckDest(.1f) && MovementType.value == "RandomWalkBetweenTimed" && time > 0)
             {
+                //anim.SetTrigger(walktrigg);
+                anim.ResetTrigger(idletrigg);
                 target.y = transform.position.y;
                 _agent.destination = target;
                 //Debug.Log(target + " " + transform.position);
@@ -93,16 +110,16 @@ public class NPC_Controller : MonoBehaviour
                 time -= Time.deltaTime;
                 if (CheckDest(.1f))
                 {
-                    anim.ResetTrigger(walktrigg);
+                    //anim.ResetTrigger(walktrigg);
                     anim.SetTrigger(idletrigg);
                 }
             }
-            anim.ResetTrigger(walktrigg);
-            anim.SetTrigger(idletrigg);
+            //anim.ResetTrigger(walktrigg);
+            //anim.SetTrigger(idletrigg);
             yield return new WaitForSeconds(Random.Range(3,5));
         }
         Debug.Log("Stop Movement: " + gameObject.name);
-        StopMovement("RandomWalkBetweenTimed");
+        //StopMovement("RandomWalkBetweenTimed");
     }
     private IEnumerator RandomWalkBetween()
     {
@@ -118,6 +135,7 @@ public class NPC_Controller : MonoBehaviour
             anim.SetTrigger(walktrigg);
             while (!CheckDest(.1f) && MovementType.value == "RandomWalkBetween")
             {
+                //anim.SetTrigger(walktrigg);
                 target.y = transform.position.y;
                 _agent.destination = target;
                 //Debug.Log(target + " " + transform.position);
@@ -125,6 +143,7 @@ public class NPC_Controller : MonoBehaviour
             }
             while (!CheckRot(5) && MovementType.value == "RandomWalkBetween")
             {
+                //anim.SetTrigger(walktrigg);
                 transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed.value * Time.deltaTime);
                 yield return new WaitForFixedUpdate();
             }
@@ -142,10 +161,11 @@ public class NPC_Controller : MonoBehaviour
         _agent.updateRotation = false;
         while (MovementType.value == "SidewaysX")
         {
+            anim.SetTrigger(walktrigg);
             target = transform.position;
             target.x = Player.transform.position.x;
             _agent.destination = target;
-            while (!CheckDest(.1f))
+            while (CheckDest(.1f))
             {
                 anim.ResetTrigger(walktrigg);
                 anim.SetTrigger(idletrigg);
@@ -153,7 +173,8 @@ public class NPC_Controller : MonoBehaviour
             }
             yield return new WaitForFixedUpdate(); 
         }
-
+        anim.ResetTrigger(idletrigg);
+        anim.SetTrigger(walktrigg);
         _agent.updateRotation = true;
     }
 
@@ -164,6 +185,7 @@ public class NPC_Controller : MonoBehaviour
         _agent.updateRotation = false;
         while (MovementType.value == "SidewaysZ")
         {
+            anim.SetTrigger(walktrigg);
             reached_dest = false;
             anim.SetTrigger(walktrigg);
             target = transform.position;
@@ -187,10 +209,14 @@ public class NPC_Controller : MonoBehaviour
         anim.SetTrigger(walktrigg);
         while (MovementType.value == "FollowPlayer")
         {
+            anim.ResetTrigger(idletrigg);
+            //anim.SetTrigger(walktrigg);
             target = Player.transform.position;
             _agent.destination = target;
             yield return new WaitForFixedUpdate();
         }
+        anim.ResetTrigger(walktrigg);
+        anim.SetTrigger(idletrigg);
     }
 
     private IEnumerator LookAtPlayer()
@@ -221,11 +247,13 @@ public class NPC_Controller : MonoBehaviour
         target = Player.transform.position;
         while (!CheckDest(3) && MovementType.value == "GoToPlayer")
         {
+            //anim.SetTrigger(walktrigg);
             _agent.destination = target;
             yield return new WaitForFixedUpdate();
         }
         while (!CheckRot(5) && MovementType.value == "GoToPlayer")
         {
+            //anim.SetTrigger(walktrigg);
             transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed.value * Time.deltaTime);
             yield return new WaitForFixedUpdate();
         }
@@ -248,12 +276,14 @@ public class NPC_Controller : MonoBehaviour
         }
         while (!CheckDest(.1f) && MovementType.value == "GoToDest")
         {
+            //anim.SetTrigger(walktrigg);
             _agent.destination = target;
 
             yield return new WaitForFixedUpdate();
         }
         while (!CheckRot(5) && MovementType.value == "GoToDest")
         {
+            //anim.SetTrigger(walktrigg);
             //Debug.Log(transform.rotation.y + " " + FacingDirection.y);
             transform.rotation = Quaternion.Lerp(transform.rotation, FacingDirection, rotateSpeed.value * Time.deltaTime);
 
@@ -315,3 +345,4 @@ public class NPC_Controller : MonoBehaviour
         target = Destination01.trans.position;
     }
 }
+

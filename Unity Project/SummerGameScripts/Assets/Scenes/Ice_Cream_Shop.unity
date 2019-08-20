@@ -495,11 +495,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7962493365372382049}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -581,6 +576,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 652f9db3ecde6624eb6a519356a607a3,
         type: 2}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -659,11 +659,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7962493365372382049}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -739,6 +734,11 @@ PrefabInstance:
       propertyPath: anim
       value: 
       objectReference: {fileID: 7962493365372382051}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -2627,6 +2627,11 @@ PrefabInstance:
       propertyPath: dialogueimage
       value: 
       objectReference: {fileID: 7962493365372382052}
+    - target: {fileID: 7962493364526078362, guid: 694f3a3a6dfd5e849b97c1d244218018,
+        type: 3}
+      propertyPath: iswalking
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2279664416130307063, guid: 694f3a3a6dfd5e849b97c1d244218018, type: 3}
     - {fileID: 1174588614857497857, guid: 694f3a3a6dfd5e849b97c1d244218018, type: 3}

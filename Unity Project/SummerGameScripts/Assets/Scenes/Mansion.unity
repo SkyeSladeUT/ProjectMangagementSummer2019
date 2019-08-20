@@ -1470,11 +1470,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Control
-      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653818, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1556,6 +1551,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 652f9db3ecde6624eb6a519356a607a3,
         type: 2}
+    - target: {fileID: 2832371070021653819, guid: e3da4b92c0a12f74eb32b2e317c4082a,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Control
+      objectReference: {fileID: 0}
     - target: {fileID: 2832371070021653817, guid: e3da4b92c0a12f74eb32b2e317c4082a,
         type: 3}
       propertyPath: InteractEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
@@ -10416,6 +10416,11 @@ PrefabInstance:
     - target: {fileID: 5725039373427759850, guid: cb85cf9009696bc4e91b32feecbdf259,
         type: 3}
       propertyPath: isZombie
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5725039373427759850, guid: cb85cf9009696bc4e91b32feecbdf259,
+        type: 3}
+      propertyPath: iswalking
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5725039372830606481, guid: cb85cf9009696bc4e91b32feecbdf259,
