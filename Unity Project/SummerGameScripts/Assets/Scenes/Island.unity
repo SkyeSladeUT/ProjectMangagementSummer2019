@@ -5149,6 +5149,26 @@ PrefabInstance:
       propertyPath: iswalking
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7308561799724920093, guid: 5bca15cb0d17f1c42b2b390b77b68526,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7308561800109422994, guid: 5bca15cb0d17f1c42b2b390b77b68526,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7308561800157229639, guid: 5bca15cb0d17f1c42b2b390b77b68526,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7308561800747153017, guid: 5bca15cb0d17f1c42b2b390b77b68526,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7308561801720653355, guid: 5bca15cb0d17f1c42b2b390b77b68526, type: 3}
     - {fileID: 7308561801675452542, guid: 5bca15cb0d17f1c42b2b390b77b68526, type: 3}
