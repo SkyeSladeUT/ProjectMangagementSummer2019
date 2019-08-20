@@ -14675,6 +14675,7 @@ GameObject:
   - component: {fileID: 1175639508}
   - component: {fileID: 1176933878}
   - component: {fileID: 1178069046}
+  - component: {fileID: 1175812533}
   m_Layer: 0
   m_Name: Quad__1_
   m_TagString: Untagged
@@ -14682,6 +14683,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &1175812533
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1175812532}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000001, y: 0.99999994, z: 6.123237e-17}
+  m_Center: {x: -0.000001013279, y: 0.0000004172325, z: 0.000009536743}
 --- !u!1 &1175812534
 GameObject:
   m_ObjectHideFlags: 0
@@ -14693,6 +14707,7 @@ GameObject:
   - component: {fileID: 1175639510}
   - component: {fileID: 1176933880}
   - component: {fileID: 1178069048}
+  - component: {fileID: 1175812535}
   m_Layer: 0
   m_Name: Quad
   m_TagString: Untagged
@@ -14700,6 +14715,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &1175812535
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1175812534}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000001, y: 0.99999994, z: 6.123237e-17}
+  m_Center: {x: -0.0000011324883, y: 0.0000004172325, z: 0.000009536743}
 --- !u!1 &1175812536
 GameObject:
   m_ObjectHideFlags: 0
@@ -14794,6 +14822,7 @@ GameObject:
   - component: {fileID: 1175639518}
   - component: {fileID: 1176933856}
   - component: {fileID: 1178069024}
+  - component: {fileID: 1175812543}
   m_Layer: 0
   m_Name: pCylinder1
   m_TagString: Untagged
@@ -14801,6 +14830,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &1175812543
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1175812542}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300004, guid: 2c9c74e67c266384fb70e366f6ade05d, type: 3}
 --- !u!1 &1175812544
 GameObject:
   m_ObjectHideFlags: 0
@@ -57926,7 +57969,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -58022,7 +58065,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -58118,7 +58161,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -58214,7 +58257,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.5
+  m_Volume: 0.25
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -58559,7 +58602,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.15
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 1
   Mute: 0

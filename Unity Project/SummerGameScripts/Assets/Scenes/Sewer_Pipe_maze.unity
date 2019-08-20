@@ -243,7 +243,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.15
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 1
   Mute: 0
@@ -874,7 +874,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.15
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 1
   Mute: 0
@@ -1006,7 +1006,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.15
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 1
   Mute: 0
@@ -1261,7 +1261,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 08173efc3fce1644ea5979c3c97aa4b2, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.15
+  m_Volume: 0.1
   m_Pitch: 0.5
   Loop: 1
   Mute: 0
@@ -2338,12 +2338,12 @@ PrefabInstance:
     - target: {fileID: 2442724138731279823, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.03393181
+      value: 0.033931777
       objectReference: {fileID: 0}
     - target: {fileID: 2442724138731279823, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0020175225
+      value: -0.0020175204
       objectReference: {fileID: 0}
     - target: {fileID: 2442724138731279823, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
@@ -2373,12 +2373,12 @@ PrefabInstance:
     - target: {fileID: 3069077957468647359, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.03393181
+      value: 0.033931777
       objectReference: {fileID: 0}
     - target: {fileID: 3069077957468647359, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0020175225
+      value: -0.0020175204
       objectReference: {fileID: 0}
     - target: {fileID: 3227220250299521835, guid: a1a5c767a3258e74689554ebeb1b1d16,
         type: 3}
