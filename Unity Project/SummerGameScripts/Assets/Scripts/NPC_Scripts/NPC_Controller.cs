@@ -71,7 +71,6 @@ public class NPC_Controller : MonoBehaviour
     public void Move()
     {
         Debug.Log("Start Move: " + gameObject.name);
-        anim.ResetTrigger(idletrigg);
         if (Destination01.trans != null )
         {
             FacingDirection = Destination01.trans.rotation;
@@ -80,7 +79,8 @@ public class NPC_Controller : MonoBehaviour
         reached_dest = false;
         if(anim == null)
             anim = GetComponentInChildren<Animator>();
-        anim.SetTrigger(walktrigg);
+        //anim.SetTrigger(walktrigg);
+        anim.ResetTrigger(idletrigg);
         if(_agent ==  null)
             _agent = GetComponent<NavMeshAgent>();
         _agent.speed = walkspeed.value;

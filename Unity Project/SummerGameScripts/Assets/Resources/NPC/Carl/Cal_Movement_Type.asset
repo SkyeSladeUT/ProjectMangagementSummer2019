@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd1f3286ef9bc7840b5b02dadb925f6b, type: 3}
   m_Name: Cal_Movement_Type
   m_EditorClassIdentifier: 
-  value: GoToDest
+  value: LookAtPlayer
   prevvalue: FollowPlayer
   LengthMax: 1000
